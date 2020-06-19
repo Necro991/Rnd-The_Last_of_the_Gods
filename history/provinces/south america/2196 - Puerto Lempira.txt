@@ -1,0 +1,8 @@
+trade_goods = grain
+life_rating = 32
+owner = LEN
+controller = LEN
+add_core = LEE
+add_core = LEN
+add_core = VPD
+naval_base = 1

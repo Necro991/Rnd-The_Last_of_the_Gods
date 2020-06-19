@@ -1,0 +1,134 @@
+color = { 66 145 77 }
+graphical_culture = CeltGC
+
+party = {
+	name = TOU_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = TOU_conservative_2
+	start_date = 1867.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+party = {
+	name = TOU_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+party = {
+	name = TOU_liberal
+	start_date = 1890.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = TOU_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = TOU_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = TOU_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = TOU_socialist_2
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = TOU_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = TOU_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Bouphoge" "Toideaux" "Mairpible" "Poilencignan" "Bossieux" "Dimaignan" "Maulencitiers" "Couges" "Pointublay" "Toissieux" "Liges" "Brentaulle" "Oge" "Perpiris" "Bremaignon" "Orpilles" "Beaugounne" "Dirleblay" "Pachelle" "Poinne" "Bolencivoie" "Courpige" "Rounossieux" "Chaville" "Toiron" "Mailles" "Aurmailles" "Peblay" "Mantenne" "Toitieblay" "Mallier" "Mamaiville" "Ouris" "Poirlence" "Mantaugne" "Pugnan" "Toitiers" "Argermaijon" "Lige" "Ounodeaux" "Brence" "Avinissieux" "Maigoublay" "Putiers" "Toiricre" "Quentuge" "Linteris" "Roulojon" "Brelordeaux" "Ogrecon" 
+	}
+	ironclad = {
+		"Puriege" "Panain" "Liron" "Maigounne" "Maumaiville" "Toulordeaux" "Chage" "Douseillier" "Beaunogne" "Peblay" "Argemaigne" "Roulle" "Oville" "Ebourg" "Bonne" "Boumoris" "Patiers" "Dillier" "Peble" "Toignan" "Virieges" "Rourmaignon" "Vince" "Poiseige" "Eron" "Mauent" "Poiges" "Beauble" "Aurpibourg" "Penige" "Avibourg" "Diseilles" "Matieville" "Rouron" "Palencince" "Elodeaux" "Poirpirdeaux" "Bouvoie" "Toitiellier" "Touvoie" "Vissieux" "Dousairon" "Pagnon" "Dimovoie" "Doumoris" "Chacon" "Onibourg" "Pellier" "Couge" "Maulochelle" 
+	}
+	manowar = {
+		"Coulles" "Argesaignan" "Boulobourg" "Toible" "Aviron" "Pugne" "Rouville" "Brerlerdeaux" "Peble" "Vibourg" "Touges" "Ouphoris" "Bormaideaux" "Vintege" "Oumonne" "Quedeaux" "Pentegnan" "Toiteaux" "Ountubourg" "Argentessieux" "Chages" "Couge" "Mauges" "Toitiegnon" "Coulle" "Maintauent" "Beausairicre" "Chanoville" "Erpissieux" "Auphognan" "Pugnan" "Boloent" "Maitienain" "Dirpille" "Toiron" "Quegnan" "Cougnan" "Roumaignon" "Vintunne" "Boris" "Toimaissieux" "Auvoie" "Cougne" "Mailencicon" "Vissieux" "Bormaige" "Argenideaux" "Avince" "Maiphognon" "Toinain" 
+	}
+	cruiser = {
+		"Lille" "Avillier" "Brellier" "Roussieux" "Audeaux" "Massieux" "Argege" "Maubourg" "Mardeaux" "Couville" "Ougnon" "Vitiers" "Bouseient" "Maussieux" "Chance" "Argentucon" "Punne" "Panturdeaux" "Beaulochelle" "Orpiris" "Boulollier" "Liseince" "Viris" "Auntegnan" "Masaignon" "Peseilles" "Vinoron" "Echelle" "Linoville" "Avinne" "Charon" "Boble" "Pasaient" "Petiers" "Perieris" "Oges" "Beaugne" "Doulles" "Permainain" "Oges" "Coulognan" "Douriechelle" "Vinain" "Touteaux" "Purieron" "Ountaulle" "Punne" "Olognan" "Mantebourg" "Touphocon" 
+	}
+	frigate = {
+		"Dousainne" "Vilenciron" "Counce" "Avigrerdeaux" "Beauville" "Maricre" "Aumoble" "Vitiers" "Challe" "Puricre" "Penain" "Ounce" "Vivoie" "Beaurpinne" "Dirlelles" "Ouchelle" "Maunille" "Ossieux" "Rounteris" "Aulencible" "Puchelle" "Ousairicre" "Ephossieux" "Libourg" "Onobourg" "Rouent" "Aunteron" "Aussieux" "Pagrejon" "Ourievoie" "Bobourg" "Oge" "Poigrericre" "Mamaigne" "Chajon" "Tounain" "Bouseille" "Quebourg" "Lirdeaux" "Querpilles" "Dilles" "Paseirdeaux" "Pence" "Chaseiricre" "Maiteaux" "Ocon" "Rounain" "Ognon" "Brelotiers" "Maigreblay" 
+	}
+	monitor = {
+		"Douseigne" "Lillier" "Bounobourg" "Routiers" "Perlechelle" "Argentaubourg" "Mailognan" "Pulenciteaux" "Autiers" "Poichelle" "Pullier" "Avivoie" "Pacon" "Perlecon" "Douseince" "Pence" "Puntauville" "Breble" "Dintuent" "Brentugnon" "Dichelle" "Olencirdeaux" "Vilencignon" "Pemognon" "Pecon" "Argeent" "Pemaichelle" "Mauninne" "Avintedeaux" "Manossieux" "Routiers" "Dinilles" "Lichelle" "Argeron" "Roulencibourg" "Chamaiges" "Pedeaux" "Bouphojon" "Rouloron" "Querdeaux" "Douseiges" "Avicon" "Olle" "Ourpirdeaux" "Avijon" "Courleteaux" "Entebourg" "Bregnan" "Vivoie" "Beaurpillier" 
+	}
+}

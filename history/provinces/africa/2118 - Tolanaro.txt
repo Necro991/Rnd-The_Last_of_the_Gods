@@ -1,0 +1,7 @@
+trade_goods = iron
+life_rating = 31
+owner = INH
+controller = INH
+add_core = DON
+add_core = INH
+add_core = NGH

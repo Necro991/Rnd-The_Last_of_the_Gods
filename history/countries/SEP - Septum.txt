@@ -1,0 +1,47 @@
+capital = 2170
+primary_culture = Lolitae_tag
+religion = dxlgzfcpujvhlwej
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.05
+civilized = no
+prestige = 0
+
+# Political Reforms
+slavery = no_slavery
+vote_franschise = none_voting
+upper_house_composition = population_equal_weight
+political_parties = underground_parties
+voting_system = first_past_the_post
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# Voting:
+ruling_party = SEP_reactionary
+last_election = 1834.2.7
+upper_house = {
+	fascist = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+	liberal = 13
+	reactionary = 10
+	conservative = 77
+}
+admin_reform = yes_admin_reform
+naval_schools = yes_naval_schools
+consciousness = 0
+nonstate_consciousness = 0
+oob = "SEP_oob.txt"
+

@@ -1,0 +1,123 @@
+color = { 158 144 0 }
+graphical_culture = CeltGC
+
+party = {
+	name = SEN_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = SEN_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = SEN_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = SEN_liberal_2
+	start_date = 1911.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = SEN_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = SEN_anarcho_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = SEN_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = SEN_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = SEN_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Iconium" "Lecantiae" "Setus" "Rolitii" "Roleriae" "Caegium" "Rocapeii" "Titium" "Pendila" "Mala" "Podipeii" "Rotae" "Sebesta" "Flania" "Ausantiae" "Seni" "Flaconi" "Brilipeii" "Gavitina" "Laletium" "Aencinium" "Herleptum" "Caesantiae" "Seni" "Rodonium" "Lacugium" "Caeni" "Geni" "Rormantiae" "Gentiae" "Setium" "Pegium" "Senia" "Semutae" "Tini" "Augiotina" "Trala" "Caepeii" "Alelitium" "Caemagium" "Lentiae" "Aletii" "Hertinium" "Octasatae" "Leligium" "Bripeii" "Icoleni" "Flacusta" "Agrinia" "Caela" 
+	}
+	ironclad = {
+		"Lertama" "Essecapeii" "Aecuptum" "Landinia" "Matus" "Flatium" "Gala" "Tirtariae" "Icopeii" "Aevintiae" "Getus" "Aetium" "Macupeii" "Tertanium" "Aerinia" "Icotaptum" "Romuma" "Aurcutus" "Caeni" "Flanium" "Hersta" "Pedintiae" "Oepeii" "Gegium" "Gacani" "Lemaptum" "Icola" "Pogioni" "Pedipeii" "Robesta" "Autium" "Lentiae" "Oemariae" "Setus" "Tela" "Caela" "Lotina" "Gecasta" "Seriae" "Geptum" "Podila" "Mani" "Getium" "Senciriae" "Essetii" "Trariae" "Gelagium" "Octala" "Hermutus" "Caeluni" 
+	}
+	manowar = {
+		"Tebeptum" "Flalala" "Tiritina" "Oevetus" "Tratina" "Flaptum" "Essela" "Brigiosta" "Octanogium" "Ronia" "Senium" "Icontiae" "Gatina" "Lerila" "Alecuma" "Gania" "Agritii" "Penia" "Lepeii" "Setae" "Ganoma" "Gagium" "Tivipeii" "Octatina" "Britium" "Tratium" "Agritium" "Flanium" "Caendinium" "Septini" "Brinium" "Lema" "Oeriae" "Poriae" "Temania" "Loma" "Flantiae" "Tiptum" "Gema" "Gesariae" "Agrinium" "Brinia" "Sermagium" "Mampetina" "Matium" "Ropeii" "Aentiae" "Aema" "Flasta" "Flapeii" 
+	}
+	cruiser = {
+		"Aleditium" "Gabetii" "Aleconi" "Iconotium" "Iconi" "Geletium" "Selani" "Caerentiae" "Getus" "Polatina" "Gampepeii" "Oenium" "Lonium" "Caetatus" "Agridoriae" "Septilenium" "Caecatae" "Timania" "Agritae" "Auptum" "Icocariae" "Septircusta" "Alecunium" "Icocariae" "Caesta" "Roptum" "Roviriae" "Lermasta" "Setii" "Essetitae" "Flatae" "Octasta" "Briptum" "Latium" "Rotala" "Caemariae" "Aenium" "Poni" "Sela" "Gatina" "Senoni" "Legium" "Auncipeii" "Poni" "Lantiae" "Auma" "Esseletii" "Tranium" "Caela" "Aleptum" 
+	}
+	frigate = {
+		"Leptum" "Matae" "Icoriae" "Octatina" "Oegiriae" "Pontiae" "Alevipeii" "Octania" "Rotina" "Auntiae" "Matii" "Tratariae" "Lencini" "Aebetium" "Caeptum" "Tima" "Senia" "Penium" "Lasta" "Gamatium" "Seditina" "Agrila" "Gatus" "Trala" "Essegiogium" "Aegium" "Aulitium" "Genditium" "Pontiae" "Segitina" "Flaginia" "Esselariae" "Lercutium" "Alertanium" "Timpema" "Loptum" "Caencitina" "Auni" "Tramugium" "Essenia" "Septicutina" "Octaptum" "Tintiae" "Gamasta" "Lonia" "Agrirmantiae" "Tegium" "Bribesta" "Titus" "Caercuma" 
+	}
+	monitor = {
+		"Pepeii" "Gagium" "Auptum" "Herpeii" "Sebenium" "Potina" "Getium" "Roregium" "Ganoptum" "Audopeii" "Rotaptum" "Ponia" "Essesta" "Brinditii" "Agrintiae" "Agrisasta" "Rotina" "Leriae" "Brirtatii" "Oegiogium" "Polupeii" "Tintiae" "Tecotii" "Essetina" "Poptum" "Loriae" "Agripeii" "Aleni" "Gama" "Brinium" "Lopeii" "Britila" "Agrila" "Letapeii" "Agritii" "Tencinia" "Auriae" "Auntiae" "Iconium" "Oetus" "Icolenia" "Septircugium" "Caesta" "Icolatus" "Tralutus" "Mama" "Oelugium" "Icoriae" "Agrini" "Podoni" 
+	}
+}

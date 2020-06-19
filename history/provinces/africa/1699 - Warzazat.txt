@@ -1,0 +1,6 @@
+trade_goods = tea
+life_rating = 34
+owner = PEB
+controller = PEB
+add_core = CRN
+add_core = PEB

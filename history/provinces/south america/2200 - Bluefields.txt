@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 32
+owner = VPD
+controller = VPD
+add_core = LEE
+add_core = LEN
+add_core = VPD

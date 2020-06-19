@@ -1,0 +1,8 @@
+trade_goods = tea
+life_rating = 31
+owner = YAR
+controller = YAR
+add_core = GLY
+add_core = YLI
+add_core = YAR
+railroad = 1

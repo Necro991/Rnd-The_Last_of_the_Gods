@@ -1,0 +1,7 @@
+trade_goods = cotton
+life_rating = 33
+owner = TUY
+controller = TUY
+add_core = TUY
+add_core = DON
+add_core = LYT

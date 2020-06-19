@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 35
+owner = SUU
+controller = SUU
+add_core = SUU
+add_core = PAI

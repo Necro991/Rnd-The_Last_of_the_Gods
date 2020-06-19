@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 32
+owner = THU
+controller = THU
+add_core = DON
+add_core = THU

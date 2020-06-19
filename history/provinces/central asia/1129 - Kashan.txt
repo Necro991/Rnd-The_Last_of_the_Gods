@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 30
+owner = YAR
+controller = YAR
+add_core = YLI
+add_core = YAR
+add_core = NON

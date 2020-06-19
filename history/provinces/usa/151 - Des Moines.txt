@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 34
+owner = TET
+controller = TET
+add_core = LOG
+add_core = TET

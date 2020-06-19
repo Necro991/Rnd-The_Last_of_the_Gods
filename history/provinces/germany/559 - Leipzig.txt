@@ -1,0 +1,5 @@
+trade_goods = tea
+life_rating = 32
+owner = DUK
+controller = DUK
+add_core = DUK

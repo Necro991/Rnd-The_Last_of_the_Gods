@@ -1,0 +1,112 @@
+color = { 173 0 57 }
+graphical_culture = Generic
+
+party = {
+	name = DVD_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+party = {
+	name = DVD_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = DVD_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = DVD_liberal_2
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = DVD_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = DVD_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = DVD_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = DVD_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Ardoros" "Thesbrapolis" "Ardokos" "Kolicarnia" "Theslicarsos" "Perkrokis" "Olyzasos" "Marimeia" "Arkropolis" "Tarnaspolis" "Olynasthos" "Neakrokou" "Perrikos" "Nytilia" "Mythenai" "Sparrapolis" "Nymetion" "Olydomeia" "Kozapolis" "Thesrapolis" "Halikis" "Haphebos" "Thestheros" "Malinossos" "Neatabos" "Neadopolis" "Arbrania" "Mabranossos" "Ekakia" "Bykarkou" "Nenaskia" "Makarlia" "Nelemeia" "Bylepolis" "Haphepolis" "Hadotrias" "Nyredos" "Bytanassos" "Neasakos" "Tarramon" "Rhodosos" "Arlapolis" "Tartibos" "Olylithos" "Thernaspolis" "Nymedos" "Tarnasmeia" "Nykarmon" "Perkarnassos" "Elation" 
+	}
+	ironclad = {
+		"Olylicarkou" "Nykassos" "Arlameia" "Korepolis" "Nykasos" "Arnaskis" "Mathepolis" "Sylisos" "Malicarpolis" "Neareros" "Nekaros" "Sparnaspolis" "Armepolis" "Perralia" "Mynasdos" "Sparthedos" "Olykrokis" "Therphepolis" "Arnaskis" "Nekrotrias" "Halikos" "Manaspolis" "Erimeia" "Arphekos" "Erelene" "Perphepolis" "Madopolis" "Nysakis" "Sparmelene" "Kytilene" "Kophethos" "Sylabos" "Kylipolis" "Myribos" "Masalene" "Kykarnia" "Perlanion" "Olyphesos" "Nyralia" "Olylicarros" "Arrekis" "Kodomon" "Byzanai" "Sylithos" "Neaphekos" "Makrokou" "Therdonossos" "Maripolis" "Haripolis" "Olydolene" 
+	}
+	manowar = {
+		"Theskaskis" "Tarphemeia" "Aphenai" "Nekropolis" "Olyrados" "Artimeia" "Mylicarthos" "Mathemeia" "Nekarnia" "Sparrepolis" "Rhorenia" "Bylicarnassos" "Tarrabos" "Thertikia" "Tarmepolis" "Rhozathos" "Thesremeia" "Bykakos" "Neathekou" "Sparrikia" "Bykrokis" "Therbrakis" "Thesmenai" "Arlaros" "Symekis" "Tartikis" "Therkasros" "Nelibos" "Nekasmon" "Kynasnion" "Anassos" "Kodokis" "Mythekou" "Sykabos" "Neatania" "Elanion" "Byphethos" "Kokaslia" "Spartados" "Nekrokos" "Syphedos" "Korapolis" "Sykaskos" "Tarramon" "Arkakis" "Symelene" "Thertinia" "Kymesos" "Komedos" "Kykanassos" 
+	}
+	cruiser = {
+		"Pernasnai" "Rhorabos" "Arkaslene" "Ekarkis" "Akrokia" "Sparmesos" "Tarlicarpolis" "Therzabos" "Thernaspolis" "Perrinion" "Nenasdos" "Akarnossos" "Maphelene" "Sparribos" "Arlilene" "Ekromon" "Byrinion" "Olykaspolis" "Akapolis" "Anasnassos" "Ephepolis" "Therkaskou" "Nekassos" "Olysasos" "Olykasbos" "Neasamon" "Therreros" "Syresos" "Byphekis" "Thesridos" "Kytaros" "Madopolis" "Bykroros" "Maphepolis" "Arkronia" "Abrasos" "Syrenossos" "Olysalia" "Bytikou" "Neathenion" "Makarkos" "Koribos" "Habrathos" "Nelicarlia" "Ardopolis" "Olykamon" "Ekalia" "Rholakis" "Rholicarpolis" "Erameia" 
+	}
+	frigate = {
+		"Netisos" "Sparkrolia" "Byrados" "Tarkropolis" "Mytiros" "Mytabos" "Kykronion" "Emedos" "Ardoros" "Tarlibos" "Sparlekos" "Nykasnia" "Sparzation" "Kokania" "Perlebos" "Manasnion" "Tarlicarkis" "Olylinai" "Nyphetrias" "Edonia" "Nynaslia" "Neakapolis" "Artapolis" "Kolisos" "Sylalene" "Ebrania" "Therlesos" "Tarnaspolis" "Rhotakou" "Kythelene" "Ezaros" "Sparsamon" "Tarlenossos" "Bykaspolis" "Therbrathos" "Arkasnai" "Masapolis" "Kydosos" "Nearanion" "Kymethos" "Olysabos" "Olysapolis" "Kynaskos" "Arbrapolis" "Koresos" "Mabrapolis" "Kyzanossos" "Rholesos" "Sparlekia" "Bylekos" 
+	}
+	monitor = {
+		"Sylebos" "Nymepolis" "Neakarkis" "Kosasos" "Neakarmeia" "Nylicarkos" "Marikis" "Nybrasos" "Tarmetrias" "Kotados" "Hakaspolis" "Sybralia" "Perripolis" "Netisos" "Nylition" "Perthedos" "Artipolis" "Rhobralia" "Tardobos" "Matipolis" "Pertakia" "Rholipolis" "Arapolis" "Bymedos" "Kydosos" "Byphesos" "Erilia" "Therlepolis" "Esapolis" "Olynaspolis" "Thernassos" "Kymekou" "Tarbrapolis" "Nemelene" "Bykrosos" "Sylicarlene" "Bylakou" "Mykronossos" "Sysados" "Kolepolis" "Arpheros" "Therphetrias" "Kosasos" "Tarkrosos" "Mazakis" "Olyrenassos" "Rhozapolis" "Neatibos" "Kydoros" "Theskaslia" 
+	}
+}

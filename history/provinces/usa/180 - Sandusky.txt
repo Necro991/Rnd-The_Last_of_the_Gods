@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 35
+owner = TED
+controller = TED
+add_core = TED
+add_core = ALE

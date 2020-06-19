@@ -1,0 +1,60 @@
+
+army = {
+	name = "1. Army"
+
+	location = 2650
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 2680
+	}
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 1086
+	}
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 1072
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 2667
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 2658
+	regiment = {
+		name = "3. Infantry"
+
+		type = infantry
+		home = 2638
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 2641
+	ship = {
+		name = "HMS Austfjall"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+}

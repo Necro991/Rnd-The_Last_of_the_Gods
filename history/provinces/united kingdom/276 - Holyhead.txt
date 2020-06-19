@@ -1,0 +1,5 @@
+trade_goods = fish
+life_rating = 33
+owner = GUL
+controller = GUL
+add_core = GUL

@@ -1,0 +1,5 @@
+trade_goods = fish
+life_rating = 35
+owner = SUU
+controller = SUU
+add_core = SUU

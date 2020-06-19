@@ -1,0 +1,8 @@
+trade_goods = opium
+life_rating = 33
+owner = AND
+controller = AND
+add_core = AND
+add_core = ATN
+add_core = HLA
+naval_base = 1

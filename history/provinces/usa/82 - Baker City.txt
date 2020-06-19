@@ -1,0 +1,7 @@
+trade_goods = iron
+life_rating = 34
+owner = KOS
+controller = KOS
+add_core = NYL
+add_core = KOS
+add_core = JLF

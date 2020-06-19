@@ -1,0 +1,12 @@
+trade_goods = grain
+life_rating = 30
+owner = BEN
+controller = BEN
+add_core = GIO
+add_core = BEN
+add_core = ALT
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}

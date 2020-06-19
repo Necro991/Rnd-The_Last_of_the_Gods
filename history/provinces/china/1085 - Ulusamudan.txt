@@ -1,0 +1,6 @@
+trade_goods = coal
+life_rating = 33
+owner = ATN
+controller = ATN
+add_core = ATN
+add_core = HLA

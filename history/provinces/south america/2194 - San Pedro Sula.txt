@@ -1,0 +1,8 @@
+trade_goods = grain
+life_rating = 32
+owner = HEM
+controller = HEM
+add_core = LEE
+add_core = KEN
+add_core = HEM
+naval_base = 1

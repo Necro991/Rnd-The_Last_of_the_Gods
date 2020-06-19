@@ -1,0 +1,746 @@
+
+army = {
+	name = "1. Army"
+
+	location = 1915
+	regiment = {
+		name = "1. Infantry"
+
+		type = irregular
+		home = 523
+	}
+	regiment = {
+		name = "2. Infantry"
+
+		type = irregular
+		home = 1911
+	}
+	regiment = {
+		name = "3. Infantry"
+
+		type = irregular
+		home = 2135
+	}
+	regiment = {
+		name = "4. Infantry"
+
+		type = irregular
+		home = 1796
+	}
+	regiment = {
+		name = "5. Infantry"
+
+		type = irregular
+		home = 1779
+	}
+	regiment = {
+		name = "6. Infantry"
+
+		type = irregular
+		home = 1716
+	}
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 1887
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 1715
+	regiment = {
+		name = "7. Infantry"
+
+		type = irregular
+		home = 1691
+	}
+	regiment = {
+		name = "8. Infantry"
+
+		type = irregular
+		home = 1705
+	}
+	regiment = {
+		name = "9. Infantry"
+
+		type = irregular
+		home = 514
+	}
+	regiment = {
+		name = "10. Infantry"
+
+		type = irregular
+		home = 467
+	}
+	regiment = {
+		name = "11. Infantry"
+
+		type = irregular
+		home = 1715
+	}
+	regiment = {
+		name = "12. Infantry"
+
+		type = irregular
+		home = 1686
+	}
+	regiment = {
+		name = "13. Infantry"
+
+		type = irregular
+		home = 1775
+	}
+	regiment = {
+		name = "14. Infantry"
+
+		type = irregular
+		home = 523
+	}
+	regiment = {
+		name = "15. Infantry"
+
+		type = irregular
+		home = 507
+	}
+	regiment = {
+		name = "16. Infantry"
+
+		type = irregular
+		home = 1781
+	}
+	regiment = {
+		name = "17. Infantry"
+
+		type = irregular
+		home = 1795
+	}
+}
+
+army = {
+	name = "3. Army"
+
+	location = 505
+	regiment = {
+		name = "18. Infantry"
+
+		type = irregular
+		home = 1794
+	}
+	regiment = {
+		name = "19. Infantry"
+
+		type = irregular
+		home = 475
+	}
+	regiment = {
+		name = "20. Infantry"
+
+		type = irregular
+		home = 1785
+	}
+	regiment = {
+		name = "21. Infantry"
+
+		type = irregular
+		home = 474
+	}
+	regiment = {
+		name = "22. Infantry"
+
+		type = irregular
+		home = 508
+	}
+	regiment = {
+		name = "23. Infantry"
+
+		type = irregular
+		home = 1789
+	}
+	regiment = {
+		name = "24. Infantry"
+
+		type = irregular
+		home = 461
+	}
+	regiment = {
+		name = "2. Cavalry"
+
+		type = cavalry
+		home = 1685
+	}
+}
+
+army = {
+	name = "4. Army"
+
+	location = 452
+	regiment = {
+		name = "25. Infantry"
+
+		type = irregular
+		home = 507
+	}
+	regiment = {
+		name = "26. Infantry"
+
+		type = irregular
+		home = 1698
+	}
+	regiment = {
+		name = "27. Infantry"
+
+		type = irregular
+		home = 1900
+	}
+	regiment = {
+		name = "28. Infantry"
+
+		type = irregular
+		home = 1884
+	}
+	regiment = {
+		name = "29. Infantry"
+
+		type = irregular
+		home = 1892
+	}
+	regiment = {
+		name = "30. Infantry"
+
+		type = irregular
+		home = 1697
+	}
+	regiment = {
+		name = "31. Infantry"
+
+		type = irregular
+		home = 480
+	}
+	regiment = {
+		name = "32. Infantry"
+
+		type = irregular
+		home = 491
+	}
+	regiment = {
+		name = "33. Infantry"
+
+		type = irregular
+		home = 1799
+	}
+}
+
+army = {
+	name = "5. Army"
+
+	location = 1911
+	regiment = {
+		name = "34. Infantry"
+
+		type = irregular
+		home = 526
+	}
+	regiment = {
+		name = "35. Infantry"
+
+		type = irregular
+		home = 1800
+	}
+	regiment = {
+		name = "36. Infantry"
+
+		type = irregular
+		home = 525
+	}
+	regiment = {
+		name = "37. Infantry"
+
+		type = irregular
+		home = 1909
+	}
+	regiment = {
+		name = "38. Infantry"
+
+		type = irregular
+		home = 2135
+	}
+	regiment = {
+		name = "39. Infantry"
+
+		type = irregular
+		home = 518
+	}
+	regiment = {
+		name = "40. Infantry"
+
+		type = irregular
+		home = 485
+	}
+	regiment = {
+		name = "41. Infantry"
+
+		type = irregular
+		home = 1780
+	}
+}
+
+army = {
+	name = "6. Army"
+
+	location = 1902
+	regiment = {
+		name = "42. Infantry"
+
+		type = irregular
+		home = 469
+	}
+	regiment = {
+		name = "43. Infantry"
+
+		type = irregular
+		home = 1684
+	}
+	regiment = {
+		name = "44. Infantry"
+
+		type = irregular
+		home = 1919
+	}
+	regiment = {
+		name = "45. Infantry"
+
+		type = irregular
+		home = 512
+	}
+	regiment = {
+		name = "46. Infantry"
+
+		type = irregular
+		home = 1684
+	}
+	regiment = {
+		name = "47. Infantry"
+
+		type = irregular
+		home = 525
+	}
+	regiment = {
+		name = "48. Infantry"
+
+		type = irregular
+		home = 1911
+	}
+	regiment = {
+		name = "49. Infantry"
+
+		type = irregular
+		home = 1790
+	}
+	regiment = {
+		name = "50. Infantry"
+
+		type = irregular
+		home = 497
+	}
+	regiment = {
+		name = "51. Infantry"
+
+		type = irregular
+		home = 720
+	}
+	regiment = {
+		name = "52. Infantry"
+
+		type = irregular
+		home = 497
+	}
+}
+
+army = {
+	name = "7. Army"
+
+	location = 1785
+	regiment = {
+		name = "53. Infantry"
+
+		type = irregular
+		home = 1887
+	}
+	regiment = {
+		name = "54. Infantry"
+
+		type = irregular
+		home = 1803
+	}
+	regiment = {
+		name = "55. Infantry"
+
+		type = irregular
+		home = 495
+	}
+	regiment = {
+		name = "56. Infantry"
+
+		type = irregular
+		home = 1720
+	}
+	regiment = {
+		name = "57. Infantry"
+
+		type = irregular
+		home = 1681
+	}
+}
+
+army = {
+	name = "8. Army"
+
+	location = 514
+	regiment = {
+		name = "58. Infantry"
+
+		type = irregular
+		home = 1911
+	}
+	regiment = {
+		name = "59. Infantry"
+
+		type = irregular
+		home = 1717
+	}
+	regiment = {
+		name = "60. Infantry"
+
+		type = irregular
+		home = 483
+	}
+	regiment = {
+		name = "61. Infantry"
+
+		type = irregular
+		home = 1690
+	}
+	regiment = {
+		name = "62. Infantry"
+
+		type = irregular
+		home = 526
+	}
+	regiment = {
+		name = "63. Infantry"
+
+		type = irregular
+		home = 1777
+	}
+	regiment = {
+		name = "64. Infantry"
+
+		type = irregular
+		home = 1716
+	}
+	regiment = {
+		name = "65. Infantry"
+
+		type = irregular
+		home = 2563
+	}
+	regiment = {
+		name = "3. Cavalry"
+
+		type = cavalry
+		home = 469
+	}
+}
+
+army = {
+	name = "9. Army"
+
+	location = 480
+	regiment = {
+		name = "66. Infantry"
+
+		type = irregular
+		home = 1789
+	}
+	regiment = {
+		name = "67. Infantry"
+
+		type = irregular
+		home = 448
+	}
+	regiment = {
+		name = "68. Infantry"
+
+		type = irregular
+		home = 1789
+	}
+	regiment = {
+		name = "69. Infantry"
+
+		type = irregular
+		home = 461
+	}
+	regiment = {
+		name = "70. Infantry"
+
+		type = irregular
+		home = 1681
+	}
+	regiment = {
+		name = "71. Infantry"
+
+		type = irregular
+		home = 1704
+	}
+	regiment = {
+		name = "72. Infantry"
+
+		type = irregular
+		home = 1902
+	}
+	regiment = {
+		name = "73. Infantry"
+
+		type = irregular
+		home = 452
+	}
+	regiment = {
+		name = "74. Infantry"
+
+		type = irregular
+		home = 1906
+	}
+	regiment = {
+		name = "75. Infantry"
+
+		type = irregular
+		home = 453
+	}
+	regiment = {
+		name = "76. Infantry"
+
+		type = irregular
+		home = 1788
+	}
+	regiment = {
+		name = "4. Cavalry"
+
+		type = cavalry
+		home = 468
+	}
+}
+
+army = {
+	name = "10. Army"
+
+	location = 1697
+	regiment = {
+		name = "77. Infantry"
+
+		type = irregular
+		home = 506
+	}
+	regiment = {
+		name = "78. Infantry"
+
+		type = irregular
+		home = 1809
+	}
+	regiment = {
+		name = "79. Infantry"
+
+		type = irregular
+		home = 476
+	}
+	regiment = {
+		name = "80. Infantry"
+
+		type = irregular
+		home = 1716
+	}
+	regiment = {
+		name = "81. Infantry"
+
+		type = irregular
+		home = 514
+	}
+	regiment = {
+		name = "82. Infantry"
+
+		type = irregular
+		home = 476
+	}
+	regiment = {
+		name = "5. Cavalry"
+
+		type = cavalry
+		home = 511
+	}
+}
+
+army = {
+	name = "11. Army"
+
+	location = 471
+	regiment = {
+		name = "83. Infantry"
+
+		type = irregular
+		home = 1922
+	}
+	regiment = {
+		name = "84. Infantry"
+
+		type = irregular
+		home = 1916
+	}
+	regiment = {
+		name = "85. Infantry"
+
+		type = irregular
+		home = 1883
+	}
+	regiment = {
+		name = "86. Infantry"
+
+		type = irregular
+		home = 1920
+	}
+	regiment = {
+		name = "87. Infantry"
+
+		type = irregular
+		home = 1912
+	}
+	regiment = {
+		name = "88. Infantry"
+
+		type = irregular
+		home = 492
+	}
+	regiment = {
+		name = "89. Infantry"
+
+		type = irregular
+		home = 1691
+	}
+	regiment = {
+		name = "90. Infantry"
+
+		type = irregular
+		home = 1699
+	}
+	regiment = {
+		name = "91. Infantry"
+
+		type = irregular
+		home = 2563
+	}
+	regiment = {
+		name = "92. Infantry"
+
+		type = irregular
+		home = 472
+	}
+	regiment = {
+		name = "93. Infantry"
+
+		type = irregular
+		home = 486
+	}
+	regiment = {
+		name = "6. Cavalry"
+
+		type = cavalry
+		home = 1910
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 514
+	ship = {
+		name = "HMS Chateau Brelodeaux"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "2. Fleet"
+
+	location = 1684
+	ship = {
+		name = "HMS Auricre-en-Mamaitiers"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Toumaijon"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Bolle"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Tointegnon"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Ouge"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "3. Fleet"
+
+	location = 513
+	ship = {
+		name = "HMS Avideaux"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Bonturdeaux"
+		type = frigate
+	}
+	ship = {
+		name = "HMS La Palle"
+		type = frigate
+	}
+	ship = {
+		name = "HMS La Parpiris"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+}

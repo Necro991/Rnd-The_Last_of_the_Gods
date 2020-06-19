@@ -1,0 +1,7 @@
+trade_goods = tea
+life_rating = 32
+owner = OVI
+controller = OVI
+add_core = OVI
+add_core = GRA
+add_core = HLA

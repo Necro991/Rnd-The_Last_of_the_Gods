@@ -1,0 +1,112 @@
+color = { 79 166 0 }
+graphical_culture = Generic
+
+party = {
+	name = YLI_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = YLI_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = YLI_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = YLI_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = jingoism
+}
+party = {
+	name = YLI_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = YLI_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = YLI_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = YLI_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Kythaggon" "Xith" "Thuthar" "Alth" "Xekub" "Thysh" "Xenon" "Mthuggon" "Xiga" "Xega" "K'yikhu" "Uraa" "Xithar" "Alth" "Ulggon" "Yonosh" "Korth" "Thyonosh" "Xikub" "Abbish" "Alth" "Yarnath" "K'gish" "Yaddirth" "L'gyga" "Haddab" "Zaoga" "K'yinon" "Yarga" "Shaggai" "Yaddiggai" "Z'y'hx" "Urath" "Yokub" "Alggon" "Kythakub" "K'girth" "Zothith" "Cykraggai" "Yarna'kai" "Yosh" "Z'y'hx" "Xinosh" "Ylidith" "Abbikhu" "Zothirth" "Thyth" "Alth" "L'gykhu" "Ko'kai" 
+	}
+	ironclad = {
+		"Konon" "Kythaggon" "Abbith" "Thyb" "Ulsh" "Zaoth" "Abbith" "Xo'hx" "Uraggon" "Thyggon" "Yuggonosh" "Uraggai" "Thyggai" "Haddath" "Mirkaggon" "Yarth" "Cykraggon" "Yorth" "K'yithar" "Zaoggon" "Thuga" "Yarnaggai" "Y'qaa" "K'yith" "Dylath" "Dylathar" "Vhokub" "Kynaggon" "K'yish" "Xekhu" "Yoth" "Yarth" "Shakhu" "Alrth" "Cykrakub" "Xith" "Z'ythar" "Kty'kai" "Thyth" "Yaddirth" "Urarth" "Kytharth" "Xith" "Ylidish" "K'yinosh" "Ylidith" "Mirkab" "Y'qanak" "Zothikub" "Shash" 
+	}
+	manowar = {
+		"Zothi'kai" "Dylaa" "Mirkab" "Xekhu" "Xo'hx" "Thyoth" "Z'ynosh" "Yarnarth" "Koth" "Alnon" "Zaoth" "Urathar" "Yarna'hx" "Glyu'kai" "Yaddinon" "Ylidi'kai" "Ylidith" "Ul'kai" "Abbinosh" "Vhokhu" "Zothi'kai" "Alth" "Glyuth" "Haddath" "Ktyggai" "Kythab" "Ulsh" "Ktynon" "Thuth" "Yosh" "Kytha'hx" "Abbith" "Ylidithar" "Alnak" "Ylidiggon" "Y'qathar" "Z'ya" "L'gynon" "Xinak" "Dylath" "Thu'kai" "Zao'hx" "Kynanon" "K'gi'hx" "Alth" "Zaokub" "Ktynak" "Xinak" "Dylanak" "Mirkath" 
+	}
+	cruiser = {
+		"Y'qa'kai" "Koggai" "Yarkhu" "Haddab" "K'yi'hx" "Yaddib" "Ylidi'kai" "Yara" "Kyna'hx" "Thysh" "Xith" "L'gynak" "Uraggon" "K'giggon" "Thyokub" "Xokub" "K'yikhu" "Kynakub" "Dylash" "Ulrth" "Xoth" "Yonon" "Yar'hx" "Ylidinak" "Yaddi'hx" "Kr'llyrth" "Kr'llyga" "Kythash" "L'gyb" "Ktyggai" "Mirkanosh" "Yarsh" "Yarnakhu" "Kynaggon" "Ulthar" "Konosh" "Mirkarth" "Y'qath" "Yuggo'kai" "Yuggo'hx" "Ulth" "Yuggoth" "Dylath" "Dylathar" "Mthuth" "Kynanosh" "Kythaa" "Vhoga" "Kr'llynon" "Alggon" 
+	}
+	frigate = {
+		"Thy'kai" "Dyla'kai" "Xinak" "Xerth" "Kr'llyth" "Yo'hx" "Uranak" "Glyu'hx" "Kynaggai" "Ktykhu" "Kyna'kai" "Kythath" "Z'yggon" "Zao'kai" "Vhonak" "Zothia" "Ktyb" "Kynathar" "Abbish" "Kythath" "Thynon" "Z'yth" "Mirkanosh" "Mirkaga" "Kynarth" "Glyukub" "Yarnath" "Yarth" "Ktyth" "Abbikub" "K'yith" "Yuggoggon" "Zothi'kai" "Xith" "Cykranak" "Kr'llynon" "Y'qanosh" "Ktysh" "Urath" "Zaoth" "Kr'llyga" "Z'yth" "Kr'llykhu" "Glyua" "Dylakub" "Abbiggai" "Vhoth" "Thynak" "Koga" "K'yiggai" 
+	}
+	monitor = {
+		"K'ginosh" "Yarkub" "K'yirth" "Thu'hx" "Glyuthar" "Z'yga" "Kytha'hx" "Cykranak" "Xoth" "Shanon" "Ktynosh" "Z'yth" "Abbith" "Ktynosh" "Ylidith" "Yarnak" "Konak" "Koa" "Shab" "Kythaggon" "Haddakub" "Mthuggon" "Zothith" "Kynanosh" "Mthush" "Uraa" "K'gib" "Thu'kai" "Yarnathar" "Urash" "Mthurth" "Vhoth" "Cykrash" "K'gi'kai" "Mirkath" "K'gi'hx" "Kty'hx" "K'yith" "Z'yga" "L'gyga" "Cykra'kai" "Xithar" "Thyokhu" "Abbib" "Ktynosh" "Kythanak" "Zothi'hx" "Kr'llysh" "Ulkhu" "Yarrth" 
+	}
+}

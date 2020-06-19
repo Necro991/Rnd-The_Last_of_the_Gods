@@ -1,0 +1,7 @@
+trade_goods = opium
+life_rating = 30
+owner = FEI
+controller = FEI
+add_core = HAU
+add_core = HLA
+add_core = FEI

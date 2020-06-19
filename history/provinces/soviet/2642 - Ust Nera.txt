@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 32
+owner = GRA
+controller = GRA
+add_core = OVI
+add_core = GRA
+add_core = HLA

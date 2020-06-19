@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 32
+owner = KTY
+controller = KTY
+add_core = HAC
+add_core = SAN

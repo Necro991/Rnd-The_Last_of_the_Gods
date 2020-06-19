@@ -1,0 +1,9 @@
+trade_goods = grain
+life_rating = 32
+owner = FAR
+controller = FAR
+add_core = SAM
+add_core = FAR
+add_core = IAY
+add_core = ROZ
+naval_base = 1

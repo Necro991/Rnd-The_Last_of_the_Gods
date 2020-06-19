@@ -1,0 +1,11 @@
+trade_goods = grain
+life_rating = 31
+owner = RAD
+controller = RAD
+add_core = SAP
+add_core = RAD
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}

@@ -1,0 +1,7 @@
+trade_goods = opium
+life_rating = 32
+owner = OVI
+controller = OVI
+add_core = OVI
+add_core = HAU
+add_core = HLA

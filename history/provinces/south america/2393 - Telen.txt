@@ -1,0 +1,9 @@
+trade_goods = fruit
+life_rating = 31
+owner = MAG
+controller = MAG
+add_core = MAG
+add_core = YTA
+add_core = KUD
+add_core = PIN
+add_core = OSU

@@ -1,0 +1,7 @@
+trade_goods = coffee
+life_rating = 30
+owner = YOK
+controller = YOK
+add_core = PIR
+add_core = YOK
+add_core = ROZ

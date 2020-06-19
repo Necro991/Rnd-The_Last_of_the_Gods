@@ -1,0 +1,10 @@
+trade_goods = wool
+life_rating = 34
+owner = RAD
+controller = RAD
+add_core = RAD
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}

@@ -1,0 +1,7 @@
+trade_goods = timber
+life_rating = 31
+owner = COR
+controller = COR
+add_core = COR
+add_core = COG
+add_core = SAN

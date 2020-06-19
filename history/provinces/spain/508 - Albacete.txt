@@ -1,0 +1,7 @@
+trade_goods = fruit
+life_rating = 30
+owner = PEB
+controller = PEB
+add_core = MAB
+add_core = PEB
+add_core = PUB

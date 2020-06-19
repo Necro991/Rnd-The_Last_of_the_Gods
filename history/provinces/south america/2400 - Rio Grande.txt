@@ -1,0 +1,8 @@
+trade_goods = grain
+life_rating = 35
+owner = RUG
+controller = RUG
+add_core = RUG
+add_core = LEE
+add_core = FRI
+naval_base = 1

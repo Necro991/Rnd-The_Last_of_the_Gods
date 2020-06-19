@@ -1,0 +1,6 @@
+trade_goods = cattle
+life_rating = 34
+owner = ODO
+controller = ODO
+add_core = KAJ
+add_core = ODO

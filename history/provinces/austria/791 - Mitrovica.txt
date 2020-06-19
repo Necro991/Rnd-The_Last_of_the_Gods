@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 32
+owner = BIP
+controller = BIP
+add_core = SOR
+add_core = KER

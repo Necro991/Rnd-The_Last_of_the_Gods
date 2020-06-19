@@ -1,0 +1,6 @@
+trade_goods = coal
+life_rating = 33
+owner = SAL
+controller = SAL
+add_core = XOG
+add_core = YLI

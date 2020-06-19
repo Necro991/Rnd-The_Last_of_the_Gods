@@ -1,0 +1,54 @@
+
+army = {
+	name = "2. Army"
+
+	location = 2199
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 2200
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 2200
+	}
+}
+
+army = {
+	name = "3. Army"
+
+	location = 2199
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 2200
+	}
+	regiment = {
+		name = "2. Cavalry"
+
+		type = cavalry
+		home = 2200
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 2199
+	ship = {
+		name = "HMS Halfseden"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+}

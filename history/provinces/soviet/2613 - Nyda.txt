@@ -1,0 +1,7 @@
+trade_goods = coal
+life_rating = 30
+owner = LEC
+controller = LEC
+add_core = ADA
+add_core = SAN
+add_core = LEC

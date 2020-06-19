@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 32
+owner = RAS
+controller = RAS
+add_core = RAS
+add_core = SAN

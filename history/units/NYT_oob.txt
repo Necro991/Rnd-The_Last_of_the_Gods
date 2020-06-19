@@ -1,0 +1,58 @@
+
+army = {
+	name = "1. Army"
+
+	location = 13
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 13
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 20
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 20
+	regiment = {
+		name = "2. Artillery"
+
+		type = artillery
+		home = 13
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 13
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "2. Fleet"
+
+	location = 13
+	ship = {
+		name = "Hametrias kai Olylicarpolis"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+}

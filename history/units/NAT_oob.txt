@@ -1,0 +1,54 @@
+
+army = {
+	name = "1. Army"
+
+	location = 1334
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 1332
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 1334
+	regiment = {
+		name = "2. Cavalry"
+
+		type = cavalry
+		home = 1587
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 1340
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 1330
+	ship = {
+		name = "HMS Harkoski"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "2. Fleet"
+
+	location = 1330
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+}

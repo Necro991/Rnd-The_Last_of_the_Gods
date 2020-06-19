@@ -1,0 +1,7 @@
+trade_goods = coal
+life_rating = 32
+owner = SOR
+controller = SOR
+add_core = SOR
+add_core = HER
+add_core = KER

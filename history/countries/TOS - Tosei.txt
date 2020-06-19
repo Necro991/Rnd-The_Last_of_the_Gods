@@ -1,0 +1,50 @@
+capital = 223
+primary_culture = Zokyo_tag
+culture = Ronia_tag
+religion = udvtiqvpxhtsoxut
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_equality
+literacy = 0.09
+civilized = no
+prestige = 0
+
+# Political Reforms
+slavery = no_slavery
+vote_franschise = none_voting
+upper_house_composition = appointed
+political_parties = non_secret_ballots
+voting_system = first_past_the_post
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# Voting:
+ruling_party = TOS_liberal
+last_election = 1832.9.19
+upper_house = {
+	fascist = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+	liberal = 0
+	reactionary = 2
+	conservative = 98
+}
+foreign_naval_officers = yes_foreign_naval_officers
+admin_reform = yes_admin_reform
+military_constructions = yes_military_constructions
+post_napoleonic_thought = 1
+consciousness = 0
+nonstate_consciousness = 0
+oob = "TOS_oob.txt"
+

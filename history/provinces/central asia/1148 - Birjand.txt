@@ -1,0 +1,8 @@
+trade_goods = cattle
+life_rating = 34
+owner = XON
+controller = XON
+add_core = GLY
+add_core = YLI
+add_core = NON
+add_core = XON

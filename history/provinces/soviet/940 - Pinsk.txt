@@ -1,0 +1,10 @@
+trade_goods = cotton
+life_rating = 33
+owner = RAD
+controller = RAD
+add_core = RAD
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}

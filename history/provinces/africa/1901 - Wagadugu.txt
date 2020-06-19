@@ -1,0 +1,6 @@
+trade_goods = coffee
+life_rating = 35
+owner = PEB
+controller = PEB
+add_core = PEB
+add_core = OUR

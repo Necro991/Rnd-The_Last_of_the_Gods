@@ -1,0 +1,5 @@
+trade_goods = cotton
+life_rating = 30
+owner = NUR
+controller = NUR
+add_core = NUR

@@ -1,0 +1,6 @@
+trade_goods = sulphur
+life_rating = 34
+owner = LIF
+controller = LIF
+add_core = HLA
+add_core = LIF

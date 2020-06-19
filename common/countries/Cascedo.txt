@@ -1,0 +1,123 @@
+color = { 83 237 255 }
+graphical_culture = Generic
+
+party = {
+	name = CAS_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = CAS_conservative_2
+	start_date = 1895.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = CAS_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = CAS_liberal
+	start_date = 1911.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = CAS_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = CAS_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = CAS_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = CAS_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = CAS_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Colaco" "Pedilha" "Idadilhoso" "Mevalaco" "Elidao" "Desroga" "Neraco" "Cascidao" "Esco" "Cachela" "Cosceiro" "Parreza" "Corvalaco" "Arrinhoso" "Trirralho" "Avo" "Quecilhoso" "Merrancia" "Petalho" "Rervaledo" "Covalerno" "Istinhoso" "Nevalacao" "Medo" "Calela" "Apante" "Nevaledo" "Nerrilhoso" "Pegencia" "Rescado" "Necacao" "Malo" "Pedela" "Pechalho" "Quelancia" "Perrao" "Nerilhoso" "Calonho" "Cagedo" "Irredo" "Pagerno" "Mapantinhoso" "Caravilhoso" "Recadada" "Ilurao" "Mescancia" "Ilucoga" "Papantalho" "Pastrinho" "Mestrilha" 
+	}
+	ironclad = {
+		"Iteiro" "Ilulancia" "Negaco" "Iluravao" "Edadedo" "Papantencia" "Reche" "Medaco" "Ervalancia" "Descado" "Cadadidao" "Iteiro" "Socidao" "Desro" "Nervalancia" "Arvalilha" "Questronho" "Cavo" "Restacao" "Cesteiro" "Petinho" "Pevalalho" "Calilha" "Cavacao" "Teraco" "Parreiro" "Tegedo" "Pecadencia" "Rervalancia" "Techeiro" "Tripantancia" "Mervaloga" "Tetino" "Iveza" "Coraverno" "Machedo" "Aravedo" "Codao" "Cevalao" "Madadada" "Tedadao" "Sovinho" "Renegedo" "Idilha" "Nedeza" "Cetalho" "Aloga" "Restancia" "Trivalao" "Recedo" 
+	}
+	manowar = {
+		"Tricencia" "Iluvalilha" "Conege" "Triredo" "Rescinhoso" "Costilhoso" "Corada" "Enfoga" "Paracao" "Idancia" "Iluscela" "Relancia" "Ipantalho" "Ilulaco" "Trirela" "Ilutinancia" "Merroga" "Soceiro" "Escoga" "Medadancia" "Terrilhoso" "Cacadilhoso" "Covalada" "Ilutinerno" "Tescaco" "Meledo" "Cagaco" "Ilucadinhoso" "Cacado" "Desnegedo" "Quepantalho" "Ilucadedo" "Desdela" "Ivada" "Restrado" "Desgo" "Codadaco" "Desstrilha" "Pacadacao" "Triloga" "Ilucacao" "Mevaco" "Tritedo" "Cadadao" "Queginho" "Necancia" "Adadencia" "Mestonho" "Infoga" "Menfilhoso" 
+	}
+	cruiser = {
+		"Iravidao" "Sostredo" "Caneginhoso" "Cascidao" "Tevalinhoso" "Medadencia" "Restilhoso" "Nepantancia" "Desvaco" "Cavaloga" "Castrada" "Desrro" "Caste" "Tritininho" "Renegeza" "Macadalho" "Cechedo" "Castaco" "Cadinho" "Desscada" "Achinho" "Erreza" "Restrao" "Paveza" "Pechao" "Maravado" "Sotencia" "Adada" "Ageza" "Revoga" "Tecadalho" "Coravidao" "Quecheza" "Cadadancia" "Teravao" "Igoga" "Mastada" "Quenfo" "Corrancia" "Rescilha" "Pacada" "Iludo" "Relado" "Patedo" "Rerroga" "Nere" "Esco" "Pagancia" "Quetinilhoso" "Etinerno" 
+	}
+	frigate = {
+		"Arre" "Cadaco" "Iluscedo" "Ipantela" "Elacao" "Ilugencia" "Adilha" "Tedinho" "Quenfilha" "Irrinhoso" "Mererno" "Calidao" "Cataco" "Quetinonho" "Carvalacao" "Mescencia" "Desrancia" "Rechinho" "Madadencia" "Canegedo" "Cerado" "Caderno" "Ilaco" "Cechoga" "Enegancia" "Restada" "Machacao" "Cetilhoso" "Nevalela" "Tetancia" "Sonferno" "Confonho" "Ascidao" "Sorrencia" "Mageiro" "Anfilhoso" "Echilha" "Pagao" "Infeza" "Ascalho" "Tritidao" "Revalidao" "Cedela" "Ilupantancia" "Reveza" "Parilhoso" "Revalerno" "Cogaco" "Sorvalaco" "Revale" 
+	}
+	monitor = {
+		"Redonho" "Arracao" "Meledo" "Avaco" "Queravinhoso" "Nestreza" "Icadilhoso" "Pestrilhoso" "Manegoga" "Rechao" "Sopantonho" "Palela" "Avalada" "Conegoga" "Restancia" "Iravancia" "Castacao" "Mastancia" "Cechencia" "Tridilhoso" "Ilustalho" "Quedidao" "Cocadado" "Tecinho" "Nepanteiro" "Echinhoso" "Pestado" "Pevalho" "Pedado" "Carreza" "Desgada" "Ilugedo" "Testilha" "Restreza" "Perinho" "Desvaloga" "Cocadilhoso" "Nedadoga" "Trinege" "Mascedo" "Mele" "Tenfancia" "Cecadilhoso" "Pacilha" "Ivalho" "Restridao" "Calencia" "Pervalidao" "Quescela" "Reravinhoso" 
+	}
+}

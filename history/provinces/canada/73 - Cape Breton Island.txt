@@ -1,0 +1,8 @@
+trade_goods = coffee
+life_rating = 31
+owner = NIR
+controller = NIR
+add_core = KAJ
+add_core = NIR
+add_core = KYO
+railroad = 1

@@ -1,0 +1,7 @@
+trade_goods = iron
+life_rating = 35
+owner = ZAO
+controller = ZAO
+add_core = ZAO
+add_core = ALN
+add_core = YLI

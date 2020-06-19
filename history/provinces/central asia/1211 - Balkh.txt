@@ -1,0 +1,8 @@
+trade_goods = cattle
+life_rating = 35
+owner = ZAO
+controller = ZAO
+add_core = ZAO
+add_core = YLI
+add_core = URA
+fort = 1

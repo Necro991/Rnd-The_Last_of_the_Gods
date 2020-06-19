@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 35
+owner = NAI
+controller = NAI
+add_core = NAI
+add_core = DON
+add_core = YTQ

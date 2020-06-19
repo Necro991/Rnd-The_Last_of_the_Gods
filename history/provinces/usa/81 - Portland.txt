@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 35
+owner = DVD
+controller = DVD
+add_core = DVD
+naval_base = 1

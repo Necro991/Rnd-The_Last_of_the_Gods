@@ -1,0 +1,6 @@
+trade_goods = wool
+life_rating = 30
+owner = ZAA
+controller = ZAA
+add_core = LEE
+add_core = ZAA

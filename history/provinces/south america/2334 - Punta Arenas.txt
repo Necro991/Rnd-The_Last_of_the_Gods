@@ -1,0 +1,7 @@
+trade_goods = wool
+life_rating = 35
+owner = EIN
+controller = EIN
+add_core = LEE
+add_core = EIN
+naval_base = 1

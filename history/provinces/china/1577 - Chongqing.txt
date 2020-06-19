@@ -1,0 +1,12 @@
+trade_goods = iron
+life_rating = 33
+owner = KIR
+controller = KIR
+add_core = QFJ
+add_core = ROZ
+add_core = KIR
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

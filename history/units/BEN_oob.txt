@@ -1,0 +1,688 @@
+
+army = {
+	name = "1. Army"
+
+	location = 587
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 763
+	}
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 616
+	}
+	regiment = {
+		name = "3. Infantry"
+
+		type = infantry
+		home = 616
+	}
+	regiment = {
+		name = "4. Infantry"
+
+		type = infantry
+		home = 739
+	}
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 737
+	}
+	regiment = {
+		name = "2. Cavalry"
+
+		type = cavalry
+		home = 639
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 613
+	regiment = {
+		name = "5. Infantry"
+
+		type = infantry
+		home = 729
+	}
+	regiment = {
+		name = "6. Infantry"
+
+		type = infantry
+		home = 614
+	}
+	regiment = {
+		name = "3. Cavalry"
+
+		type = cavalry
+		home = 618
+	}
+	regiment = {
+		name = "4. Cavalry"
+
+		type = cavalry
+		home = 751
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 730
+	}
+	regiment = {
+		name = "2. Artillery"
+
+		type = artillery
+		home = 744
+	}
+}
+
+army = {
+	name = "3. Army"
+
+	location = 592
+	regiment = {
+		name = "7. Infantry"
+
+		type = infantry
+		home = 758
+	}
+	regiment = {
+		name = "5. Cavalry"
+
+		type = cavalry
+		home = 751
+	}
+	regiment = {
+		name = "6. Cavalry"
+
+		type = cavalry
+		home = 2567
+	}
+}
+
+army = {
+	name = "4. Army"
+
+	location = 735
+	regiment = {
+		name = "8. Infantry"
+
+		type = infantry
+		home = 769
+	}
+	regiment = {
+		name = "9. Infantry"
+
+		type = infantry
+		home = 605
+	}
+	regiment = {
+		name = "10. Infantry"
+
+		type = infantry
+		home = 617
+	}
+	regiment = {
+		name = "11. Infantry"
+
+		type = infantry
+		home = 745
+	}
+	regiment = {
+		name = "12. Infantry"
+
+		type = infantry
+		home = 757
+	}
+	regiment = {
+		name = "13. Infantry"
+
+		type = infantry
+		home = 728
+	}
+	regiment = {
+		name = "7. Cavalry"
+
+		type = cavalry
+		home = 756
+	}
+	regiment = {
+		name = "8. Cavalry"
+
+		type = cavalry
+		home = 752
+	}
+	regiment = {
+		name = "3. Artillery"
+
+		type = artillery
+		home = 733
+	}
+	regiment = {
+		name = "4. Artillery"
+
+		type = artillery
+		home = 741
+	}
+}
+
+army = {
+	name = "5. Army"
+
+	location = 605
+	regiment = {
+		name = "14. Infantry"
+
+		type = infantry
+		home = 747
+	}
+	regiment = {
+		name = "15. Infantry"
+
+		type = infantry
+		home = 762
+	}
+	regiment = {
+		name = "9. Cavalry"
+
+		type = cavalry
+		home = 767
+	}
+	regiment = {
+		name = "10. Cavalry"
+
+		type = cavalry
+		home = 773
+	}
+	regiment = {
+		name = "5. Artillery"
+
+		type = artillery
+		home = 748
+	}
+}
+
+army = {
+	name = "6. Army"
+
+	location = 587
+	regiment = {
+		name = "16. Infantry"
+
+		type = infantry
+		home = 740
+	}
+	regiment = {
+		name = "17. Infantry"
+
+		type = infantry
+		home = 748
+	}
+}
+
+army = {
+	name = "7. Army"
+
+	location = 617
+	regiment = {
+		name = "18. Infantry"
+
+		type = infantry
+		home = 770
+	}
+	regiment = {
+		name = "11. Cavalry"
+
+		type = cavalry
+		home = 740
+	}
+	regiment = {
+		name = "6. Artillery"
+
+		type = artillery
+		home = 756
+	}
+}
+
+army = {
+	name = "8. Army"
+
+	location = 722
+	regiment = {
+		name = "19. Infantry"
+
+		type = infantry
+		home = 729
+	}
+	regiment = {
+		name = "20. Infantry"
+
+		type = infantry
+		home = 414
+	}
+	regiment = {
+		name = "21. Infantry"
+
+		type = infantry
+		home = 775
+	}
+	regiment = {
+		name = "22. Infantry"
+
+		type = infantry
+		home = 733
+	}
+	regiment = {
+		name = "23. Infantry"
+
+		type = infantry
+		home = 588
+	}
+	regiment = {
+		name = "24. Infantry"
+
+		type = infantry
+		home = 742
+	}
+	regiment = {
+		name = "12. Cavalry"
+
+		type = cavalry
+		home = 732
+	}
+	regiment = {
+		name = "7. Artillery"
+
+		type = artillery
+		home = 769
+	}
+	regiment = {
+		name = "8. Artillery"
+
+		type = artillery
+		home = 748
+	}
+}
+
+army = {
+	name = "9. Army"
+
+	location = 767
+	regiment = {
+		name = "25. Infantry"
+
+		type = infantry
+		home = 766
+	}
+	regiment = {
+		name = "26. Infantry"
+
+		type = infantry
+		home = 770
+	}
+	regiment = {
+		name = "27. Infantry"
+
+		type = infantry
+		home = 473
+	}
+	regiment = {
+		name = "28. Infantry"
+
+		type = infantry
+		home = 751
+	}
+	regiment = {
+		name = "29. Infantry"
+
+		type = infantry
+		home = 740
+	}
+	regiment = {
+		name = "30. Infantry"
+
+		type = infantry
+		home = 763
+	}
+	regiment = {
+		name = "13. Cavalry"
+
+		type = cavalry
+		home = 754
+	}
+	regiment = {
+		name = "14. Cavalry"
+
+		type = cavalry
+		home = 611
+	}
+	regiment = {
+		name = "9. Artillery"
+
+		type = artillery
+		home = 473
+	}
+	regiment = {
+		name = "10. Artillery"
+
+		type = artillery
+		home = 758
+	}
+}
+
+army = {
+	name = "10. Army"
+
+	location = 773
+	regiment = {
+		name = "31. Infantry"
+
+		type = infantry
+		home = 735
+	}
+	regiment = {
+		name = "32. Infantry"
+
+		type = infantry
+		home = 414
+	}
+	regiment = {
+		name = "33. Infantry"
+
+		type = infantry
+		home = 726
+	}
+	regiment = {
+		name = "34. Infantry"
+
+		type = infantry
+		home = 604
+	}
+	regiment = {
+		name = "35. Infantry"
+
+		type = infantry
+		home = 769
+	}
+	regiment = {
+		name = "11. Artillery"
+
+		type = artillery
+		home = 414
+	}
+	regiment = {
+		name = "12. Artillery"
+
+		type = artillery
+		home = 747
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 752
+	ship = {
+		name = "HMS Aprinfini"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Deneggogna della Sierra"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Corrale"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Castelfranco Detinezzo"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Necadetta"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Avazzano"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Benetinella e Spavallenze"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Povale"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Edadina"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Redadone di Leotire"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Vallo della Metizza"
+		type = frigate
+	}
+	ship = {
+		name = "HMS San Gioto di Patinello"
+		type = frigate
+	}
+	ship = {
+		name = "HMS San Onino di Mestizza"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "6. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "7. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "8. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "2. Fleet"
+
+	location = 755
+	ship = {
+		name = "HMS Spanfella"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Corvallano del Re"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Reggio Acileggio"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Spevallello"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Trinfizza"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Rapantoli"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Chetoglia"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Benenfena"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Spavallagna di Giulangelo"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Peravetta"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Sodadenze"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Matenze"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Palma di Postucca"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Pavoli"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Rastazzano"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Detinoli"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "6. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "7. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "3. Fleet"
+
+	location = 756
+	ship = {
+		name = "HMS Altavallina della Regina"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Nestrella e Meneggagna"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Alto Apriravaglia"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Chipanteggio del Re"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Cecadopoli"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Faestosa della Sierra"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Denfeggio"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Pestrella di Monte Postello"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Povallogna"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Montalto di Sotinetta"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Mecadina"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Borgo Papantena"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Transport Flotilla"
+		type = clipper_transport
+	}
+}

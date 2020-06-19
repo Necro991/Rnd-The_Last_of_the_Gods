@@ -1,0 +1,11 @@
+trade_goods = grain
+life_rating = 35
+owner = YQA
+controller = YQA
+add_core = YLI
+add_core = YQA
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

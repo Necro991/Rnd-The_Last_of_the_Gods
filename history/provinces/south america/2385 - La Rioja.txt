@@ -1,0 +1,7 @@
+trade_goods = precious_metal
+life_rating = 32
+owner = VGR
+controller = VGR
+add_core = LEE
+add_core = VGR
+add_core = ZEE

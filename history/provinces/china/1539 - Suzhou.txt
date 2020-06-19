@@ -1,0 +1,7 @@
+trade_goods = wool
+life_rating = 35
+owner = VAD
+controller = VAD
+add_core = VAD
+add_core = KIZ
+add_core = ROZ

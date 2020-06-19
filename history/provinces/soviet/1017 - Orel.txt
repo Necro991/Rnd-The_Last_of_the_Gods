@@ -1,0 +1,6 @@
+trade_goods = coal
+life_rating = 31
+owner = BAP
+controller = BAP
+add_core = SAN
+add_core = BAP

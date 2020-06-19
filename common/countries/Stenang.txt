@@ -1,0 +1,112 @@
+color = { 64 28 83 }
+graphical_culture = Europe1GC
+
+party = {
+	name = ANG_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+party = {
+	name = ANG_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = ANG_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ANG_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = ANG_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ANG_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = ANG_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ANG_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Omboet" "Mildang" "Mildstad" "Bjornfaste" "Gamlaregion" "Hogfontan" "Hertigfaste" "Bjorna" "Berommelseprovins" "Gudlandskap" "Solskog" "Morkregion" "Gulhamnstad" "Bjornhamn" "Starkagrevskap" "Gudamne" "Narliggandeang" "Arbetarefort" "Allagrevskap" "Myntnaste" "Ornarnaste" "Blavarld" "Gulpalats" "Berommelseportvin" "Storbabord" "Frankskog" "Rislandskap" "Gudfalt" "Frankberg" "Morkgrevskap" "Gronflod" "Vildsvinmark" "Befriataker" "Hogflod" "Jagareregion" "Norrang" "Frankfort" "Bjorna" "Gulslott" "Blahamn" "Saltvarld" "Rosskog" "Jungfrufontan" "Ovrenaste" "Solstrom" "Ljusslott" "Kraftfullang" "Morkregion" "Befriatmark" "Risprovins" 
+	}
+	ironclad = {
+		"Soderpalats" "Himmelnaste" "Drakekyrka" "Morkvarld" "Lejonflod" "Forkylningskog" "Hostenfontan" "Hostenportvin" "Hertigflod" "Olprovins" "Soderfontan" "Tungarike" "Blommorboet" "Storborg" "Nedanboet" "Vildsvinvarld" "Arbetarelandskap" "Norrslott" "Ornarlandskap" "Berommelseomrade" "Prinshamnstad" "Blommorvarld" "Hoga" "Nedanboet" "Frankregion" "Smartaomrade" "Varglandskap" "Ornarhamnstad" "Starkaportvin" "Hetpalats" "Ovreprovins" "Beeregion" "Starkaa" "Narliggandestrom" "Gamstrom" "Pigastrom" "Tungaboet" "Pigaskog" "Vargborg" "Gamlaskog" "Olhamn" "Ovrehamnstad" "Kungfort" "Oststrom" "Gamang" "Rottaker" "Mildomrade" "Morkslott" "Litena" "Solrike" 
+	}
+	manowar = {
+		"Drakestrom" "Pigavarld" "Prinsomrade" "Saltstad" "Vitborg" "Brarike" "Blommoraker" "Gamborg" "Hetstrom" "Pigaamne" "Sillskog" "Gamamne" "Starkababord" "Blaamne" "Manenregion" "Ornomrade" "Blommorborg" "Hetportvin" "Stenvarld" "Storahamn" "Rikastad" "Krakastrom" "Risamne" "Morka" "Manenflod" "Hethamnstad" "Hertigprovins" "Braskog" "Hetrike" "Rikaslott" "Hjartaa" "Frankvarld" "Beefontan" "Prinsboet" "Olfalt" "Gulfalt" "Tungavarld" "Brunstrom" "Krakalandskap" "Rhenboet" "Hostenregion" "Berommelsea" "Himmelfaste" "Litenboet" "Hostenkyrka" "Underbartskog" "Jungfruportvin" "Storportvin" "Gropboet" "Brunang" 
+	}
+	cruiser = {
+		"Jarnpalats" "Arbetarerike" "Hostenfalt" "Gronang" "Gronstrom" "Solgrevskap" "Stenmark" "Frankboet" "Gudrike" "Blaskog" "Kunggrevskap" "Hoggrevskap" "Vildsvinkyrka" "Nedanmark" "Befriatpalats" "Storaaker" "Ornboet" "Brunkyrka" "Manenboet" "Jarnaker" "Gyllenepalats" "Guda" "Hastaker" "Prinspalats" "Hogportvin" "Jarnflod" "Drakestrom" "Saltnaste" "Morkang" "Pigaborg" "Gamlaslott" "Underbartrike" "Drakehamn" "Tungaa" "Kraftfullpalats" "Jarngrevskap" "Narliggandeberg" "Jagareboet" "Jarngrevskap" "Pigaang" "Myntfontan" "Vargborg" "Ovreborg" "Soderfort" "Ornara" "Omfontan" "Smartaboet" "Hastang" "Vattenomrade" "Litenomrade" 
+	}
+	frigate = {
+		"Varberg" "Sillflod" "Befriatstrom" "Narliggandea" "Sorgprovins" "Saltomrade" "Berommelseprovins" "Hoghamn" "Vastaker" "Himmelstrom" "Smartafalt" "Gamlaa" "Litenbabord" "Ornpalats" "Hostenfort" "Litenfontan" "Lejonregion" "Ovremark" "Ovreomrade" "Rosborg" "Ornfalt" "Forkylningfort" "Trevligtbabord" "Narliggandestad" "Soderslott" "Gamlaskog" "Hjartaa" "Gronstrom" "Pigahamnstad" "Silverfort" "Manenrike" "Pigavarld" "Braborg" "Bjornportvin" "Kunggrevskap" "Vattena" "Frankportvin" "Prinskyrka" "Rhenflod" "Bjornskog" "Hogang" "Lejonportvin" "Saltprovins" "Ostportvin" "Ornarlandskap" "Norrstrom" "Varprovins" "Narliggandekyrka" "Omomrade" "Gropportvin" 
+	}
+	monitor = {
+		"Blaslott" "Ovreaker" "Lejonborg" "Manenfontan" "Brunflod" "Trevligtnaste" "Rikaregion" "Franklandskap" "Berommelsehamnstad" "Beefaste" "Saltnaste" "Jungfrufalt" "Jagarestad" "Manenang" "Soderportvin" "Gropregion" "Pigaportvin" "Berommelseang" "Pigaregion" "Rottnaste" "Brunvarld" "Morkmark" "Pigaslott" "Oma" "Hertigfaste" "Kolstrom" "Prinshamnstad" "Hasthamn" "Sodermark" "Gylleneslott" "Vargportvin" "Gudfort" "Gulboet" "Pigahamnstad" "Manenhamn" "Kungskog" "Smartafort" "Berommelsegrevskap" "Starkalandskap" "Smartaberg" "Sillstad" "Jagaremark" "Radjurborg" "Beestad" "Jungfruflod" "Sorgfontan" "Stenhamn" "Smartalandskap" "Arbetareskog" "Storfaste" 
+	}
+}

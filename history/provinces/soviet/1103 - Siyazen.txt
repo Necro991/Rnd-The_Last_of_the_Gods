@@ -1,0 +1,12 @@
+trade_goods = opium
+life_rating = 35
+owner = XIC
+controller = XIC
+add_core = YLI
+add_core = XIC
+add_core = YHX
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

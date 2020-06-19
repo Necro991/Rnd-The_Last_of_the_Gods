@@ -1,0 +1,123 @@
+color = { 84 255 103 }
+graphical_culture = AsianGC
+
+party = {
+	name = LAN_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = LAN_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = LAN_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = jingoism
+}
+party = {
+	name = LAN_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = LAN_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = LAN_socialist
+	start_date = 1875.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = LAN_socialist_2
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = LAN_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = LAN_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Shuoyang" "Moubing" "Foujiang" "Xingcheng" "Zhounan" "Xingzhi" "Qinbei" "Maoyang" "Maodong" "Zhihe" "Tangdong" "Jiangwang" "Jiangzhi" "Langzhi" "Hanlu" "Yuwang" "Luyang" "Tangjing" "Huobing" "Wujiang" "Langchang" "Huoyang" "Luoliao" "Yushan" "Yunliao" "Songguo" "Songxi" "Jiangzhi" "Tanghan" "Zhizhou" "Yushan" "Jiangjiao" "Xiangjiao" "Songhe" "Xingdong" "Longjiao" "Feijiao" "Jiaoliao" "Zhiguo" "Zhoubei" "Tangxi" "Aowu" "Shangzhou" "Aolu" "Mengcheng" "Aochang" "Bangnan" "Shangbei" "Zhouhan" "Feijiang" 
+	}
+	ironclad = {
+		"Tangshan" "Maozhi" "Lushan" "Jiangwu" "Xingyang" "Yunwu" "Luyang" "Shuohan" "Shuoguo" "Luodong" "Kangwu" "Maojiang" "Banghe" "Minglu" "Kongbing" "Hanhan" "Maoyang" "Fouxi" "Huangan" "Mengdong" "Langwu" "Qinyang" "Huangjing" "Mingwang" "Huangzhi" "Langhe" "Hanjiao" "Shuoyang" "Jiawu" "Xicheng" "Hanjiao" "Qinnan" "Bangbing" "Shuonan" "Qinan" "Langzhou" "Xiangwu" "Xiangzhi" "Jiaguo" "Luoyang" "Mingdong" "Jiangshan" "Mingjiang" "Moushan" "Jiangbei" "Zhihe" "Jiaohe" "Shangbing" "Jiangjing" "Kongyang" 
+	}
+	manowar = {
+		"Moucheng" "Bangchang" "Shangchang" "Jiangbei" "Zhibing" "Huangguo" "Jiashan" "Tangbei" "Yunbei" "Wuzhou" "Zhiliao" "Kangxi" "Mengshan" "Jiaowu" "Songliao" "Luojiao" "Moucheng" "Shangzhou" "Huoyang" "Zhoudong" "Xiangshan" "Xinghan" "Zhicheng" "Songjiao" "Xianghan" "Wujiao" "Bangzhi" "Xiangcheng" "Huangliao" "Langjing" "Konghan" "Jiangzhou" "Shuoan" "Xingguo" "Jiangjing" "Feinan" "Kongbei" "Mingjiang" "Luojing" "Luzhou" "Jiaguo" "Zhounan" "Mingxi" "Huoyang" "Kongguo" "Mingjiang" "Luozhi" "Jiangjing" "Xingcheng" "Lulu" 
+	}
+	cruiser = {
+		"Luoguo" "Hanhan" "Songxi" "Huolu" "Songliao" "Qinguo" "Luochang" "Feicheng" "Aochang" "Songguo" "Jiaohe" "Hanyang" "Qinhan" "Maohan" "Yunjiao" "Shuohan" "Mouhan" "Bangzhi" "Jiangshan" "Zhizhi" "Zhiliao" "Shanghe" "Qinbei" "Wucheng" "Xiyang" "Maonan" "Huolu" "Yunhan" "Yujiao" "Zhouzhi" "Zhoushan" "Yundong" "Maojiao" "Langjiao" "Zhian" "Yubing" "Mingjiao" "Qinzhi" "Jiaohe" "Mingzhi" "Kongnan" "Xinghe" "Kangzhou" "Mouyang" "Shanghan" "Yubei" "Songshan" "Huoyang" "Xibei" "Mingjiang" 
+	}
+	frigate = {
+		"Aowang" "Feizhou" "Jiaguo" "Langxi" "Luohan" "Menglu" "Langlu" "Banghe" "Yunwu" "Huangbei" "Qinjiao" "Songjing" "Hancheng" "Lunan" "Luoshan" "Zhouan" "Xianghe" "Tangwu" "Mouliao" "Yunhe" "Xiwu" "Longjiang" "Shangdong" "Feicheng" "Mengjing" "Aoxi" "Shangwang" "Longdong" "Mingnan" "Kangshan" "Hanxi" "Zhouzhou" "Maoxi" "Jiangdong" "Yunjiang" "Xiangwang" "Xinglu" "Zhouchang" "Aoyang" "Qinguo" "Founan" "Langjing" "Jiangcheng" "Luoan" "Xingguo" "Jiaoxi" "Yujiao" "Huobing" "Zhouzhi" "Huojing" 
+	}
+	monitor = {
+		"Longzhou" "Qinjing" "Jiaguo" "Xiangbing" "Qinjiang" "Feijiao" "Xingjiang" "Zhouwang" "Kangjiang" "Zhiyang" "Foubing" "Xingliao" "Huangzhou" "Moushan" "Shuoyang" "Bangxi" "Fouchang" "Xingguo" "Maobing" "Yunhe" "Bangxi" "Mengchang" "Mengzhi" "Yuguo" "Qinjiang" "Mingguo" "Langzhou" "Shuoan" "Fouchang" "Jiawang" "Langbing" "Feian" "Qinjiao" "Luoyang" "Fouyang" "Mouliao" "Zhiwang" "Zhouxi" "Jiazhi" "Jiajiang" "Lubing" "Shuobei" "Mingwu" "Jiangshan" "Longcheng" "Zhicheng" "Foubing" "Yunjiang" "Zhihan" "Hancheng" 
+	}
+}

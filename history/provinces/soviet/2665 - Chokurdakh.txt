@@ -1,0 +1,7 @@
+trade_goods = fruit
+life_rating = 32
+owner = LDR
+controller = LDR
+add_core = GRA
+add_core = HLA
+add_core = LDR

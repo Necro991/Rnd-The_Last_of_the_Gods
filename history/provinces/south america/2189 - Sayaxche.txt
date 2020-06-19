@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 31
+owner = NOO
+controller = NOO
+add_core = LEE
+add_core = LAG
+add_core = NOO

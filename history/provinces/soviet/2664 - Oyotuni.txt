@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 30
+owner = HAU
+controller = HAU
+add_core = HAU
+add_core = HLA

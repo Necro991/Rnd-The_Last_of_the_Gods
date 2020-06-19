@@ -1,0 +1,7 @@
+trade_goods = coffee
+life_rating = 31
+owner = TAR
+controller = TAR
+add_core = TAM
+add_core = KAJ
+add_core = TAR

@@ -1,0 +1,112 @@
+color = { 133 153 0 }
+graphical_culture = Generic
+
+party = {
+	name = WEG_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = WEG_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = WEG_liberal
+	start_date = 1903.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = WEG_liberal_2
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = WEG_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = WEG_socialist
+	start_date = 1860.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = WEG_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = WEG_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Middeldijk" "Korentdorp" "Haarenbeken" "Roerhaven" "Roerdorp" "Rozstesen" "Lelyschap" "Nijwolde" "Noordtenbroek" "Groenbrugge" "Buitentrijk" "Noordstedalen" "Aakkerken" "Zaandenzijl" "Buitenoog" "Korendorp" "Willemsland" "Zandtwarden" "Korenhem" "Dokkdorp" "Wittzijl" "Nijstekamp" "Haarbergen" "Zandsterwouden" "Aakdijk" "Roerstede" "Amsteresweg" "Leeuwstehoven" "Amsterbrug" "Zwarteswold" "Laghoorn" "Nijesdal" "Embeken" "Haarsland" "Bredewarden" "Dokkhouten" "Amsterspolder" "Rozenbrug" "Nijdammen" "Bakensen" "Nijenhoek" "Bakenhoek" "Bolbrug" "Ijsssterveen" "Oosteshoven" "Zeeveen" "Dokksedalen" "Zuidsterschap" "Haarveld" "Leerdhoek" 
+	}
+	ironclad = {
+		"Westsehaven" "Valksterzanden" "Korenstede" "Middelslo" "Zaandtdorp" "Dokkland" "Leeuwtenhouten" "Westtdijk" "Zeeshof" "Brederijk" "Zaandeshouten" "Noordszanden" "Groeneshoek" "Amsterseschap" "Aardshaven" "Oudtenbrugge" "Rozesstein" "Willemsveen" "Amsterbeken" "Lagwolde" "Ijssstepolder" "Steenendammen" "Leerddalen" "Bredeveld" "Zaandswolde" "Dokkwijken" "Roerdammen" "Valkzijl" "Lelyesoog" "Zaandschap" "Zaanddijk" "Lelywijken" "Veenenzanden" "Haarland" "Haardijk" "Zaandweg" "Bredehoven" "Friestpolder" "Aardtengouw" "Maasdijk" "Zuidlo" "Maasschap" "Halftenveld" "Halfstebergen" "Amstersterstede" "Zaandhouten" "Lelyrijk" "Haartenbrug" "Nijgouw" "Leerdkamp" 
+	}
+	manowar = {
+		"Halfsrijk" "Emoog" "Hogbos" "Noordtstad" "Ijssdalen" "Wittesbos" "Westspolder" "Karelstenweg" "Amsteresbos" "Korenschap" "Friestdijk" "Zeeesburcht" "Willemsstehem" "Veensewold" "Zaandsterdijk" "Bredesterbeken" "Haartenhoven" "Lelyenwolde" "Westzijl" "Leerdbrugge" "Lagtlo" "Buitenstezijl" "Maaswarden" "Rooseslo" "Lagsen" "Valkveld" "Nijwoud" "Haarhouten" "Friestbos" "Amstertwold" "Veensmolen" "Middelhoven" "Kleieshem" "Vaalsesbergen" "Zaandssen" "Hoghoorn" "Leeuwsterstad" "Groenwouden" "Amsterzijl" "Aardbergen" "Hogland" "Karelsveen" "Bakhoorn" "Vlaardtstede" "Zeezanden" "Korenstegouw" "Zeebrugge" "Veenrijk" "Aakwijken" "Wittwouden" 
+	}
+	cruiser = {
+		"Aardweg" "Halfesschap" "Veentzijl" "Korenthoek" "Bredesewold" "Roosdal" "Korenwouden" "Westbroek" "Kleiesbos" "Aakesdalen" "Steendijk" "Maastenbroek" "Halfveld" "Bredeenwoud" "Wittesschap" "Haaresbrug" "Noordthouten" "Lagweg" "Steenwarden" "Lagpolder" "Zeestehorst" "Bolsterstein" "Dokkbeken" "Roerlo" "Kleidijk" "Willemssen" "Aardland" "Oostdalen" "Kleiden" "Noordhem" "Dokkdorp" "Leerdmolen" "Halfesstede" "Amsterdorp" "Lelyswarden" "Zaandhoek" "Aakseden" "Zuidbrugge" "Lagenhaven" "Hogdammen" "Leeuwveld" "Roosbos" "Maashoek" "Ijsshem" "Roossterdijk" "Aakesbroek" "Zwartstede" "Zuidtwarden" "Zandhouten" "Aardtenzanden" 
+	}
+	frigate = {
+		"Aardengouw" "Kleistede" "Oosteshem" "Middelweg" "Rozbeken" "Leerdshouten" "Korenesmolen" "Laghouten" "Leeuwsen" "Oostsbrugge" "Zuidoog" "Buitentrijk" "Veenschap" "Zwartsschap" "Zuidwarden" "Maaswoud" "Roosveld" "Veenszijl" "Zwarthof" "Zeebeken" "Nijsterwold" "Rozland" "Friesden" "Emdalen" "Korensbrugge" "Lagrijk" "Zaandbrug" "Zaandenbrug" "Amstertenkamp" "Rozbroek" "Roosenbrug" "Wittbrugge" "Beversdorp" "Valkwouden" "Zaandbos" "Steenbeken" "Friesbergen" "Beverhorst" "Groensterbrugge" "Oudsland" "Westschap" "Karelsenzijl" "Hogtenhoek" "Westeswijken" "Emland" "Zeekerken" "Lagesstein" "Leerdoog" "Oudbeken" "Leerdhoven" 
+	}
+	monitor = {
+		"Zandhouten" "Roertdal" "Groenstehoek" "Lagbeken" "Aakenwold" "Oostweg" "Leeuwwoud" "Rooswarden" "Roosstebergen" "Lagwarden" "Roostwolde" "Aaksterweg" "Vaalssezanden" "Haarhouten" "Roosbrug" "Lagsterwoud" "Amsterthoorn" "Maasenweg" "Friesssen" "Zandburcht" "Emesbos" "Oudbos" "Karelstland" "Veeneshoven" "Dokksemolen" "Oudsehouten" "Korenhaven" "Bredetenwoud" "Zwartstad" "Steendalen" "Bolsrijk" "Veenhoek" "Karelsstestede" "Aardseveld" "Noordsterdalen" "Amstertenkerken" "Bakwarden" "Zwartmolen" "Bolskamp" "Oostzanden" "Bredetenbergen" "Halfbrugge" "Wittwoud" "Westhem" "Oudland" "Weststerwolde" "Willemseind" "Lelysteveen" "Roosbrugge" "Vlaardsbroek" 
+	}
+}

@@ -1,0 +1,5 @@
+trade_goods = cattle
+life_rating = 33
+owner = RAD
+controller = RAD
+add_core = RAD

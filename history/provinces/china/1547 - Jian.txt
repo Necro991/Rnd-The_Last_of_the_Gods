@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 30
+owner = OSZ
+controller = OSZ
+add_core = OSZ
+add_core = ROZ

@@ -1,0 +1,9 @@
+trade_goods = coal
+life_rating = 35
+owner = TAN
+controller = TAN
+add_core = TAN
+add_core = YTA
+add_core = BAR
+add_core = PAK
+naval_base = 1

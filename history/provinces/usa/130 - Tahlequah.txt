@@ -1,0 +1,7 @@
+trade_goods = precious_metal
+life_rating = 31
+owner = OCT
+controller = OCT
+add_core = TET
+add_core = OCT
+add_core = LAL

@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 32
+owner = GRG
+controller = GRG
+add_core = SAM
+add_core = GRG
+add_core = ROZ

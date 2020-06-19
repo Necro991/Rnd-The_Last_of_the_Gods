@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 34
+owner = PIR
+controller = PIR
+add_core = ROZ
+add_core = MXP
+add_core = PIR

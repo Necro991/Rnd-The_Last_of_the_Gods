@@ -1,0 +1,6 @@
+trade_goods = fish
+life_rating = 34
+owner = BEN
+controller = BEN
+add_core = MEP
+add_core = BEN

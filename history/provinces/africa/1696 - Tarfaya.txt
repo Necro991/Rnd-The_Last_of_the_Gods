@@ -1,0 +1,6 @@
+trade_goods = fish
+life_rating = 33
+owner = PEB
+controller = PEB
+add_core = CRN
+add_core = PEB

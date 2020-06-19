@@ -1,0 +1,7 @@
+trade_goods = coffee
+life_rating = 32
+owner = ALG
+controller = ALG
+add_core = RAA
+add_core = YLI
+add_core = ALG

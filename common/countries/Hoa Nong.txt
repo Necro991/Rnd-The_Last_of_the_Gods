@@ -1,0 +1,123 @@
+color = { 169 67 103 }
+graphical_culture = AsianGC
+
+party = {
+	name = HOA_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = HOA_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = HOA_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = HOA_liberal
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = HOA_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = HOA_socialist
+	start_date = 1860.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = HOA_socialist_3
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = HOA_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = HOA_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Nam Nong" "Lang Yen" "Ha Tinh" "Yen Phuc" "Tri Phong" "Tuy Phong" "Hoa Yen" "Lao Cai" "Lai Tinh" "Tra Tum" "Xuan Ninh" "Tien Yen" "Dai Xuan" "Giao Trang" "Thanh Nam" "Tri Hoa" "Khoai Dinh" "Tan Phong" "Ca Chau" "Binh Quang" "Soc An" "Lai Xuan" "Khanh Long" "Ca Yen" "Lang Ninh" "Ha Hinh" "Lang Yen" "Tra Nam" "Dai Phuc" "Hoa Xuan" "Lang An" "Tuy Yen" "Lang An" "Khanh Chau" "Ha Long" "Dai Thanh" "Lam Binh" "Xuan Nam" "Tien Thanh" "Xuan Tinh" "Lao Giang" "Soc Phuc" "Khoai Tinh" "Lao Yen" "Da Chau" "Lai Nam" "Soc Phong" "Nghe Hoa" "Xuan Dinh" "Khoai Tinh" 
+	}
+	ironclad = {
+		"Tuy Duong" "Hai Long" "Hai Chau" "Tri Dinh" "Ha Nam" "Soc Giang" "Giao La" "Lai Cai" "Dong La" "Nghe Tau" "Thuan Vinh" "Giao An" "Tien Tum" "Phu Vinh" "Khoai La" "Tra Cai" "Khanh Binh" "Luong Nong" "Tra Tum" "Kim Nai" "Dai Cai" "Tien Nong" "Dai Ninh" "Cao La" "Lai Dinh" "Cao Duong" "Nam Quang" "Hai La" "Giao Dinh" "Tan Giang" "Ca Phuc" "Xuan Phuc" "Binh Hinh" "Thuan Binh" "Tien La" "Ha Thanh" "Nam Ninh" "Khoai Yen" "Binh An" "Lai Nong" "Tien Vinh" "Soc Binh" "Ha Bai" "Dai Binh" "Phu Dinh" "Tien Phuc" "Tien Nam" "Lao Yen" "Thuan Thanh" "Lao La" 
+	}
+	manowar = {
+		"Tan Nam" "Soc Nong" "Xuan Binh" "Dong Nam" "Da Tinh" "Dong Nai" "Phu Tinh" "Kim Quang" "Binh Yen" "Thanh Quang" "Lao Dinh" "Khanh Thanh" "Thuan Phong" "Hai Yen" "Luong Giang" "Giao Duong" "Kim Trang" "Lang Dinh" "Tien Dinh" "Lai Yen" "Tra Nam" "Lai Hoa" "Ca Chau" "Lang Hoa" "Binh Nam" "Lai Long" "Lam Long" "Hoa Phong" "Nam Dinh" "Giao Yen" "Soc La" "Xuan Hinh" "Tuy Phuc" "Dong Duong" "Khanh An" "Ba Binh" "Kim Phong" "Thuan Nam" "Thanh Giang" "Soc Quang" "Thuan An" "Luong Vinh" "Thuan Vinh" "Giao Nam" "Ca Xuan" "Nam Hinh" "Thuan Vinh" "Nghe Nai" "Yen Quang" "Lam Phong" 
+	}
+	cruiser = {
+		"Binh Chau" "Lao Nam" "Kim An" "Ca Phong" "Soc Long" "Tien Yen" "Da Yen" "Dong Tinh" "Soc Nam" "Giao Vinh" "Nam Giang" "Dong Cai" "Tien Nam" "Binh Nong" "Nghe An" "Tuy Trang" "Ba Phuc" "Tuy Nam" "Tra Long" "Xuan Giang" "Yen Cai" "Tien Nong" "Tien Phuc" "Tra Bai" "Binh Yen" "Tra Hoa" "Phu Yen" "Dai Xuan" "Lao Trang" "Giao Ninh" "Ba Vinh" "Lang Tinh" "Lai Tau" "Dong An" "Thuan Trang" "Ca Xuan" "Ha Cai" "Tien Trang" "Lao An" "Lao Cai" "Khoai Long" "Kim Thanh" "Tri Tum" "Tien Nam" "Nam Hinh" "Nghe Xuan" "Lai Nam" "Da Trang" "Lam Thanh" "Dai Hinh" 
+	}
+	frigate = {
+		"Da Giang" "Thanh Nai" "Hoa Xuan" "Tri Nam" "Yen Chau" "Dai Chau" "Tien Tinh" "Ha Nong" "Lai Trang" "Dai La" "Kim Nam" "Giao Hoa" "Khanh Nai" "Lao Trang" "Tuy Cai" "Dai Hoa" "Dai Quang" "Hai Ninh" "Tra Cai" "Hai Nong" "Lam Tum" "Ba Binh" "Lao Tum" "Giao Yen" "Tien Yen" "Nam Long" "Khoai Bai" "Cao Yen" "Kim Phong" "Da Vinh" "Lam Vinh" "Tra Giang" "Xuan Nai" "Ha An" "Tri Tau" "Ca Yen" "Dai Tum" "Soc Phuc" "Giao Cai" "Lao Nam" "Thuan Binh" "Phu Dinh" "Tan Yen" "Kim Nam" "Cao La" "Tri Duong" "Soc Nam" "Phu Quang" "Thanh Quang" "Hoa Quang" 
+	}
+	monitor = {
+		"Giao Nai" "Thuan Tau" "Dai Thanh" "Dong Thanh" "Tra An" "Tien Nam" "Tan An" "Lang Ninh" "Kim Vinh" "Xuan Nong" "Lai Giang" "Da Giang" "Tien Nong" "Soc Nong" "Ca Cai" "Lao An" "Lai Thanh" "Khoai Tau" "Ca An" "Cao Tau" "Tan Yen" "Binh La" "Tien Yen" "Lang Yen" "Dong Trang" "Dong Phuc" "Lai Chau" "Lam Nong" "Tien Tinh" "Tuy An" "Khoai Dinh" "Khanh Tum" "Phu Quang" "Tan Phuc" "Tra Yen" "Soc Nai" "Ha Nong" "Ca Phuc" "Lam Yen" "Hoa Yen" "Khanh Hoa" "Kim Thanh" "Khoai Duong" "Hai Nam" "Lai Nong" "Tan Yen" "Lang Hinh" "Tien Yen" "Da Phuc" "Da Phuc" 
+	}
+}

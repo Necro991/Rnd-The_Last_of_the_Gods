@@ -1,0 +1,6 @@
+trade_goods = silk
+life_rating = 30
+owner = DUK
+controller = DUK
+add_core = DUK
+railroad = 1

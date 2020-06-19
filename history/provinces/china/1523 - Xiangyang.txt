@@ -1,0 +1,7 @@
+trade_goods = opium
+life_rating = 35
+owner = MEH
+controller = MEH
+add_core = MEH
+add_core = PIR
+add_core = ROZ

@@ -1,0 +1,56 @@
+
+army = {
+	name = "1. Army"
+
+	location = 2297
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 2295
+	}
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 2299
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 2295
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 2299
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 2297
+	}
+	regiment = {
+		name = "3. Infantry"
+
+		type = infantry
+		home = 2297
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 2295
+	ship = {
+		name = "HMS Laag-Wittsbeken"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+}

@@ -1,0 +1,7 @@
+trade_goods = tropical_wood
+life_rating = 34
+owner = ROE
+controller = ROE
+add_core = LEE
+add_core = ROE
+naval_base = 1

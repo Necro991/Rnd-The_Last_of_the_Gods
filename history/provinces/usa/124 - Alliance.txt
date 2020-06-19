@@ -1,0 +1,5 @@
+trade_goods = cotton
+life_rating = 33
+owner = LOG
+controller = LOG
+add_core = LOG

@@ -1,0 +1,6 @@
+trade_goods = fruit
+life_rating = 34
+owner = YOK
+controller = YOK
+add_core = YOK
+add_core = ROZ

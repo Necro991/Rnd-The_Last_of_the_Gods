@@ -1,0 +1,6 @@
+trade_goods = fish
+life_rating = 32
+owner = QKW
+controller = QKW
+add_core = QKW
+add_core = ROZ

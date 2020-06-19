@@ -1,0 +1,5 @@
+trade_goods = grain
+life_rating = 33
+owner = VAL
+controller = VAL
+add_core = VAL

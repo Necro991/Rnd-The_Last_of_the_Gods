@@ -1,0 +1,234 @@
+
+army = {
+	name = "1. Army"
+
+	location = 2289
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 2294
+	}
+}
+
+army = {
+	name = "3. Army"
+
+	location = 2281
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 2280
+	}
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 2407
+	}
+	regiment = {
+		name = "3. Infantry"
+
+		type = infantry
+		home = 2300
+	}
+}
+
+army = {
+	name = "4. Army"
+
+	location = 2281
+	regiment = {
+		name = "4. Infantry"
+
+		type = infantry
+		home = 2549
+	}
+	regiment = {
+		name = "5. Infantry"
+
+		type = infantry
+		home = 2401
+	}
+	regiment = {
+		name = "6. Infantry"
+
+		type = infantry
+		home = 2549
+	}
+}
+
+army = {
+	name = "5. Army"
+
+	location = 2289
+	regiment = {
+		name = "2. Cavalry"
+
+		type = cavalry
+		home = 2279
+	}
+}
+
+army = {
+	name = "6. Army"
+
+	location = 2287
+	regiment = {
+		name = "7. Infantry"
+
+		type = infantry
+		home = 2549
+	}
+	regiment = {
+		name = "8. Infantry"
+
+		type = infantry
+		home = 2288
+	}
+	regiment = {
+		name = "9. Infantry"
+
+		type = infantry
+		home = 2288
+	}
+	regiment = {
+		name = "3. Cavalry"
+
+		type = cavalry
+		home = 2298
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 2298
+	ship = {
+		name = "HMS Oosteskamp"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Roztenwolde"
+		type = manowar
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "6. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "2. Fleet"
+
+	location = 2291
+	ship = {
+		name = "HMS Nijdijk"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Groensgouw"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "3. Fleet"
+
+	location = 2280
+	ship = {
+		name = "HMS Vlaardhem"
+		type = manowar
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "6. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "4. Fleet"
+
+	location = 2298
+	ship = {
+		name = "HMS Hoog-Leerdensen"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Nijstewarden"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Hogeszijl"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "6. Transport Flotilla"
+		type = clipper_transport
+	}
+}

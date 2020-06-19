@@ -1,0 +1,13 @@
+trade_goods = fruit
+life_rating = 35
+owner = QFJ
+controller = QFJ
+add_core = QFJ
+add_core = ROZ
+add_core = KIR
+fort = 1
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

@@ -1,0 +1,9 @@
+trade_goods = fruit
+life_rating = 33
+owner = KZR
+controller = KZR
+add_core = UEA
+add_core = KZR
+add_core = DON
+add_core = ZDZ
+add_core = OZS

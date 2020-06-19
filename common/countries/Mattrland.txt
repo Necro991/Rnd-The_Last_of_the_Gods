@@ -1,0 +1,112 @@
+color = { 78 88 255 }
+graphical_culture = Europe2GC
+
+party = {
+	name = PFX_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = PFX_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+party = {
+	name = PFX_liberal
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = PFX_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = PFX_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = PFX_socialist
+	start_date = 1875.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = PFX_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = PFX_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Lydrborg" "Sarrsund" "Svelgard" "Gilhol" "Hlaegiligrfell" "Gotarland" "Gotarland" "Eldrfljot" "Bjornborg" "Vegrvarda" "Thornfljot" "Bjarnvatn" "Austskjoldr" "Hvedrungrfell" "Eldrland" "Draugrmork" "Skipborg" "Raudrborg" "Fjorlagsund" "Flarhol" "Audigrland" "Reidrmork" "Dvergrskjoldr" "Reidrfjord" "Sudheim" "Nordborg" "Lydrhaugr" "Asssker" "Gullvarda" "Vinrsker" "Helvatn" "Mjodrvarda" "Gullvegr" "Mattrland" "Alfrland" "Ellrivirki" "Feigrvatn" "Draugrheim" "Krasker" "Sudvegr" "Eikvatn" "Marrskogr" "Flarhol" "Happbjarg" "Ellriland" "Nedrifjollottr" "Hofnskogr" "Draugrholt" "Eikhol" "Daudrborg" 
+	}
+	ironclad = {
+		"Ottiborg" "Gotarsker" "Mikillskogr" "Feigrholt" "Nedrigard" "Haffljot" "Flarland" "Matrskogr" "Slafjord" "Verholt" "Eikholt" "Skillingrgard" "Baniskogr" "Vinland" "Mattrland" "Slaskadi" "Grarbjarg" "Myrkrvatn" "Efstskadi" "Trollvirki" "Myrkrholt" "Draugrvatn" "Uppfjall" "Kaupmadrbjarg" "Samnahamarr" "Ottiborg" "Draugrskjoldr" "Helfell" "Aldriholt" "Fiskrskogr" "Marrvegr" "Farbjodrsker" "Issskogr" "Svelvegr" "Skipgard" "Aldrivatn" "Jotunnvegr" "Kjollhol" "Happhamarr" "Svassheim" "Hvitrvirki" "Nargard" "Frostland" "Skynskadi" "Alfrfjollottr" "Thornskjoldr" "Audigrvegr" "Sudvirki" "Hafgard" "Svasshaugr" 
+	}
+	manowar = {
+		"Thornskogr" "Lydrfjall" "Thunglvatn" "Audigrfljot" "Balhaugr" "Lifvirki" "Fleskskogr" "Efrivegr" "Ovistuligrsund" "Eikland" "Helborg" "Myrkrfjollottr" "Kaupmadrhamarr" "Haukrsker" "Vestskogr" "Ovistuligrskogr" "AEgirsund" "Aldrifell" "Sarrsteinn" "Helgard" "Thornvirki" "Skillingrskjoldr" "Skipsbrotland" "Laegingholt" "Mikillsker" "Samnavatn" "Fiskrholt" "Vegrskadi" "Helborg" "Foradfell" "Svassbjarg" "Happborg" "Harrfjord" "Happhol" "Fjorlaghaugr" "Uppfljot" "Kaupmadrvatn" "Fleskvatn" "Reidrmork" "Alfrhamarr" "Ovistuligrhamarr" "Ofolrsker" "Mattrhaugr" "Aldribjarg" "Balfjall" "Aldrifljot" "Hvedrungrfljot" "Blarfell" "Grarskjoldr" "Vegrmork" 
+	}
+	cruiser = {
+		"Hvalrhofn" "Skipborg" "Firarfljot" "Vinrheim" "Matrsund" "Blakkrvatn" "Hofnsund" "Virdarskjoldr" "Balfljot" "Svassfjall" "Vinrhaugr" "Fornfjollottr" "Skipsbrotborg" "Nedrisker" "Slasteinn" "Grarbjarg" "Trollvatn" "Fjorlagvarda" "Virdarfjollottr" "Efsthamarr" "Mikillskogr" "Marrvatn" "Thunglbjarg" "Hvitrfjollottr" "Thornskjoldr" "Raudrfjall" "Erfidrvarda" "Grarheim" "Kaupmadrbjarg" "Myrkrskadi" "Feigrvarda" "Skipsbrotmork" "Jotunnfjollottr" "Narhaugr" "Gilvatn" "Bjarnholt" "Gilborg" "Eldrhofn" "Erfidrfjord" "Eldrskjoldr" "Uppfljot" "Aldriborg" "Berserkrskogr" "Dvergrhamarr" "Skiphofn" "Mattrgard" "Alfrfjord" "Forlogskadi" "Gullhaugr" "AEdrasteinn" 
+	}
+	frigate = {
+		"Modrhol" "Erfidrvegr" "Eikbjarg" "Dvergrhol" "Gullsund" "Fiskrheim" "Aldinnfljot" "Balsker" "Isshaugr" "AEdravegr" "Kjollmork" "Flarland" "Mattrvarda" "Ellriskogr" "Hvitrfjollottr" "Thunglskogr" "Haettrholt" "Grasfjollottr" "Fjorlagfljot" "Vesthamarr" "Fornvirki" "Modrhofn" "Thunglvarda" "Hvedrungrland" "Austvatn" "Virdarmork" "Vinvegr" "Sjalvatn" "Daudifjall" "Eldrmork" "Fokafljot" "Gotarsund" "Fokaborg" "Gotarsteinn" "Aldrimork" "Samnaland" "Dyrfjord" "Modrheim" "Fleskborg" "Vinrfell" "Fleskvatn" "Ofolrland" "Flarfjord" "Hraunbjarg" "Grargard" "Uppvarda" "Fleskhaugr" "AEgirvegr" "Modrvarda" "Austvirki" 
+	}
+	monitor = {
+		"Storrskjoldr" "Mattrborg" "Svassskjoldr" "Dvergrsund" "Vervatn" "Verbjarg" "Hafhol" "Alfrfjollottr" "Ofolrvatn" "Baniskjoldr" "Nogrskogr" "Dvergrskjoldr" "Svelgard" "Grasvatn" "Jarnheim" "Okraesilegrhofn" "AEdraborg" "Eldrvegr" "Frodhaugr" "Svasshol" "Raudrgard" "Gilfjord" "Ovistuligrfjord" "Skillingrsund" "Aldinnvirki" "Bjornvatn" "Trumork" "Feigrmork" "Balsker" "Kaupmadrholt" "Trufjord" "Assvirki" "Lifland" "Jotunnbjarg" "Daudrheim" "Kaupmadrfjollottr" "Gullvatn" "Haukrmork" "Hofnhol" "Verfjollottr" "Marrfell" "Assmork" "Daudrborg" "Frosthamarr" "Dyrvatn" "Raudrheim" "Vegrsund" "Versund" "Laeginggard" "Blarskadi" 
+	}
+}

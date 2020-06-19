@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 33
+owner = HOA
+controller = HOA
+add_core = HOA
+add_core = JVP
+add_core = DON

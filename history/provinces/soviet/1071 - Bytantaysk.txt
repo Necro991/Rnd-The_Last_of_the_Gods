@@ -1,0 +1,7 @@
+trade_goods = coffee
+life_rating = 34
+owner = GRA
+controller = GRA
+add_core = GRA
+add_core = MYR
+add_core = HLA

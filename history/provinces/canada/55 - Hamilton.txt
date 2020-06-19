@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 31
+owner = AMI
+controller = AMI
+add_core = KAJ
+add_core = AMI
+add_core = PON

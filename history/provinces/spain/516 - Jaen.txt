@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 33
+owner = PEB
+controller = PEB
+add_core = PEB
+add_core = PUB

@@ -1,0 +1,8 @@
+trade_goods = timber
+life_rating = 33
+owner = PHU
+controller = PHU
+add_core = DON
+add_core = PHU
+add_core = ZDZ
+add_core = OZS

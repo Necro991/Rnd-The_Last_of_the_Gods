@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 31
+owner = ZSV
+controller = ZSV
+add_core = YLI
+add_core = ZSV
+railroad = 1

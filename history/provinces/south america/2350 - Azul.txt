@@ -1,0 +1,6 @@
+trade_goods = wool
+life_rating = 30
+owner = MAG
+controller = MAG
+add_core = MAG
+add_core = YTA

@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 35
+owner = RAD
+controller = RAD
+add_core = KAI
+add_core = YLI

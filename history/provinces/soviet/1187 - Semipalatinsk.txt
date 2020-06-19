@@ -1,0 +1,6 @@
+trade_goods = coffee
+life_rating = 32
+owner = SAL
+controller = SAL
+add_core = YLI
+add_core = KTY

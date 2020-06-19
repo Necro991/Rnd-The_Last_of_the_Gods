@@ -1,0 +1,8 @@
+trade_goods = grain
+life_rating = 30
+owner = HAU
+controller = HAU
+add_core = OVI
+add_core = HAU
+add_core = HLA
+add_core = RDA

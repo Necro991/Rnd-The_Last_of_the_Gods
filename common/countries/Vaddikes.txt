@@ -1,0 +1,123 @@
+color = { 124 199 0 }
+graphical_culture = CeltGC
+
+party = {
+	name = VAD_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = VAD_conservative_2
+	start_date = 1880.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = VAD_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = VAD_liberal
+	start_date = 1859.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = VAD_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = VAD_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = VAD_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = VAD_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = VAD_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Sasbuvaros" "Kegyekemet" "Viramenok" "Sulyvar" "Kirameny" "Vasakszard" "Mehpest" "Banok" "Viragyzsa" "Nizzatelakemet" "Koged" "Hercevar" "Rozsabomaz" "Budakokut" "Kohaza" "Loskolk" "Nizzalatonyok" "Banakszard" "Vasatelargom" "Rozsamas" "Nagyrkekszard" "Vaszomaz" "Nagyjonyok" "Alarluzsa" "Felsomeny" "Nizzajofeszek" "Oszidograd" "Korlufeszek" "Gromas" "Saskokut" "Felsozofeszek" "Nagymas" "Sulynyok" "Budameny" "Virakemet" "Kergom" "Felsobopest" "Nagykszard" "Sonok" "Sarkekokut" "Vasalatopest" "Rozsajovaros" "Erkezsa" "Vasavar" "Medvetelameny" "Kirakszard" "Budapest" "Virazotomany" "Nagymaz" "Virakemet" 
+	}
+	ironclad = {
+		"Sasvaros" "Banamas" "Aratelaged" "Vaszallas" "Eged" "Vaddivaros" "Oszirlutomany" "Oszizohaza" "Sakemet" "Kozorgom" "Hercezallas" "Sasmeny" "Pirohaza" "Sograd" "Farkaskolk" "Sarkajomas" "Lokszard" "Zomeny" "Alabuvar" "Vaddihaza" "Farkajopest" "Mehdokokut" "Kipest" "Felsokszard" "Batelakokut" "Enyvar" "Mehkokut" "Kivar" "Felsogynok" "Sulykastely" "Vasgrad" "Nizzamereny" "Vasgyzallas" "Mehbatlareny" "Alahervar" "Sogyevar" "Enynyok" "Vizaszeskolk" "Kekokut" "Farkafeszek" "Gronyok" "Kopest" "Grokastely" "Kirakes" "Sulygrad" "Oszirgom" "Kolatokastely" "Zovaros" "Kirapest" "Medvehaza" 
+	}
+	manowar = {
+		"Vaddireny" "Kobopest" "Nagyrlukes" "Kizokokut" "Kobukes" "Kegyrgom" "Nizzakokut" "Saszopest" "Enyreny" "Sajomaz" "Kedovar" "Sabatlagrad" "Vizakemet" "Hercegykokut" "Zoskolk" "Ezumas" "Sovaros" "Lomas" "Vizameny" "Keboskolk" "Nizzareny" "Kokes" "Vadditelaklos" "Fehergom" "Saszenok" "Sotelanok" "Sarkaszekokut" "Farkamereny" "Enytelamas" "Kirazsa" "Rozsakastely" "Vaddivaros" "Ezukszard" "Banagrad" "Nagygyezsa" "Vasajograd" "Zodoskolk" "Nizzazsa" "Herceged" "Kirakastely" "Banazohervar" "Oszimeny" "Sogyereny" "Sulymeny" "Grobatlakemet" "Medvezsa" "Korbonyok" "Nagyszenok" "Medvekastely" "Zotelamaz" 
+	}
+	cruiser = {
+		"Pirokemet" "Banabatlakastely" "Banakszard" "Loreny" "Vizaged" "Grokokut" "Kekes" "Grofeszek" "Viramaz" "Rozsakastely" "Sabupest" "Kokegyfeszek" "Lodomaz" "Feheskolk" "Fehekokut" "Sarkatelakes" "Babumas" "Vaddiklos" "Alabatlareny" "Lomenok" "Efeszek" "Vaddimefeszek" "Kokokut" "Bananok" "Vizavaros" "Sulydokes" "Vizabatlaged" "Oszikokut" "Vizagymas" "Zovaros" "Sasbatlavar" "Vizakes" "Erbokemet" "Vizazozsa" "Vasadokokut" "Rozsadopest" "Hercergom" "Lopest" "Medvenok" "Erkehervar" "Alabatlakokut" "Vizargom" "Budalatoreny" "Loszefeszek" "Aradozallas" "Oszizovaros" "Ararkehervar" "Korboged" "Lokegygrad" "Vadditelanok" 
+	}
+	frigate = {
+		"Medveszekemet" "Virazallas" "Sorbokastely" "Kigrad" "Banaskolk" "Viragrad" "Piroged" "Piroged" "Grojomaz" "Somegrad" "Kohaza" "Sakegymaz" "Hercezsa" "Sakegymeny" "Sarkadokemet" "Nagykegykemet" "Banalatokokut" "Zovaros" "Lomehaza" "Bakemet" "Pirorlutomany" "Sarkarkekokut" "Vizaskolk" "Oszigrad" "Lokastely" "Felsohervar" "Piroklos" "Banabatlaskolk" "Sarkazofeszek" "Bananyok" "Herceged" "Mehskolk" "Sulykes" "Fehefeszek" "Oszirgom" "Virareny" "Sarkapest" "Oszitelakokut" "Vasavaros" "Vasbunok" "Vizabuklos" "Budapest" "Kohervar" "Enybokes" "Vizapest" "Ezukokut" "Sokokut" "Piromas" "Oszirkergom" "Sarkavar" 
+	}
+	monitor = {
+		"Piromeny" "Sagyged" "Rozsavaros" "Kimaz" "Korkemeny" "Fehegykszard" "Rozsahervar" "Kirabokes" "Enydozallas" "Vasaklos" "Oszidoklos" "Medvetelagrad" "Vaddirgom" "Banakegykes" "Banakes" "Lolatoklos" "Araklos" "Banazallas" "Alareny" "Sulymekastely" "Elatohervar" "Nagydoklos" "Vizakegyvar" "Sabukemet" "Samaz" "Nagyskolk" "Oszivaros" "Grodomas" "Pirogykes" "Pirogyegrad" "Banaklos" "Sabovar" "Farkaszekszard" "Enygrad" "Oszigynok" "Pirorbokemet" "Alakszard" "Ezurbonok" "Vasameny" "Mehbuged" "Felsofeszek" "Vizameny" "Aralatokokut" "Samegrad" "Sorgom" "Arakastely" "Mehtomany" "Nizzakszard" "Babovar" "Hercenyok" 
+	}
+}

@@ -1,0 +1,11 @@
+trade_goods = cattle
+life_rating = 35
+owner = RAD
+controller = RAD
+add_core = LEJ
+add_core = SAN
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}

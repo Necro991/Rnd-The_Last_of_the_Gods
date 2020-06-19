@@ -1,0 +1,12 @@
+trade_goods = timber
+life_rating = 30
+owner = SUL
+controller = SUL
+add_core = SUL
+add_core = KIK
+add_core = ROZ
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

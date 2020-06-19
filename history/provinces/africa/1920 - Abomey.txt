@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 31
+owner = PEB
+controller = PEB
+add_core = MAI
+add_core = PEB

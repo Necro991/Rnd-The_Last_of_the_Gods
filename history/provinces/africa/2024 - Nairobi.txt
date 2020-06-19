@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 33
+owner = EMI
+controller = EMI
+add_core = DON
+add_core = LYT

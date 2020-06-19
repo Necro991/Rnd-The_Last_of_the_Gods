@@ -1,0 +1,8 @@
+trade_goods = fruit
+life_rating = 35
+owner = RHE
+controller = RHE
+add_core = RHE
+add_core = RGA
+add_core = KER
+naval_base = 1

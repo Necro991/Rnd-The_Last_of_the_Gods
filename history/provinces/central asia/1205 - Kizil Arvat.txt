@@ -1,0 +1,6 @@
+trade_goods = opium
+life_rating = 30
+owner = GLY
+controller = GLY
+add_core = GLY
+add_core = YLI

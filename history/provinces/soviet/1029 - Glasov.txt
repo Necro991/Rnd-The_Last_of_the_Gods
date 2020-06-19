@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 31
+owner = CER
+controller = CER
+add_core = CER
+add_core = SAN

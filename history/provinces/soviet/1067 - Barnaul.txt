@@ -1,0 +1,6 @@
+trade_goods = cotton
+life_rating = 32
+owner = HAC
+controller = HAC
+add_core = HAC
+add_core = SAN

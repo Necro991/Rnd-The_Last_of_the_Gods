@@ -1,0 +1,8 @@
+trade_goods = grain
+life_rating = 32
+owner = KYS
+controller = KYS
+add_core = NYL
+add_core = OLY
+add_core = KYS
+add_core = ARL

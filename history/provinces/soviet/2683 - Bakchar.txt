@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 34
+owner = SAL
+controller = SAL
+add_core = SAL
+add_core = SAN

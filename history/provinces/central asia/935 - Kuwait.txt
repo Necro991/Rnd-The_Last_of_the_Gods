@@ -1,0 +1,5 @@
+trade_goods = fish
+life_rating = 32
+owner = YAR
+controller = YAR
+add_core = YAR

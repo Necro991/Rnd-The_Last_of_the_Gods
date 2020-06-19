@@ -1,0 +1,5 @@
+trade_goods = coal
+life_rating = 35
+owner = CAE
+controller = CAE
+add_core = CAE

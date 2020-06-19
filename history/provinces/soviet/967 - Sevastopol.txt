@@ -1,0 +1,6 @@
+trade_goods = fish
+life_rating = 30
+owner = KAI
+controller = KAI
+add_core = KAI
+add_core = YLI

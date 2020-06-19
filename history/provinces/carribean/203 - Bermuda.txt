@@ -1,0 +1,8 @@
+trade_goods = grain
+life_rating = 34
+owner = IWA
+controller = IWA
+add_core = YAM
+add_core = KAJ
+add_core = IWA
+fort = 1

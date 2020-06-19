@@ -1,0 +1,6 @@
+trade_goods = cattle
+life_rating = 31
+owner = THO
+controller = THO
+add_core = HLA
+add_core = THO

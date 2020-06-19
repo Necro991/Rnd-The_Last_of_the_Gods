@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 32
+owner = ONG
+controller = ONG
+add_core = ONG
+add_core = DON

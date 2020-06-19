@@ -1,0 +1,7 @@
+trade_goods = iron
+life_rating = 33
+owner = GRO
+controller = GRO
+add_core = ROZ
+add_core = VAR
+add_core = GRO

@@ -1,0 +1,6 @@
+trade_goods = tropical_wood
+life_rating = 32
+owner = SUR
+controller = SUR
+add_core = YTA
+add_core = KUR

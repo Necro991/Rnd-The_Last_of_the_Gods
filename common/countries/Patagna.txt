@@ -1,0 +1,134 @@
+color = { 255 216 98 }
+graphical_culture = Europe2GC
+
+party = {
+	name = PAT_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = PAT_conservative_2
+	start_date = 1867.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = PAT_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = PAT_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = PAT_liberal_2
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = PAT_liberal_3
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = PAT_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = PAT_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = PAT_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = jingoism
+}
+party = {
+	name = PAT_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Cervallina" "Poscena" "Benestraglia" "Altarretta" "Faevallena" "Civitacizza" "Perrale" "Pavallosa" "Apritucca" "Faelizza" "Raneggaio" "Marvallenze" "Nelazzano" "Carvallezzo" "Sopantino" "Irrizza" "Poneggetta" "Caceto" "Ratagna" "Pasceggio" "Tedopoli" "Ratetta" "Pascino" "Costrazzano" "Spaneggano" "Derretta" "Civitapantenze" "Triraveggio" "Beneteto" "Caneggena" "Povalleggio" "Idaio" "Acideto" "Benedadaio" "Perretta" "Benecella" "Spatone" "Faescogna" "Tridino" "Palopoli" "Savallezzo" "Testrello" "Sorreto" "Pastreto" "Sopantino" "Benervallaglia" "Trinfagna" "Calissimo" "Trineggella" "Sovione" 
+	}
+	ironclad = {
+		"Netinazzano" "Spanfena" "Porrini" "Penfugia" "Acivosa" "Atinoli" "Carvallagna" "Covallezzo" "Altarvallimo" "Altadello" "Maneggone" "Recadone" "Ratella" "Paleto" "Mervallopoli" "Tedadello" "Soscosa" "Sovallezzo" "Tevallello" "Altavena" "Pocugia" "Deneggaio" "Pecini" "Repantione" "Rastino" "Escoli" "Sparvallale" "Necetta" "Arevetta" "Nedizza" "Civitastrone" "Sodizza" "Ravone" "Padella" "Checezzo" "Aredadoli" "Chitaglia" "Aprivalloli" "Apritinaio" "Tedadaglia" "Bilogna" "Meneggizza" "Altaravucca" "Arevalleggio" "Castrenze" "Pastenze" "Polissimo" "Civitacello" "Podaglia" "Etetta" 
+	}
+	manowar = {
+		"Chestino" "Eneggini" "Aprivallaio" "Edadeto" "Penfini" "Radadeggio" "Benedino" "Altaravagna" "Menfini" "Chipantini" "Socadaglia" "Detinopoli" "Ineggina" "Tevino" "Confini" "Civitalugia" "Arerrogna" "Bidello" "Altatucca" "Radadimo" "Arecadissimo" "Sadoglia" "Cescena" "Tedadazzano" "Infello" "Sparraglia" "Povione" "Patoglia" "Pacadenze" "Speletta" "Aprivugia" "Civitadina" "Faervalleggio" "Revaio" "Chelezzo" "Sparavina" "Cacadizza" "Escella" "Tenfezzo" "Denfissimo" "Sopantazzano" "Nestucca" "Adadizza" "Solugia" "Altavaglia" "Tridopoli" "Civitadadetta" "Povallissimo" "Aprineggaio" "Civitacaglia" 
+	}
+	cruiser = {
+		"Pestraio" "Arecizza" "Apriletta" "Ceravazzano" "Aravone" "Pestaglia" "Benecosa" "Palenze" "Bidadazzano" "Cedadena" "Pocadetta" "Caneggale" "Sovallano" "Civitastrello" "Mecadone" "Aredadizza" "Caravino" "Mastoli" "Altacadaglia" "Acistugia" "Benevalloli" "Acipanteggio" "Tritinena" "Pestale" "Chineggello" "Ivallello" "Podadello" "Maraveggio" "Cheravucca" "Trineggione" "Codoglia" "Nevallini" "Porvallione" "Perrione" "Nestano" "Spalugia" "Nerrenze" "Astreto" "Altarvallini" "Benepantimo" "Arrenze" "Testeggio" "Rarraio" "Apripantissimo" "Sodini" "Civitapantello" "Civitavissimo" "Deneggello" "Reneggello" "Spatinione" 
+	}
+	frigate = {
+		"Acipantina" "Mastetta" "Poscissimo" "Arerrenze" "Mapantello" "Detino" "Potinale" "Irvallella" "Bipantale" "Detetta" "Sascucca" "Civitavallucca" "Spavella" "Tesceto" "Potucca" "Benerrazzano" "Irvallone" "Podaglia" "Poscimo" "Bistezzo" "Revagna" "Arevalletta" "Bivena" "Chidaio" "Altavallale" "Nestrizza" "Savella" "Arecaducca" "Irvallenze" "Enfugia" "Apriveggio" "Sodeggio" "Sparavopoli" "Icadeto" "Coneggeggio" "Arevalleggio" "Faedone" "Rescello" "Pavallosa" "Metino" "Radadella" "Specadimo" "Codadeggio" "Tristrello" "Acenze" "Bitini" "Deneggizza" "Maravino" "Civitataio" "Apritena" 
+	}
+	monitor = {
+		"Faevallosa" "Teneggezzo" "Pecadale" "Spastetta" "Civitatinello" "Testrena" "Caneggogna" "Benestrosa" "Enfella" "Costazzano" "Acicadezzo" "Rapantaglia" "Irrizza" "Decadella" "Mastrone" "Metinagna" "Cescino" "Decadoglia" "Madadugia" "Povone" "Mavallenze" "Pavione" "Rescena" "Medadaglia" "Racadazzano" "Poneggezzo" "Sodadopoli" "Panfogna" "Sarrena" "Civitanfena" "Castrezzo" "Nepantetta" "Peneggello" "Sadaducca" "Nevallugia" "Apridale" "Anfucca" "Civitatinenze" "Cotinaglia" "Tetimo" "Poneggagna" "Spestrone" "Tripantazzano" "Chirrucca" "Avogna" "Savalleggio" "Trirrissimo" "Chepantale" "Ivione" "Specizza" 
+	}
+}

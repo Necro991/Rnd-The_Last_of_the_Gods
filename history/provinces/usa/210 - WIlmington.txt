@@ -1,0 +1,6 @@
+trade_goods = coal
+life_rating = 31
+owner = LAV
+controller = LAV
+add_core = LAV
+add_core = TAE

@@ -1,0 +1,6 @@
+trade_goods = coal
+life_rating = 30
+owner = TIE
+controller = TIE
+add_core = TIE
+add_core = DON

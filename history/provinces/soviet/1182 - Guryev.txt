@@ -1,0 +1,7 @@
+trade_goods = coal
+life_rating = 33
+owner = THY
+controller = THY
+add_core = XOG
+add_core = YLI
+add_core = THY

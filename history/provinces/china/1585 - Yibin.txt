@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 33
+owner = KIR
+controller = KIR
+add_core = ROZ
+add_core = KIR

@@ -1,0 +1,5 @@
+trade_goods = cotton
+life_rating = 34
+owner = VAL
+controller = VAL
+add_core = VAL

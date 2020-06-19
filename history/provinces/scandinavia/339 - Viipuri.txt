@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 33
+owner = OZA
+controller = OZA
+add_core = OZA
+naval_base = 1

@@ -1,0 +1,5 @@
+trade_goods = sulphur
+life_rating = 33
+owner = CAS
+controller = CAS
+add_core = CAS

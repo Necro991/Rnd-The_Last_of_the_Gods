@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 35
+owner = KIZ
+controller = KIZ
+add_core = VAD
+add_core = ROZ
+add_core = KIZ

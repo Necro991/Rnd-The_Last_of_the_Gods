@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 30
+owner = CER
+controller = CER
+add_core = CER
+add_core = SAN
+add_core = QMV

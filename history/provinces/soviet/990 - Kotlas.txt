@@ -1,0 +1,8 @@
+trade_goods = silk
+life_rating = 31
+owner = ANA
+controller = ANA
+add_core = HAT
+add_core = SAN
+add_core = ANA
+add_core = MAL

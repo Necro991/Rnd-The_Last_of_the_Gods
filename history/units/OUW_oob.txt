@@ -1,0 +1,88 @@
+
+army = {
+	name = "1. Army"
+
+	location = 2204
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 2204
+	}
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 2208
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 2208
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 2208
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 2208
+	}
+	regiment = {
+		name = "2. Cavalry"
+
+		type = cavalry
+		home = 2208
+	}
+}
+
+army = {
+	name = "3. Army"
+
+	location = 2204
+	regiment = {
+		name = "3. Infantry"
+
+		type = infantry
+		home = 2204
+	}
+	regiment = {
+		name = "2. Artillery"
+
+		type = artillery
+		home = 2208
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 2204
+	ship = {
+		name = "HMS Ooststad"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "2. Fleet"
+
+	location = 2204
+	ship = {
+		name = "HMS Karelshoven"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+}

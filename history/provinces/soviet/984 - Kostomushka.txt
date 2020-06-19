@@ -1,0 +1,6 @@
+trade_goods = coffee
+life_rating = 33
+owner = UHU
+controller = UHU
+add_core = UHU
+add_core = OMU

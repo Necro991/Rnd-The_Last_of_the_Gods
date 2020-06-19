@@ -1,0 +1,6 @@
+trade_goods = wool
+life_rating = 35
+owner = LEJ
+controller = LEJ
+add_core = LEJ
+add_core = SAN

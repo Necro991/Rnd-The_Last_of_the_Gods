@@ -1,0 +1,5 @@
+trade_goods = tea
+life_rating = 30
+owner = ALT
+controller = ALT
+add_core = ALT

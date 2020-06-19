@@ -1,0 +1,11 @@
+trade_goods = timber
+life_rating = 33
+owner = VAD
+controller = VAD
+add_core = VAD
+add_core = ROZ
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

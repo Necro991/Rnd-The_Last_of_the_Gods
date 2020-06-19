@@ -1,0 +1,5 @@
+trade_goods = coal
+life_rating = 32
+owner = NAT
+controller = NAT
+add_core = NAT

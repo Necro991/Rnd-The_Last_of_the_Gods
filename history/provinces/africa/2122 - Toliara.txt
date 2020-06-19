@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 31
+owner = NGH
+controller = NGH
+add_core = DON
+add_core = NGH

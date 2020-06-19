@@ -1,0 +1,6 @@
+trade_goods = opium
+life_rating = 31
+owner = VAS
+controller = VAS
+add_core = VAS
+add_core = ROZ

@@ -1,0 +1,7 @@
+trade_goods = wool
+life_rating = 30
+owner = MED
+controller = MED
+add_core = KES
+add_core = MED
+add_core = ROZ

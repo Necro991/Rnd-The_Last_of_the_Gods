@@ -1,0 +1,6 @@
+trade_goods = tea
+life_rating = 35
+owner = DRA
+controller = DRA
+add_core = KER
+add_core = DRA

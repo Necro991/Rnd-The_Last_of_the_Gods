@@ -1,0 +1,9 @@
+trade_goods = fruit
+life_rating = 31
+owner = COR
+controller = COR
+add_core = ONA
+add_core = COR
+add_core = UZE
+add_core = SAN
+add_core = BAP

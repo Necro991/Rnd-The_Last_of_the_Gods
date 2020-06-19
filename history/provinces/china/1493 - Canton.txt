@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 31
+owner = MED
+controller = MED
+add_core = MED
+add_core = ROZ
+add_core = SAS

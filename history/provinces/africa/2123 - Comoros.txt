@@ -1,0 +1,6 @@
+trade_goods = tropical_wood
+life_rating = 35
+owner = KIM
+controller = KIM
+add_core = DON
+add_core = KIM

@@ -1,0 +1,7 @@
+trade_goods = fruit
+life_rating = 35
+owner = IAK
+controller = IAK
+add_core = IAK
+add_core = YTA
+add_core = KUR

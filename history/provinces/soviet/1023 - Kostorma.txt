@@ -1,0 +1,6 @@
+trade_goods = wool
+life_rating = 35
+owner = MAL
+controller = MAL
+add_core = SAN
+add_core = MAL

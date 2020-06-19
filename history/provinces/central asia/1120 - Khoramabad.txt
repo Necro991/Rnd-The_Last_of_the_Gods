@@ -1,0 +1,8 @@
+trade_goods = iron
+life_rating = 33
+owner = YAR
+controller = YAR
+add_core = RAA
+add_core = YLI
+add_core = YAR
+add_core = UGA

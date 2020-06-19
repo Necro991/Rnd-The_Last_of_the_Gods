@@ -1,0 +1,6 @@
+trade_goods = opium
+life_rating = 31
+owner = TAY
+controller = TAY
+add_core = KAJ
+add_core = TAY

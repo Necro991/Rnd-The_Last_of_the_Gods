@@ -1,0 +1,8 @@
+trade_goods = cattle
+life_rating = 33
+owner = SYL
+controller = SYL
+add_core = NYL
+add_core = NYP
+add_core = SYL
+naval_base = 1

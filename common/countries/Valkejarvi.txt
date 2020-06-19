@@ -1,0 +1,134 @@
+color = { 118 192 0 }
+graphical_culture = SouthAmericanGC
+
+party = {
+	name = VAL_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = VAL_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = VAL_conservative_3
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = VAL_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = VAL_liberal
+	start_date = 1911.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = VAL_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = VAL_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = VAL_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = VAL_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = VAL_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Kuukka" "Jarvejarvi" "Jyvasuu" "Kokeapio" "Kurirasia" "Kurisuu" "Heijarvi" "Ekepapunki" "Kuusenaki" "Haakepio" "Hartalainen" "Naajoniainen" "Heipio" "Keusuu" "Outotee" "Kuriajotee" "Kokaavalta" "Outotamaki" "Kaunijakoski" "Lohkaa" "Lohvinsinki" "Kuokaupio" "Kaunijarvi" "Kuupaa" "Ikaaranta" "Kauhaku" "Kuujasia" "Jyvavinvalta" "Anjantaniainen" "Sameeranta" "Kovalta" "Keutaavesi" "Kuojarvi" "Kousinki" "Raakauku" "Jarvemeepunki" "Valkevesi" "Fortaapaa" "Jyvakumpu" "Jousekumpu" "Kauhavesi" "Kaasaaskia" "Forsevalta" "Helkauranta" "Koukelainen" "Kauhakaukumpu" "Jamaki" "Koajonas" "Kuukkikia" "Kurivoo" 
+	}
+	ironclad = {
+		"Javoo" "Ylimaki" "Naapapaa" "Heltakumpu" "Kuoajoku" "Porvasjoki" "Aajasia" "Kouvinsia" "Koparuu" "Porkautee" "Valketajoki" "Kaskikeakka" "Kuhtasinki" "Kauhanen" "Ahvintee" "Ylikesa" "Kuukia" "Nojarvi" "Kouppekaa" "Sajakia" "Samaki" "Kurintaranta" "Heinaki" "Kuhjapaa" "Harranta" "Rovapapaa" "Kaunipanas" "Alavesi" "Kaunikaa" "Raapio" "Kuokipio" "Haanen" "Kauhapunki" "Kosa" "Lohkaajoki" "Nasesa" "Kuhrasuu" "Paijakia" "Anjavesi" "Alajarvi" "Anjakaa" "Kuhsemaki" "Kuhsia" "Riikkitee" "Alajoki" "Rovavalta" "Anjakkilainen" "Saruu" "Valketta" "Akakaukaa" 
+	}
+	manowar = {
+		"Nopio" "Saasaaskumpu" "Saku" "Ahkaa" "Vaasia" "Naataaruu" "Riivinjarvi" "Kaaraniainen" "Aakaasia" "Ylipavalta" "Kurikepunki" "Rovaniainen" "Harvaspio" "Nantaku" "Aataanen" "Kurivalta" "Riiniainen" "Oujakoski" "Saakaa" "Kuhkekia" "Anjatasinki" "Riisia" "Jyvantavoo" "Jakkikaa" "Heikkijoki" "Jarvesesa" "Rovapio" "Heivalta" "Haaku" "Pornaki" "Saajarvi" "Outee" "Kauniranas" "Sakaa" "Paisevesi" "Paikaaranta" "Rovaksasinki" "Kaunijasuu" "Ekepio" "Raasa" "Kurisuu" "Kurisinki" "Rovasejoki" "Naakauvalta" "Jarveku" "Heivasnen" "Kuhppekaa" "Jyvaniainen" "Kuriajolainen" "Saapaa" 
+	}
+	cruiser = {
+		"Jarvepperuu" "Sanaki" "Japaa" "Toppepio" "Satee" "Aajakaa" "Hartaakka" "Raavesi" "Kokaukia" "Ousesa" "Kokaajoki" "Nonas" "Loipunki" "Kaskiruu" "Kauhavinvesi" "Heltta" "Alajoki" "Haakia" "Aavinnen" "Kauhaselainen" "Haaajokka" "Keuniainen" "Kaajoki" "Rovavoo" "Kauhakeavesi" "Loimaki" "Raappepunki" "Porntavesi" "Raanen" "Rovaselainen" "Outomaki" "Ouvesi" "Heisesuu" "Jarvenaki" "Fortee" "Pairasuu" "Keuppesuu" "Ikaavintee" "Jakaanas" "Loikkivesi" "Saasaaspunki" "Loiksaruu" "Aataatta" "Valkekaa" "Saasaasnas" "Loikaa" "Ahlainen" "Kaataasinki" "Porsinki" "Oukaunen" 
+	}
+	frigate = {
+		"Kovinsa" "Lohksajoki" "Haakka" "Kuonen" "Raasaaskoski" "Loivalta" "Joukenen" "Kauhameesuu" "Kuosia" "Rovajarvi" "Heiranta" "Koukaamaki" "Forvoo" "Koutaatee" "Noseranta" "Helsa" "Heitee" "Saranta" "Jarvenas" "Saaksaniainen" "Naakiranta" "Kuojajoki" "Kovesi" "Ahmeevesi" "Kauhaajoruu" "Kuusia" "Jarveruu" "Anjatakia" "Paintaranta" "Jouvinkaa" "Nopaa" "Kuokumpu" "Painaki" "Oukia" "Helpunki" "Ikaakeanas" "Valkekekoski" "Ekepunki" "Helruu" "Ikaatee" "Kuukka" "Helkka" "Anjavinsa" "Kurikoski" "Kaskikoski" "Haasaaspaa" "Kuopaa" "Rovajoki" "Oukka" "Kauninaki" 
+	}
+	monitor = {
+		"Naavoo" "Kuusaasnen" "Porkumpu" "Jatee" "Jyvasuu" "Navesi" "Helkeasia" "Navalta" "Ahraniainen" "Alakeanas" "Jarvesa" "Valkejoki" "Porkoski" "Hartaaku" "Kuukeku" "Ylimeesa" "Ylimeepaa" "Jakkikoski" "Rovakaakumpu" "Keunaki" "Fornen" "Eketanaki" "Saavalta" "Loiranta" "Oukaupunki" "Aaksakaa" "Kuonaki" "Tojasuu" "Naanen" "Joukinen" "Kauhakeamaki" "Ylijoki" "Ahvoo" "Anjakisuu" "Raavasjoki" "Loipio" "Kauhavoo" "Kuosuu" "Lohntatee" "Forrasinki" "Nakitee" "Kurippepunki" "Kuupunki" "Ouvalta" "Harnen" "Kaakeapio" "Forvasnaki" "Raasuu" "Saakaukia" "Kauhavoo" 
+	}
+}

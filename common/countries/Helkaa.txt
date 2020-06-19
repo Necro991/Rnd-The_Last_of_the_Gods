@@ -1,0 +1,112 @@
+color = { 53 53 255 }
+graphical_culture = SouthAmericanGC
+
+party = {
+	name = HEL_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+party = {
+	name = HEL_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = HEL_liberal
+	start_date = 1903.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = HEL_liberal_2
+	start_date = 1890.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = HEL_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = HEL_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = HEL_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = HEL_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Hartta" "Akakausa" "Akaajovesi" "Lohtaajarvi" "Porjatta" "Anjakepunki" "Helkaa" "Kaskisia" "Akajakoski" "Keunaki" "Akamaki" "Nasuu" "Kaunipio" "Kaakesinki" "Jouvinvoo" "Pairaniainen" "Kuuvoo" "Kuripajarvi" "Jasia" "Topakia" "Ahkipaa" "Oumeekaa" "Koukka" "Tosuu" "Saapunki" "Valkevoo" "Loippenen" "Paikepio" "Porkka" "Raarajoki" "Valkekka" "Aakeavalta" "Raajoki" "Ahkeapaa" "Ikaakeasinki" "Heiravesi" "Keulainen" "Kauhapunki" "Helajoniainen" "Rovasinki" "Akasuu" "Valkemaki" "Loinaki" "Kuonen" "Kaskikia" "Helksasuu" "Vaajavalta" "Kaskikoski" "Saakeajoki" "Jyvatee" 
+	}
+	ironclad = {
+		"Kaasia" "Valkevinpunki" "Sasaasranta" "Ouvoo" "Kosinki" "Lohkia" "Aameetee" "Rovajapaa" "Kuhku" "Kovinnen" "Kaunipaa" "Riiparuu" "Anjakkitta" "Jyvasesia" "Aaranta" "Joumeesia" "Saksanen" "Jouvesi" "Raavinnas" "Riiruu" "Kurikkivoo" "Jakaa" "Kokia" "Porlainen" "Koutaakaa" "Helkka" "Kaskikoski" "Kuuajosinki" "Heltasinki" "Kaunisia" "Jyvajarvi" "Lohkipio" "Raapunki" "Sakkipaa" "Yliksamaki" "Ahsejarvi" "Ikaatta" "Haajarvi" "Kaavasvesi" "Ikaapasuu" "Riitaakaa" "Aantasa" "Nojoki" "Ouku" "Lohpaa" "Keukaatta" "Outokisia" "Anjameepunki" "Anjakausinki" "Keukkipio" 
+	}
+	manowar = {
+		"Porsaassuu" "Ikaakaukka" "Saaajopio" "Kuuniainen" "Riipunki" "Koujasuu" "Nanaki" "Raatatee" "Kaskikisia" "Aakkisia" "Porkaajarvi" "Kosa" "Alameesia" "Outoajonen" "Kuusia" "Navalta" "Norakaa" "Jyvataavalta" "Raavalta" "Koumeelainen" "Ylijakia" "Nasuu" "Hartee" "Sanas" "Ousesuu" "Kuukaakumpu" "Kaskitalainen" "Jarvejarvi" "Vaajarvi" "Saantapunki" "Valketee" "Naataasia" "Harvalta" "Haaajokaa" "Portta" "Totee" "Kaapavesi" "Paisinki" "Samaki" "Forsuu" "Raajasia" "Vaantasuu" "Akakautee" "Kaskippenaki" "Topio" "Ekekaa" "Akasinki" "Harkkinas" "Heivalta" "Javesi" 
+	}
+	cruiser = {
+		"Kuovesi" "Ylisepaa" "Nosaaskka" "Rovarakka" "Rovakkisuu" "Aappetta" "Akavintee" "Jarvepapunki" "Harkeruu" "Toppevesi" "Loikenen" "Ekeniainen" "Aanaki" "Alakumpu" "Keutaapunki" "Kaarapio" "Alaruu" "Forku" "Rovakaa" "Raanen" "Topaa" "Kaunijarvi" "Lohvinkka" "Kaameenen" "Saapunki" "Kauhavesi" "Vaantakumpu" "Kouksapunki" "Harkkimaki" "Aanen" "Loitaanaki" "Heisaassa" "Vaameejarvi" "Saakoski" "Kurisaasruu" "Ekeparuu" "Kaapio" "Kaajavesi" "Anjanen" "Raajoki" "Raataniainen" "Kouruu" "Kauhalainen" "Outotakka" "Helniainen" "Paintavoo" "Ahpaa" "Ahrakia" "Naakelainen" "Ikaanas" 
+	}
+	frigate = {
+		"Loiruu" "Ekekkisuu" "Ekesia" "Kauhajarvi" "Jyvakearuu" "Kuhkaasia" "Aanen" "Aataatta" "Fortaakia" "Porpajoki" "Konaki" "Raantavalta" "Saasevesi" "Outaaniainen" "Nakka" "Joukeakaa" "Outovalta" "Helsaassinki" "Kurisinki" "Ylisaasnas" "Nakeaniainen" "Rovajanen" "Anjajatta" "Kaskitavoo" "Toranta" "Saruu" "Ikaajasinki" "Naaruu" "Nokoski" "Tokauniainen" "Anjaruu" "Kaatasia" "Kuojaniainen" "Kaunikeakaa" "Riijarvi" "Heitta" "Heinen" "Anjavaspio" "Fornen" "Joupunki" "Natee" "Ahnas" "Jousia" "Akakiruu" "Nomeeranta" "Kaaniainen" "Kauhapakumpu" "Hellainen" "Haaajonaki" "Naavoo" 
+	}
+	monitor = {
+		"Anjakoski" "Ekesuu" "Ikaasuu" "Alanen" "Alasa" "Helrajoki" "Tosaasnen" "Eketaasia" "Aaniainen" "Akataapio" "Forkaa" "Kuhsaaskia" "Jaajovalta" "Alasuu" "Helkkisinki" "Aavasjarvi" "Haanaki" "Jousepio" "Akakaaku" "Harksasinki" "Haanen" "Heisia" "Jyvakka" "Jakikia" "Ekekka" "Jouvintee" "Ousaasvalta" "Loijoki" "Joukelainen" "Nararanta" "Raaruu" "Harsinki" "Jarvejajoki" "Anjasia" "Outoppepio" "Kurikivalta" "Paijoki" "Keutapio" "Raavaspaa" "Jyvaajokka" "Rovarajoki" "Kuripaa" "Ouvasruu" "Nonen" "Naajapio" "Jouruu" "Heivesi" "Loiajonaki" "Haajaniainen" "Ahkenas" 
+	}
+}

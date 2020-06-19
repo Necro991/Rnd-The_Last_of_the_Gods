@@ -1,0 +1,6 @@
+trade_goods = fruit
+life_rating = 31
+owner = EMT
+controller = EMT
+add_core = MAG
+add_core = YTA

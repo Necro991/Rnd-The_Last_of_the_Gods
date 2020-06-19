@@ -1,0 +1,7 @@
+trade_goods = timber
+life_rating = 31
+owner = HOK
+controller = HOK
+add_core = KAJ
+add_core = HOK
+add_core = TAR

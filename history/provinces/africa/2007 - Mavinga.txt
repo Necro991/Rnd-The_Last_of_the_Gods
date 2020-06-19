@@ -1,0 +1,6 @@
+trade_goods = tropical_wood
+life_rating = 30
+owner = EMI
+controller = EMI
+add_core = TIE
+add_core = DON

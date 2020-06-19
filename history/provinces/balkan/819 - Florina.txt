@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 32
+owner = VIN
+controller = VIN
+add_core = VIN
+add_core = RGN
+add_core = KER

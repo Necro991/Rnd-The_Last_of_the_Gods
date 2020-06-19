@@ -1,0 +1,101 @@
+color = { 58 83 255 }
+graphical_culture = UsGC
+
+party = {
+	name = DMB_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = DMB_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = DMB_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = DMB_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = DMB_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = DMB_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = DMB_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Groeneind" "Groenlo" "Friesenstein" "Middelhof" "Nijwoud" "Roeresstad" "Friessterweg" "Zuidtenhem" "Bredeeind" "Vlaardwarden" "Zuidbergen" "Groendal" "Middeleslo" "Bolendal" "Steenenhoek" "Haarsebroek" "Lelysebroek" "Vlaardhaven" "Korengouw" "Buitenenstad" "Noordtstad" "Buitenshoven" "Vlaardbergen" "Boltenhem" "Friestenstein" "Lagstein" "Roermolen" "Amsterstebeken" "Roosstestad" "Aaktwijken" "Noordhoven" "Amsterstebergen" "Friessesen" "Haarwijken" "Korensterstein" "Westenzijl" "Roerenhoek" "Vlaardbroek" "Bredehouten" "Steensestad" "Vlaardswarden" "Noordtenhem" "Zandtveld" "Ijsssterhof" "Zaandskerken" "Dokkhoek" "Hogwarden" "Haartschap" "Zandwoud" "Steenbeken" 
+	}
+	ironclad = {
+		"Zeetwoud" "Lagstein" "Halftenbrugge" "Frieseszanden" "Vaalsenveld" "Oostswolde" "Noordland" "Zeehoven" "Steendammen" "Lelytenzanden" "Steentden" "Nijden" "Aaktdorp" "Vaalswold" "Oostwolde" "Bolsdammen" "Buitenstede" "Aaksesen" "Bredewold" "Veenkerken" "Zwartthem" "Emtenstede" "Emden" "Halfstebergen" "Leeuwendorp" "Emwold" "Leerdlo" "Beversen" "Zwartesoog" "Karelsenbrug" "Vaalsenrijk" "Vlaardwoud" "Aardstad" "Vaalstwolde" "Nijtburcht" "Lelysterwoud" "Westtensen" "Amsterenzijl" "Amsterlo" "Nijtsen" "Buitenbos" "Hogenden" "Lagshoven" "Middelshaven" "Ouddijk" "Beverbrugge" "Bevereshaven" "Vaalssterdammen" "Willemsgouw" "Bakstehaven" 
+	}
+	manowar = {
+		"Bakhoek" "Noordgouw" "Amsterkamp" "Buitenesrijk" "Groentenbos" "Zaandstebrugge" "Veenstedalen" "Noordwarden" "Valkland" "Kleiendalen" "Emswouden" "Groenkamp" "Beverhorst" "Roostenweg" "Maashem" "Leeuwhem" "Halfsterden" "Nijsmolen" "Korensedorp" "Valksteeind" "Valklo" "Halfsteeind" "Leerdgouw" "Westesbroek" "Middelenbos" "Westsweg" "Westesweg" "Oostwarden" "Middelswarden" "Veenhorst" "Halfhouten" "Zuidtenwoud" "Emsbeken" "Steendorp" "Emwijken" "Willemslo" "Vlaardschap" "Middelwarden" "Leerdhem" "Noordstad" "Dokkbroek" "Nijstebos" "Lelysterdal" "Korensterstad" "Groensterzanden" "Ijssbos" "Lelytenwolde" "Kleidorp" "Vlaardeshouten" "Noordbergen" 
+	}
+	cruiser = {
+		"Willemstenwouden" "Lagenbos" "Karelsburcht" "Zaandschap" "Willemshoek" "Oudsden" "Oudstepolder" "Willemsbroek" "Kleitenburcht" "Bakenveen" "Noordwold" "Korenstede" "Zandburcht" "Bolhoven" "Vaalszanden" "Beverpolder" "Bakwoud" "Westhoven" "Zuidseland" "Kleihaven" "Bredethoorn" "Korenden" "Aardpolder" "Lagesdal" "Vaalswijken" "Oostzanden" "Veendal" "Dokksterwijken" "Beveroog" "Ijssbos" "Korenwarden" "Haarstehoek" "Amstertenwouden" "Veensterstad" "Karelslo" "Leeuwbeken" "Leeuwkamp" "Bredesteburcht" "Aaktveen" "Leerdkamp" "Zuidesburcht" "Zeeessen" "Groentenhoek" "Ijssweg" "Friessterdalen" "Vaalstenpolder" "Maassteburcht" "Aaksteschap" "Lagendorp" "Middelgouw" 
+	}
+	frigate = {
+		"Lagtdijk" "Middeltwarden" "Zandden" "Vaalstenbrug" "Wittsdijk" "Middelwarden" "Lelydijk" "Lelyoog" "Roerhem" "Lagsebroek" "Zandsemolen" "Noordhem" "Kleienhoorn" "Kleibeken" "Willemskerken" "Zeewold" "Friesveld" "Leerddalen" "Vlaardhoorn" "Aaksteweg" "Willemstenhorst" "Aakhem" "Bredebrugge" "Aardbrug" "Karelsesburcht" "Aakpolder" "Halfhem" "Middelsterbos" "Veenesweg" "Nijesdal" "Zwartsedijk" "Noordschap" "Roersdammen" "Buitenzijl" "Buitensterzanden" "Emland" "Westbrug" "Rozhoek" "Hogbrugge" "Buitenveld" "Willemssterwarden" "Amstertenstein" "Aardden" "Aakhouten" "Valkwold" "Bakhouten" "Veensen" "Vlaardveen" "Roostenweg" "Vaalsstein" 
+	}
+	monitor = {
+		"Amstersestad" "Groensterzanden" "Bevermolen" "Zeezijl" "Lelysterbrugge" "Vlaardtenburcht" "Ijssselo" "Emsterbroek" "Halfhof" "Vlaardwolde" "Bredesteroog" "Willemstenveen" "Aardtwijken" "Korensebrugge" "Veenlo" "Lagland" "Oostveld" "Maasgouw" "Maastbroek" "Leerdschap" "Aakenhoek" "Haarsterwoud" "Veendammen" "Zandtenden" "Haartenkamp" "Leerdweg" "Kleitenhaven" "Emsterhouten" "Friesesburcht" "Nijgouw" "Oostmolen" "Dokkthof" "Weststehouten" "Halfveen" "Valkbrugge" "Leerddal" "Haarhem" "Oudeshem" "Noorddalen" "Oudbergen" "Korenwoud" "Bredehoven" "Beverwijken" "Zeewoud" "Buitenenzijl" "Aakbrugge" "Leerdbeken" "Karelssestein" "Karelsbroek" "Leerdweg" 
+	}
+}

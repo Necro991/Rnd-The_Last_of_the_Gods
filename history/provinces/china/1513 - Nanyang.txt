@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 35
+owner = PIR
+controller = PIR
+add_core = ROZ
+add_core = MEH
+add_core = PIR

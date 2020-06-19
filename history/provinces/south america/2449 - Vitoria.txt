@@ -1,0 +1,5 @@
+trade_goods = fish
+life_rating = 31
+owner = DOK
+controller = DOK
+add_core = DOK

@@ -1,0 +1,12 @@
+trade_goods = cattle
+life_rating = 30
+owner = OSZ
+controller = OSZ
+add_core = VAS
+add_core = OSZ
+add_core = ROZ
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

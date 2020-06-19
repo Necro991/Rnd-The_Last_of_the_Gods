@@ -1,0 +1,5 @@
+trade_goods = tea
+life_rating = 34
+owner = ANJ
+controller = ANJ
+add_core = ANJ

@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 32
+owner = ANA
+controller = ANA
+add_core = SAN
+add_core = ANA

@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 32
+owner = LYT
+controller = LYT
+add_core = TUY
+add_core = DON
+add_core = LYT

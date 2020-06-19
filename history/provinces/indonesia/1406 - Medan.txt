@@ -1,0 +1,5 @@
+trade_goods = coal
+life_rating = 33
+owner = SUU
+controller = SUU
+add_core = SUU

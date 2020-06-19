@@ -1,0 +1,8 @@
+trade_goods = fish
+life_rating = 35
+owner = MAG
+controller = MAG
+add_core = MAG
+add_core = YTA
+add_core = PIN
+naval_base = 1

@@ -1,0 +1,126 @@
+
+army = {
+	name = "1. Army"
+
+	location = 600
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 591
+	}
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 590
+	}
+	regiment = {
+		name = "3. Infantry"
+
+		type = infantry
+		home = 600
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 629
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 561
+	regiment = {
+		name = "4. Infantry"
+
+		type = infantry
+		home = 409
+	}
+	regiment = {
+		name = "5. Infantry"
+
+		type = infantry
+		home = 595
+	}
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 560
+	}
+	regiment = {
+		name = "2. Artillery"
+
+		type = artillery
+		home = 589
+	}
+}
+
+army = {
+	name = "3. Army"
+
+	location = 597
+	regiment = {
+		name = "6. Infantry"
+
+		type = infantry
+		home = 630
+	}
+	regiment = {
+		name = "7. Infantry"
+
+		type = infantry
+		home = 602
+	}
+	regiment = {
+		name = "2. Cavalry"
+
+		type = cavalry
+		home = 589
+	}
+	regiment = {
+		name = "3. Artillery"
+
+		type = artillery
+		home = 600
+	}
+}
+
+army = {
+	name = "4. Army"
+
+	location = 601
+	regiment = {
+		name = "3. Cavalry"
+
+		type = cavalry
+		home = 598
+	}
+	regiment = {
+		name = "4. Artillery"
+
+		type = artillery
+		home = 594
+	}
+}
+
+army = {
+	name = "5. Army"
+
+	location = 625
+	regiment = {
+		name = "8. Infantry"
+
+		type = infantry
+		home = 409
+	}
+	regiment = {
+		name = "5. Artillery"
+
+		type = artillery
+		home = 586
+	}
+}

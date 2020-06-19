@@ -1,0 +1,7 @@
+trade_goods = wool
+life_rating = 33
+owner = PON
+controller = PON
+add_core = TOS
+add_core = KAJ
+add_core = PON

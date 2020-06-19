@@ -1,0 +1,7 @@
+trade_goods = fruit
+life_rating = 33
+owner = NYT
+controller = NYT
+add_core = NYL
+add_core = NYT
+naval_base = 1

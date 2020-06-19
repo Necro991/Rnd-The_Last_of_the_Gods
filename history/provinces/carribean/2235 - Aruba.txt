@@ -1,0 +1,8 @@
+trade_goods = grain
+life_rating = 34
+owner = AMS
+controller = AMS
+add_core = LEE
+add_core = MAA
+add_core = AMS
+naval_base = 1

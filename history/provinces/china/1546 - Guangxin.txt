@@ -1,0 +1,7 @@
+trade_goods = tropical_wood
+life_rating = 31
+owner = IAY
+controller = IAY
+add_core = IAY
+add_core = ROZ
+railroad = 1

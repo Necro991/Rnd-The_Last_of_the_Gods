@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 32
+owner = STE
+controller = STE
+add_core = STE
+add_core = KER
+naval_base = 1

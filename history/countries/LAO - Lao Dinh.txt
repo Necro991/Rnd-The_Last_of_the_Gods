@@ -1,0 +1,46 @@
+capital = 2099
+primary_culture = Tra_Phong_tag
+religion = mbuhxfiagwhcybxe
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_liberty
+literacy = 0.12
+civilized = no
+prestige = 0
+
+# Political Reforms
+slavery = no_slavery
+vote_franschise = none_voting
+upper_house_composition = appointed
+political_parties = gerrymandering
+voting_system = first_past_the_post
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# Voting:
+ruling_party = LAO_liberal
+last_election = 1833.2.1
+upper_house = {
+	fascist = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+	liberal = 15
+	reactionary = 0
+	conservative = 85
+}
+army_schools = yes_army_schools
+education_reform = yes_education_reform
+finance_reform = yes_finance_reform
+consciousness = 1
+nonstate_consciousness = 0

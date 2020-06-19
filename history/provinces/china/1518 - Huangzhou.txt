@@ -1,0 +1,7 @@
+trade_goods = coal
+life_rating = 31
+owner = PIR
+controller = PIR
+add_core = ROZ
+add_core = VAS
+add_core = PIR

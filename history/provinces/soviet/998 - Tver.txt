@@ -1,0 +1,7 @@
+trade_goods = iron
+life_rating = 31
+owner = OZA
+controller = OZA
+add_core = UZE
+add_core = SAN
+add_core = OZA

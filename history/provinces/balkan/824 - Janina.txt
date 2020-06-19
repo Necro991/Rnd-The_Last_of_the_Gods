@@ -1,0 +1,8 @@
+trade_goods = iron
+life_rating = 32
+owner = BEF
+controller = BEF
+add_core = BEF
+add_core = RGN
+add_core = KER
+naval_base = 1

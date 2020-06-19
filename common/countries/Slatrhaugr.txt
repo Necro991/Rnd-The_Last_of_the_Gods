@@ -1,0 +1,101 @@
+color = { 29 77 117 }
+graphical_culture = Europe2GC
+
+party = {
+	name = SLA_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = SLA_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = SLA_liberal
+	start_date = 1903.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = SLA_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = SLA_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = SLA_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = SLA_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Narfljot" "Vinskadi" "Aldrivatn" "Efriheim" "Laegingskadi" "Jotunnfjord" "AEgirskjoldr" "Tivarfjollottr" "Eldrland" "Thornborg" "Isshol" "Krasund" "Mattrhofn" "Haukrsker" "Firarsteinn" "Slatrhaugr" "Trollfjollottr" "Uppfjord" "Ofolrhamarr" "Slamork" "Reidrsteinn" "Erfidrskadi" "Grasfjall" "Nordheim" "Assvirki" "Frodskogr" "Sudskogr" "Dyrborg" "Hvitrsund" "Banimork" "Dvergrfell" "Ellrifell" "Nogrland" "AEgirheim" "Hafholt" "Svelbjarg" "Narvatn" "Jarnborg" "Samnavirki" "Groenhamarr" "Alfrskjoldr" "Foradbjarg" "Hvalrvirki" "Groenvegr" "Throttigrfjall" "Myrkrvarda" "Blarvatn" "Harrvatn" "Fleskbjarg" "Ovistuligrskogr" 
+	}
+	ironclad = {
+		"Draumrborg" "Sudhofn" "Groenskogr" "Kaupmadrborg" "Jarnskadi" "Vegrholt" "Erfidrheim" "Draugrhamarr" "Samnaskadi" "Verfjall" "Upphamarr" "Mikillsund" "Mjodrbjarg" "Sudsteinn" "Mikillhamarr" "Svelvirki" "Baniskjoldr" "Helvegr" "Ovistuligrhamarr" "Thunglmork" "Fjorlagheim" "Verhol" "Thunglhofn" "Laegingborg" "Skillingrvegr" "Svassvirki" "Banibjarg" "Kaupmadrheim" "Frodfell" "Ellriheim" "Hvedrungrvatn" "Draumrvatn" "Berserkrfljot" "Aldrigard" "Matrfjall" "Skipsbrotsteinn" "Marrborg" "Forlogbjarg" "Sudborg" "Hafskjoldr" "Marrland" "Laegingfjord" "Bjarnfjall" "Sarrfjord" "Slavatn" "Berserkrvatn" "Okraesilegrholt" "Krafljot" "Laegingfljot" "Narfljot" 
+	}
+	manowar = {
+		"Flesksund" "Jarnsteinn" "Ottifjord" "Grarhofn" "Uppfell" "Sarrheim" "Heitrfjord" "Bjarnfell" "Krasund" "Nordfjollottr" "Austhamarr" "Heitrfell" "Austfell" "Gullsteinn" "Alfrborg" "Mattrvarda" "Sudsund" "Blarbjarg" "Frodbjarg" "Throttigrmork" "Gullskadi" "Hvalrvarda" "Hvitrfljot" "Okraesilegrhamarr" "Alfrhamarr" "Sjalhofn" "Laegingfljot" "Laegingmork" "Kjollhofn" "Ofolrhamarr" "Hvedrungrbjarg" "Jotunnhofn" "Erfidrfjollottr" "Austskogr" "Gilskogr" "Happskjoldr" "Throttigrvarda" "Jotunnborg" "Samnahaugr" "Hvedrungrvarda" "Daudihol" "AEdrabjarg" "Hraunvatn" "Myrkrbjarg" "Kraland" "Happskjoldr" "Skipfjollottr" "Laegingvatn" "Samnafljot" "Tivarvirki" 
+	}
+	cruiser = {
+		"Dyrvegr" "Skipsbrotvirki" "Lydrborg" "Frodsund" "Laegingskogr" "Verhol" "Foradvarda" "Hofnbjarg" "Hvedrungrvatn" "Meinhamarr" "Skipsbrotskadi" "Grarskadi" "Modrhofn" "Vegrskogr" "Ottiholt" "Kjollland" "Frodfljot" "Fleskfjord" "Haettrhamarr" "Uppskogr" "Tivarskadi" "Heitrvarda" "Mattrhaugr" "Thornborg" "Slatrsteinn" "Fiskrfjollottr" "Austland" "Eldrheim" "Skipholt" "Meinskjoldr" "Nedriborg" "Skynsund" "Kjollheim" "Mannhol" "Heitrfjollottr" "Storrheim" "Nedribjarg" "Thornmork" "Efriholt" "Uppborg" "Berserkrskadi" "Slasund" "Okraesilegrfell" "Alfrmork" "Laegingvarda" "Meinvarda" "Frostvatn" "Narholt" "Alfrfjord" "Foradgard" 
+	}
+	frigate = {
+		"Haukrvarda" "Fornskadi" "Slatrfjall" "Myrkrvatn" "Kaupmadrland" "Bjarnborg" "Dvergrskadi" "Alfrgard" "Forlogvirki" "Mikillvegr" "Heitrfjollottr" "Fornsund" "Marrheim" "Berserkrfjall" "Forlogskogr" "Blarfljot" "Banigard" "Bjarnfjollottr" "Uppfjord" "Happsteinn" "Sarrvatn" "Ofolrsund" "Svelbjarg" "Hafsker" "AEgirborg" "Dyrfjord" "Nogrhofn" "Draugrvegr" "Frodfell" "Ofolrfjord" "Hafhofn" "Uppborg" "Narvatn" "Issheim" "Sarrhol" "AEgirvirki" "Vervarda" "Hraunfjollottr" "Trollskjoldr" "Mannfjord" "Fornfjord" "Ellrifell" "Forlogvatn" "Gullhol" "Trollborg" "AEdravirki" "Harrfjord" "Thunglvarda" "Slahaugr" "Flarvatn" 
+	}
+	monitor = {
+		"Hraungard" "Okraesilegrsund" "Storrskjoldr" "Haukrhamarr" "Farbjodrvarda" "Fokavatn" "Kaupmadrsund" "Sjalfjall" "Jotunnbjarg" "Fiskrhofn" "Farbjodrfjollottr" "Daudifjollottr" "Aldrihol" "Mikillfljot" "Bjarnsker" "Samnasker" "Modrvirki" "Jotunnholt" "Laegingheim" "Fjorlagfjollottr" "Svassfljot" "Trollhaugr" "Marrfljot" "Lifborg" "Thunglfjollottr" "Mattrborg" "AEgirhofn" "Harrborg" "Bjornfjollottr" "Frodsund" "Storrfjollottr" "Fleskmork" "Harrbjarg" "Mattrsker" "Marrsker" "Skipborg" "Vestskadi" "Efrisker" "Gullhamarr" "Hafskadi" "Mattrsker" "Hafvatn" "Hlaegiligrholt" "Fiskrvatn" "Frosthaugr" "Sudborg" "Thunglvirki" "Raudrsteinn" "Verfell" "Narmork" 
+	}
+}

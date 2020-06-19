@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 30
+owner = EMI
+controller = EMI
+add_core = DON
+add_core = UAN

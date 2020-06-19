@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 35
+owner = RGA
+controller = RGA
+add_core = RGA
+add_core = KER
+naval_base = 1

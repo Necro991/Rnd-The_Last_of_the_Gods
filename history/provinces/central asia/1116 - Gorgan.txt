@@ -1,0 +1,11 @@
+trade_goods = cotton
+life_rating = 30
+owner = GLY
+controller = GLY
+add_core = GLY
+add_core = YLI
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

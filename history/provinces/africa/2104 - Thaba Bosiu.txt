@@ -1,0 +1,8 @@
+trade_goods = timber
+life_rating = 32
+owner = XUA
+controller = XUA
+add_core = BIN
+add_core = DON
+add_core = XUA
+add_core = LAO

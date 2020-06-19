@@ -1,0 +1,10 @@
+trade_goods = grain
+life_rating = 33
+owner = RDE
+controller = RDE
+add_core = UEA
+add_core = LAO
+add_core = KZR
+add_core = DON
+add_core = ZDZ
+add_core = RDE

@@ -1,0 +1,112 @@
+color = { 103 255 65 }
+graphical_culture = MiddleEasternGC
+
+party = {
+	name = OMU_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = OMU_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = OMU_liberal
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = OMU_liberal_2
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = OMU_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = OMU_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = OMU_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = OMU_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Saridakiotlak" "Pazarmetcikale" "Gulmuskent" "Kahftcisavas" "Dukceklersi" "Bagakir" "Isikmuscuk" "Prenskirebul" "Cusukdiyar" "Sogukyuktoprak" "Untindonmek" "Ustmaksehir" "Kalpyukbzon" "Dumusdonmek" "Batiyukcuk" "Bayukdiyar" "Gusukcuk" "Ayiyukkir" "Pazarceklerzici" "Kedermuscun" "Eskigasi" "Prensceklertihkam" "Kahtalcuk" "Suclupru" "Kalpnlikotlak" "Unmirsavas" "Baharkirebzon" "Yukmuzkontluk" "Eskiyukgun" "Baharceklerruc" "Prensmuzgun" "Bukuzubzon" "Arimetciulke" "Sunliktihkam" "Kirtindiyar" "Doguyukruc" "Akbaftcibul" "Mavikuzuzici" "Beyazclusavas" "Cikirekara" "Tanrinlikkontluk" "Bugatoprak" "Usttankale" "Aymizikale" "Ayceklerzici" "Karmizikara" "Dumuzzici" "Sunliktihkam" "Sicakyuktihkam" "Karamizidonmek" 
+	}
+	ironclad = {
+		"Beyazsukbzon" "Gumuzsavas" "Dutaratruc" "Sicaksukzici" "Dekirebuk" "Aytalcun" "Demuzzici" "Sukurruc" "Batizelbzon" "Batizelsehir" "Guzelbzon" "Ayicukkale" "Sariclukale" "Mavirinctihkam" "Pazarnlikcuk" "Tasrincsi" "Unmetcisi" "Citalkara" "Omurkuzuzici" "Gomizikent" "Dunlikgun" "Kahzelcikarmak" "Yukceklerkir" "Dukkuzuulke" "Dukmaksehir" "Gumetcikontluk" "Dusekkent" "Buzeldonmek" "Hafifcukkent" "Kedernlikbul" "Kirtalbul" "Ciftcibul" "Tasmirzici" "Unceklerruc" "Akbadakicuk" "Bacukdiyar" "Mavisekgun" "Eskitaratotlak" "Akbadakikir" "Kurtmetcikara" "Aysukmic" "Beyazmaksehir" "Doftcibuk" "Batigapru" "Mavimircuk" "Akbaceklerbzon" "Kumetcikara" "Batitintihkam" "Pigabul" "Ariclukent" 
+	}
+	manowar = {
+		"Cikuzukale" "Aslanceklerotlak" "Saynlikzici" "Hizzelkale" "Kirgamic" "Ayirinctihkam" "Kalpkurdonmek" "Kahyukkara" "Beyazceklercikarmak" "Eskimakzici" "Bahmakkara" "Tuzftcikara" "Bahclucikarmak" "Piclucun" "Gulmakotlak" "Kukurzici" "Saygasi" "Gulcluruc" "Tumyukmic" "Renmaktihkam" "Tumgaruc" "Dukcukdonmek" "Citingun" "Citaratotlak" "Arisekkir" "Ustdakisehir" "Eskitaldiyar" "Prenstaltihkam" "Pigatihkam" "Batindonmek" "Bahmirruc" "Ayitalzici" "Renrincmic" "Cutalcun" "Bahtaratdiyar" "Kucuksi" "Goceklerkent" "Bahmakkara" "Kurtkuzucuk" "Dekurkent" "Hafiftanmic" "Prensmizisehir" "Pazarsuktihkam" "Tumkuzusi" "Omurtindonmek" "Kahmuzkent" "Gultankontluk" "Detinbzon" "Karakuzukale" "Gugazici" 
+	}
+	cruiser = {
+		"Tummuscikarmak" "Pazarrincsehir" "Cisukbzon" "Gutinulke" "Sumusdonmek" "Batimirsi" "Saytalzici" "Guceklerulke" "Dogutandonmek" "Hafiftantihkam" "Baharseksi" "Kalpclukara" "Curinckara" "Hizcuktoprak" "Suftciotlak" "Gokuzukir" "Kahclucikarmak" "Omurtancun" "Ayitaratmic" "Bugabul" "Gudakigun" "Renmuzruc" "Dekurkent" "Tuznlikmic" "Duksekdonmek" "Pazarclutoprak" "Saysekkent" "Guceklerbul" "Duktaratkara" "Hafifrinculke" "Sarimetcizici" "Karyukdonmek" "Rencukmic" "Pimussavas" "Aytintoprak" "Tummetcibul" "Gulnlikruc" "Tumkurcuk" "Karmircun" "Dogukuzuotlak" "Aslanmaktoprak" "Saygabzon" "Busukkara" "Kalpftcicun" "Aydakitihkam" "Kederceklermic" "Gusukzici" "Omurceklerotlak" "Bukurtoprak" "Eskiclubuk" 
+	}
+	frigate = {
+		"Ayiclukontluk" "Sutangun" "Ariceklerotlak" "Kirsekdonmek" "Dosekcikarmak" "Aslanmakkir" "Citinotlak" "Bucukcikarmak" "Yesirinctihkam" "Cikurruc" "Karzelgun" "Baharnlikkir" "Cirinckale" "Sumakkontluk" "Sariftcidonmek" "Bahrinckent" "Prenstalbzon" "Pimakdonmek" "Cidakitoprak" "Sicaktaratpru" "Isiksuktihkam" "Isikyuksi" "Kralmetcidonmek" "Tumgaulke" "Batinlikmic" "Dogabuk" "Ustmuscikarmak" "Cimuzsi" "Akbagabul" "Yukkuzubuk" "Goclusehir" "Kralclukale" "Karaftcigun" "Cikurkale" "Dukmetciotlak" "Susekbzon" "Mavimusdonmek" "Unftcigun" "Isikceklerulke" "Tummizidiyar" "Cisukkontluk" "Gugatihkam" "Kirmustihkam" "Ayiftcicikarmak" "Curinculke" "Eskigasi" "Gulcukruc" "Kralclubzon" "Kahmustoprak" "Duksukotlak" 
+	}
+	monitor = {
+		"Bataratgun" "Kedertincuk" "Gumussavas" "Kedertaratcuk" "Akbayukcuk" "Sariceklerzici" "Hiztankale" "Gultaratmic" "Hizsuksavas" "Bahtalsi" "Kurtdakibuk" "Batimussehir" "Hafifrinckent" "Ciclumic" "Eskidakibul" "Hizmaktihkam" "Buceklercun" "Batisekcikarmak" "Sicakmizicikarmak" "Ciftcimic" "Yesimiziruc" "Sogukceklertihkam" "Eskinlikcun" "Ustceklerdonmek" "Ayimetcikir" "Baharsukmic" "Aslantindiyar" "Batalmic" "Sucukotlak" "Sariyuktoprak" "Ciyukruc" "Isikmetcidonmek" "Gultinotlak" "Batikuzucikarmak" "Hafifsukdiyar" "Kahcukbuk" "Pazarclukontluk" "Ayceklerdonmek" "Kedercludonmek" "Kalpkirebul" "Ayrincruc" "Guyukkontluk" "Dogucuksehir" "Tumyuktoprak" "Pisukpru" "Rencuksehir" "Ayicuktihkam" "Gumusdiyar" "Baharmirpru" "Hafifmiziotlak" 
+	}
+}

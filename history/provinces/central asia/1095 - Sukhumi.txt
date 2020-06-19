@@ -1,0 +1,11 @@
+trade_goods = coffee
+life_rating = 30
+owner = LGY
+controller = LGY
+add_core = YLI
+add_core = LGY
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

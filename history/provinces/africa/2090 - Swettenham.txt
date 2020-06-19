@@ -1,0 +1,8 @@
+trade_goods = fruit
+life_rating = 33
+owner = GUK
+controller = GUK
+add_core = DON
+add_core = UEA
+add_core = GUK
+add_core = SOC

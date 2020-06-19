@@ -1,0 +1,5 @@
+trade_goods = coal
+life_rating = 34
+owner = DOK
+controller = DOK
+add_core = DOK

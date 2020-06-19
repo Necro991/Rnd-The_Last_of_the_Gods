@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 30
+owner = ZAO
+controller = ZAO
+add_core = ZAO
+add_core = YLI
+add_core = OSH

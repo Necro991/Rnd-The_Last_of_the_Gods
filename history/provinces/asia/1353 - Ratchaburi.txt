@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 30
+owner = HEL
+controller = HEL
+add_core = HEL
+naval_base = 1

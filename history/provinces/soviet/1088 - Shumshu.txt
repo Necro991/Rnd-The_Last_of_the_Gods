@@ -1,0 +1,8 @@
+trade_goods = fish
+life_rating = 20
+owner = STO
+controller = STO
+add_core = AND
+add_core = STO
+add_core = HLA
+naval_base = 1

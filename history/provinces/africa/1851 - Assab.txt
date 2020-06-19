@@ -1,0 +1,6 @@
+trade_goods = fruit
+life_rating = 30
+owner = EMI
+controller = EMI
+add_core = EMI
+naval_base = 1

@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 31
+owner = SKY
+controller = SKY
+add_core = HLA
+add_core = SKY
+naval_base = 1

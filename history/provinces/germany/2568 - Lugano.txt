@@ -1,0 +1,5 @@
+trade_goods = sulphur
+life_rating = 33
+owner = BEN
+controller = BEN
+add_core = BEN

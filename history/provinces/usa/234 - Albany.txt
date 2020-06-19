@@ -1,0 +1,7 @@
+trade_goods = coal
+life_rating = 31
+owner = WAM
+controller = WAM
+add_core = KAJ
+add_core = WAM
+add_core = PON

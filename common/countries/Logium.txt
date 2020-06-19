@@ -1,0 +1,123 @@
+color = { 198 0 58 }
+graphical_culture = Generic
+
+party = {
+	name = LOG_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = LOG_conservative_2
+	start_date = 1878.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = LOG_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = LOG_liberal
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = LOG_liberal_2
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = LOG_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = LOG_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+party = {
+	name = LOG_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = LOG_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Levetus" "Aemunium" "Mantiae" "Essetium" "Octala" "Britium" "Lanium" "Tesania" "Letii" "Octasatina" "Herluni" "Caetium" "Pevitina" "Leletium" "Septidoni" "Brintiae" "Trani" "Ponium" "Trampetii" "Locagium" "Brila" "Ganium" "Bricoma" "Ponitii" "Lotium" "Octancitae" "Gatina" "Getium" "Posta" "Aulenia" "Tratina" "Lala" "Popeii" "Tragionia" "Caelatae" "Sematae" "Agririae" "Septiriae" "Hernium" "Tetae" "Lempema" "Aletina" "Aentiae" "Hertae" "Octala" "Tivipeii" "Rovila" "Caermapeii" "Agriritii" "Lobema" 
+	}
+	ironclad = {
+		"Icotus" "Aleptum" "Aegiogium" "Agrirtatina" "Gesani" "Octataptum" "Brigiriae" "Tentiae" "Tiveriae" "Brilagium" "Roni" "Octania" "Alegista" "Rosta" "Lesta" "Penium" "Rorenium" "Loni" "Caenitium" "Aesta" "Agricuni" "Octatus" "Aenium" "Masta" "Octanonia" "Icoma" "Setae" "Gesta" "Gagintiae" "Herrmatii" "Letus" "Aeritina" "Britae" "Aetii" "Malesta" "Gedoptum" "Tetagium" "Setii" "Tetiptum" "Flasta" "Rotina" "Septila" "Agrilatina" "Logitus" "Aletii" "Icondila" "Briptum" "Aundipeii" "Segionium" "Petae" 
+	}
+	manowar = {
+		"Hernia" "Agritium" "Lontiae" "Tralenium" "Fladonia" "Rontiae" "Flatina" "Segium" "Garela" "Aunia" "Gebesta" "Portani" "Tracopeii" "Octagima" "Pomugium" "Auviriae" "Agritina" "Alenoriae" "Icotii" "Tini" "Tecupeii" "Agriptum" "Oeni" "Brireni" "Caematina" "Semasta" "Aletus" "Senium" "Aletus" "Caeptum" "Pelela" "Octabela" "Essegium" "Septirtatii" "Selatae" "Latani" "Mama" "Bripeii" "Icontiae" "Caempentiae" "Bricani" "Seviptum" "Tepeii" "Ropeii" "Britae" "Setina" "Selula" "Teptum" "Esselenium" "Traptum" 
+	}
+	cruiser = {
+		"Britini" "Trariae" "Agriptum" "Icononi" "Bripeii" "Sela" "Flalegium" "Pecasta" "Tecasta" "Icocuni" "Octatina" "Aercutae" "Caetina" "Lompetae" "Alelatium" "Gertatii" "Brinontiae" "Caeregium" "Aumpenia" "Segium" "Roriae" "Septirtapeii" "Setii" "Latipeii" "Mama" "Oeberiae" "Geninium" "Caetae" "Icola" "Septimpetii" "Bririae" "Sela" "Gariae" "Lanciptum" "Alelatae" "Tela" "Gegioriae" "Pomunium" "Sertama" "Locuntiae" "Loncitus" "Octartagium" "Lemutium" "Galama" "Lotii" "Petina" "Lagini" "Oentiae" "Lonoptum" "Galegium" 
+	}
+	frigate = {
+		"Segium" "Flacania" "Pogium" "Herlanium" "Letium" "Icolitus" "Posama" "Tedigium" "Locoriae" "Gesta" "Lontiae" "Lasasta" "Tetium" "Alenotium" "Segitina" "Hernia" "Icogiontiae" "Lartasta" "Agritii" "Galinia" "Caentiae" "Oetus" "Brirepeii" "Icotus" "Ronopeii" "Tebetae" "Sela" "Larima" "Auriae" "Marmatii" "Icocugium" "Tenia" "Essencitii" "Esseninia" "Gela" "Icogium" "Matii" "Laditus" "Gatium" "Alepeii" "Brini" "Trartatium" "Setus" "Brincitii" "Rotae" "Icopeii" "Tiptum" "Caeni" "Lania" "Oeni" 
+	}
+	monitor = {
+		"Aetii" "Gatium" "Ponitus" "Gania" "Testa" "Oetium" "Potus" "Hertium" "Tetii" "Aecatae" "Lani" "Agrila" "Auni" "Leni" "Agrinia" "Tintiae" "Tranium" "Septirtatium" "Sepeii" "Tindini" "Caenia" "Alecatii" "Lela" "Britii" "Sediptum" "Aenitina" "Tetii" "Poptum" "Letae" "Octaptum" "Aematium" "Caeni" "Flabela" "Oesta" "Trapeii" "Essepeii" "Trania" "Lolegium" "Legium" "Rotium" "Caeptum" "Sepeii" "Selima" "Lavetii" "Caentiae" "Icoriae" "Tinintiae" "Icoptum" "Teptum" "Selula" 
+	}
+}

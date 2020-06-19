@@ -1,0 +1,44 @@
+
+army = {
+	name = "1. Army"
+
+	location = 2613
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 2684
+	}
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 2613
+	}
+}
+
+army = {
+	name = "3. Army"
+
+	location = 2687
+	regiment = {
+		name = "3. Infantry"
+
+		type = infantry
+		home = 2687
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 2684
+	ship = {
+		name = "HMS Vijon"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+}

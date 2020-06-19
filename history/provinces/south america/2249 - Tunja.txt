@@ -1,0 +1,7 @@
+trade_goods = coffee
+life_rating = 30
+owner = HZE
+controller = HZE
+add_core = WEG
+add_core = LEE
+add_core = HZE

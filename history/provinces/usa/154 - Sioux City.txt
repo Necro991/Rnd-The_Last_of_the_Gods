@@ -1,0 +1,5 @@
+trade_goods = coffee
+life_rating = 34
+owner = LOG
+controller = LOG
+add_core = LOG

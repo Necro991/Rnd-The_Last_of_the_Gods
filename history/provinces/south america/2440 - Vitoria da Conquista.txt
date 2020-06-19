@@ -1,0 +1,6 @@
+trade_goods = fruit
+life_rating = 34
+owner = DOK
+controller = DOK
+add_core = OGO
+add_core = DOK

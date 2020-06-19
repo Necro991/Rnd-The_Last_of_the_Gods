@@ -1,0 +1,6 @@
+trade_goods = fruit
+life_rating = 33
+owner = NAI
+controller = NAI
+add_core = NAI
+add_core = DON

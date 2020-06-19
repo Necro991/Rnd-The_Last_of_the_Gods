@@ -1,0 +1,7 @@
+trade_goods = timber
+life_rating = 31
+owner = FEI
+controller = FEI
+add_core = BJO
+add_core = HLA
+add_core = FEI

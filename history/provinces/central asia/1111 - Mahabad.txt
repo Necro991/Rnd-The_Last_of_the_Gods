@@ -1,0 +1,11 @@
+trade_goods = dye
+life_rating = 32
+owner = ALG
+controller = ALG
+add_core = YLI
+add_core = ALG
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

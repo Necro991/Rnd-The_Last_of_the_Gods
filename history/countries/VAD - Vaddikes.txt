@@ -1,0 +1,47 @@
+capital = 2221
+primary_culture = Banalatomaz_tag
+religion = mtjazfphwakubfuk
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_equality
+literacy = 0.03
+civilized = no
+prestige = 0
+
+# Political Reforms
+slavery = no_slavery
+vote_franschise = none_voting
+upper_house_composition = appointed
+political_parties = gerrymandering
+voting_system = first_past_the_post
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# Voting:
+ruling_party = VAD_liberal_2
+last_election = 1830.4.11
+upper_house = {
+	fascist = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+	liberal = 5
+	reactionary = 3
+	conservative = 92
+}
+industrial_construction = yes_industrial_construction
+army_schools = yes_army_schools
+consciousness = 1
+nonstate_consciousness = 0
+oob = "VAD_oob.txt"
+

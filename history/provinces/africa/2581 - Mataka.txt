@@ -1,0 +1,12 @@
+trade_goods = silk
+life_rating = 35
+owner = KHO
+controller = KHO
+add_core = NAI
+add_core = DON
+add_core = KHO
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

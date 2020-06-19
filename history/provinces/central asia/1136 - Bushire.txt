@@ -1,0 +1,5 @@
+trade_goods = cotton
+life_rating = 35
+owner = YAR
+controller = YAR
+add_core = YAR

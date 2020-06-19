@@ -1,0 +1,7 @@
+trade_goods = cotton
+life_rating = 31
+owner = ROO
+controller = ROO
+add_core = LEE
+add_core = ROO
+add_core = DAL

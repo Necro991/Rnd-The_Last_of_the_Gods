@@ -1,0 +1,7 @@
+trade_goods = wool
+life_rating = 32
+owner = GIA
+controller = GIA
+add_core = YEN
+add_core = DON
+add_core = GIA

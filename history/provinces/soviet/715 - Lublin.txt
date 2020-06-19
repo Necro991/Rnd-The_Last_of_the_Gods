@@ -1,0 +1,5 @@
+trade_goods = timber
+life_rating = 34
+owner = ARE
+controller = ARE
+add_core = ARE

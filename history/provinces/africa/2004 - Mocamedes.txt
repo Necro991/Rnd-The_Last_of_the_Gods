@@ -1,0 +1,8 @@
+trade_goods = fish
+life_rating = 31
+owner = NAM
+controller = NAM
+add_core = TIE
+add_core = DON
+add_core = NAM
+fort = 1

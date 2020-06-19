@@ -1,0 +1,112 @@
+color = { 0 167 71 }
+graphical_culture = SpanishGC
+
+party = {
+	name = ROD_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ROD_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+party = {
+	name = ROD_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = ROD_liberal
+	start_date = 1890.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+party = {
+	name = ROD_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ROD_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = ROD_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ROD_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Cadadujar" "Albrada" "Chano" "Vana" "Guanavieja" "Cacalceres" "Alda" "Nolona" "Teno" "Leploda" "Rostolque" "Chate" "Vicencia" "Casgoza" "Guano" "Grajas" "Tarrabajara" "Guaviena" "Casdeno" "Salabagona" "Vichuelos" "Salastollona" "Moncanjas" "Sena" "Analacia" "Fuedeque" "Codojon" "Cadadujar" "Zastolvieja" "Cerdana" "Tarraralona" "Margona" "Heraciras" "Colcalchuelos" "Tarrate" "Marlona" "Alicenbrada" "Marstongona" "Baceres" "Anabrada" "Cerstonciras" "Salaraquera" "Lejon" "Cornada" "Corte" "Nostoljara" "Cocanjara" "Alilacia" "Hadecia" "Hedechuelos" 
+	}
+	ironclad = {
+		"Vagona" "Bargona" "Tarrabrada" "Chano" "Mallavieja" "Barlano" "Ledolid" "Grastonbrada" "Anajas" "Saladona" "Chacia" "Tarracalceres" "Norano" "Tedilla" "Rodas" "Guastogoza" "Cascia" "Ledrid" "Cadas" "Colranada" "Casdilla" "Bavieja" "Cercaldujar" "Zalajara" "Seceres" "Aldas" "Murstona" "Anaviequena" "Tenada" "Alicennueva" "Hecalda" "Fueplodolid" "Fuedachuelos" "Monradrid" "Colgona" "Cagona" "Corquena" "Corcenno" "Casdolid" "Tarradagoza" "Salaquera" "Mana" "Vaviedujar" "Moncanchuelos" "Vaquera" "Hadolid" "Alradas" "Nodojara" "Cerbadolid" "Badanueva" 
+	}
+	manowar = {
+		"Lelaceres" "Ledilla" "Guadas" "Chadaca" "Sancalceres" "Sebajara" "Fuedaquena" "Vavieja" "Codrid" "Videchuelos" "Murstoncia" "Noquera" "Murraceres" "Fuejara" "Murcaldujar" "Maciras" "Vanajara" "Guacaldilla" "Levieja" "Monstociras" "Alibrada" "Badrid" "Alica" "Lestochuelos" "Corjas" "Corlona" "Teceres" "Lededilla" "Noca" "Chabaca" "Mastonada" "Rogoza" "Fuejon" "Ledilla" "Vica" "Murchuelos" "Marquena" "Granada" "Leplodilla" "Leplonueva" "Marlagona" "Barstonca" "Nostogona" "Zadalona" "Vaplociras" "Zarada" "Majara" "Cadedilla" "Sanradas" "Hestodrid" 
+	}
+	cruiser = {
+		"Alistocia" "Hastociras" "Murcalciras" "Murquera" "Corjas" "Sangona" "Cerstojas" "Monstonna" "Cerplono" "Monracia" "Zaciras" "Anadobrada" "Nogona" "Cocengona" "Telona" "Lelana" "Graquera" "Tarraciras" "Machuelos" "Fueciras" "Hadadrid" "Corragoza" "Hequena" "Lecaldrid" "Marnueva" "Vadovieja" "Gradedilla" "Tarracandrid" "Seviedolid" "Aldada" "Serajas" "Madrid" "Vique" "Monplogoza" "Legoza" "Saladate" "Fueno" "Fuestodrid" "Vacanca" "Barlana" "Leciras" "Cadoquena" "Teceres" "Chastolnueva" "Guano" "Corlaciras" "Caciras" "Bardovieja" "Corbrada" "Tecandas" 
+	}
+	frigate = {
+		"Alnueva" "Albadilla" "Anaceres" "Malcallona" "Corquena" "Coldolid" "Zaque" "Coldajas" "Murplono" "Coldana" "Casviequera" "Cadolid" "Badejon" "Barte" "Sebagona" "Chaviequena" "Mana" "Sannagona" "Vaquera" "Hedeciras" "Casdolid" "Casdilla" "Vaviejon" "Fuecangona" "Lestolgona" "Cascenna" "Hedujar" "Hedilla" "Costolca" "Vada" "Sanradolid" "Alda" "Cerdas" "Ledrid" "Hanada" "Cadujar" "Vinueva" "Malstonna" "Cerlona" "Malte" "Guada" "Malte" "Guaraquena" "Selaquena" "Anacenquera" "Hada" "Cerdilla" "Fuechuelos" "Coldolid" "Monladas" 
+	}
+	monitor = {
+		"Monte" "Cascanlona" "Hastoljara" "Monceres" "Barbrada" "Zastolno" "Baragoza" "Lestojara" "Ledaceres" "Murca" "Fuebanada" "Maplodilla" "Rodeca" "Alistoncia" "Murbrada" "Tarracia" "Zaca" "Caplochuelos" "Alistona" "Leque" "Coque" "Hacenciras" "Badaquena" "Tequera" "Noranada" "Hedas" "Alquena" "Cabrada" "Vabacia" "Seplovieja" "Gradujar" "Hajon" "Macenda" "Cadeciras" "Murradrid" "Tedujar" "Tarralaquera" "Colceres" "Colque" "Alna" "Cerstolciras" "Gradujar" "Cordoceres" "Murquera" "Tarravienada" "Leraca" "Maplodilla" "Anacenchuelos" "Sannagona" "Nogoza" 
+	}
+}

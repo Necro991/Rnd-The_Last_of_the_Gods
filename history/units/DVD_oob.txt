@@ -1,0 +1,66 @@
+
+army = {
+	name = "1. Army"
+
+	location = 28
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 113
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 97
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 2547
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 2526
+	}
+	regiment = {
+		name = "2. Cavalry"
+
+		type = cavalry
+		home = 115
+	}
+	regiment = {
+		name = "2. Artillery"
+
+		type = artillery
+		home = 2547
+	}
+}
+
+army = {
+	name = "3. Army"
+
+	location = 101
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 2545
+	}
+	regiment = {
+		name = "3. Cavalry"
+
+		type = cavalry
+		home = 119
+	}
+	regiment = {
+		name = "3. Artillery"
+
+		type = artillery
+		home = 2526
+	}
+}

@@ -1,0 +1,7 @@
+trade_goods = timber
+life_rating = 32
+owner = VEG
+controller = VEG
+add_core = GRA
+add_core = HLA
+add_core = VEG

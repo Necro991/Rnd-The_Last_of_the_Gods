@@ -1,0 +1,14 @@
+trade_goods = fish
+life_rating = 32
+owner = LOS
+controller = LOS
+add_core = SAM
+add_core = GRG
+add_core = ROZ
+add_core = LOS
+fort = 1
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 31
+owner = HOF
+controller = HOF
+add_core = LEE
+add_core = NOO
+add_core = HOF

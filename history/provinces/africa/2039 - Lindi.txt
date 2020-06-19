@@ -1,0 +1,8 @@
+trade_goods = fish
+life_rating = 35
+owner = YTQ
+controller = YTQ
+add_core = YTQ
+add_core = TUY
+add_core = DON
+fort = 1

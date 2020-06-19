@@ -1,0 +1,7 @@
+trade_goods = coffee
+life_rating = 30
+owner = EZU
+controller = EZU
+add_core = NOK
+add_core = EZU
+add_core = ROZ

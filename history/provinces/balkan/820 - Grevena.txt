@@ -1,0 +1,7 @@
+trade_goods = tropical_wood
+life_rating = 34
+owner = VIN
+controller = VIN
+add_core = VIN
+add_core = RGN
+add_core = KER

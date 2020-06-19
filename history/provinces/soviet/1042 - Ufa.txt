@@ -1,0 +1,8 @@
+trade_goods = wool
+life_rating = 35
+owner = SAL
+controller = SAL
+add_core = SAL
+add_core = SAN
+add_core = QMV
+add_core = LVU

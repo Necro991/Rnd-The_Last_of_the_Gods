@@ -1,0 +1,8 @@
+trade_goods = fruit
+life_rating = 31
+owner = LIS
+controller = LIS
+add_core = EIA
+add_core = NYL
+add_core = LIS
+naval_base = 1

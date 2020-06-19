@@ -1,0 +1,5 @@
+trade_goods = wool
+life_rating = 32
+owner = EVA
+controller = EVA
+add_core = EVA

@@ -1,0 +1,5 @@
+trade_goods = tobacco
+life_rating = 31
+owner = LAV
+controller = LAV
+add_core = LAV

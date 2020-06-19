@@ -1,0 +1,7 @@
+trade_goods = wool
+life_rating = 35
+owner = HUC
+controller = HUC
+add_core = HOA
+add_core = DON
+add_core = HUC

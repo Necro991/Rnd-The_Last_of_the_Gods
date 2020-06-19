@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 35
+owner = SAL
+controller = SAL
+add_core = SAL
+add_core = LVU
+add_core = SAN

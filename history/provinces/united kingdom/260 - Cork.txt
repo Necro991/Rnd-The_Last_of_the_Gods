@@ -1,0 +1,5 @@
+trade_goods = sulphur
+life_rating = 31
+owner = GUL
+controller = GUL
+add_core = GUL

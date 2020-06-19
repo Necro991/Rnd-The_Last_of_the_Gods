@@ -1,0 +1,101 @@
+color = { 77 185 83 }
+graphical_culture = Generic
+
+party = {
+	name = ATH_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ATH_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = ATH_liberal
+	start_date = 1903.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = ATH_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ATH_socialist
+	start_date = 1860.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = ATH_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ATH_fascist
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Z'ynak" "Mirkakub" "Thu'kai" "Haddanon" "K'yinosh" "L'gy'kai" "Kothar" "Kythaga" "Xonon" "Kr'llyth" "Zaoa" "Z'y'kai" "Yarthar" "Vhorth" "Kynaggai" "Dylanak" "Dylanosh" "Ulkhu" "Dyla'kai" "Shaggon" "Yo'kai" "Mthuth" "Z'yth" "Xoth" "Zaob" "Haddaggon" "Thyth" "Ulkub" "Glyuga" "Yarnath" "Abbith" "Y'qash" "Urakhu" "Mthua" "Alth" "K'ginosh" "Xoth" "Ulkhu" "Alnak" "Thya" "Cykrathar" "Z'yth" "Abbikub" "Yarnakhu" "Xia" "Vhoga" "Yarth" "Thub" "L'gythar" "Uraggai" 
+	}
+	ironclad = {
+		"Ala" "Mirkath" "K'giggai" "Yuggokhu" "Shath" "Ktythar" "Alnak" "Zothiggai" "Vhokhu" "L'gyth" "L'gy'hx" "Mirka'hx" "Ylidiggai" "Mthurth" "Ktyggon" "Thyga" "Thu'hx" "Mirkath" "Shaggon" "Kythakub" "Zaorth" "Alggai" "Xeth" "Thyo'kai" "K'girth" "K'gikub" "Mthuth" "Haddanak" "K'ginak" "Thyga" "Yarna'hx" "Abbi'hx" "Kythathar" "Kr'llynon" "Zaonon" "Zothith" "Konosh" "Dylath" "Zao'kai" "K'gith" "Kokub" "Mirkaga" "Thykhu" "Kythanon" "Thyonosh" "Kr'llythar" "Yarnakhu" "Xirth" "K'girth" "Ala" 
+	}
+	manowar = {
+		"Haddathar" "Alth" "Alrth" "Xoth" "K'yia" "Kynanak" "Kythakub" "Yaddiggon" "Thyggon" "K'gith" "Alnak" "Haddaggon" "Shanon" "Thyggon" "Mirkarth" "Yuggoth" "Dylash" "Kynaggon" "Kythash" "Abbi'kai" "Zothib" "Y'qanosh" "Glyuggon" "Xiga" "Zaorth" "Xo'kai" "K'gith" "Thyoth" "Konon" "Alnosh" "Thyth" "Kr'llynosh" "Xinon" "Xi'kai" "Alsh" "Zaoth" "Z'yb" "Ula" "Yarkhu" "Yuggoga" "Yara" "Thyggai" "Kr'llythar" "Thyosh" "K'yith" "Zothikhu" "Zaokhu" "Vhob" "Koth" "Yaddiggai" 
+	}
+	cruiser = {
+		"K'yia" "Xinosh" "Mthuggon" "Abbi'hx" "Xi'kai" "Kythanon" "Abbith" "Yuggob" "Uraa" "Thykub" "Mthuga" "Kytha'kai" "Uraga" "L'gy'hx" "Mirkath" "Yar'kai" "Thush" "Xib" "Yuggonak" "Thuggon" "Xirth" "Sha'kai" "Konosh" "K'gi'hx" "Vhonosh" "Haddanon" "Ura'hx" "Kynathar" "Kythash" "Ulggon" "Ula" "Vhoa" "Mirka'kai" "Xithar" "Ulggon" "Kty'hx" "Yo'kai" "Abbinosh" "Yothar" "Cykraggon" "Xia" "Xiggon" "Yuggokub" "Ulth" "Xoggon" "Urakhu" "Kr'llynak" "K'yiga" "Mirkakhu" "Yuggoggon" 
+	}
+	frigate = {
+		"Y'qaga" "Yarnosh" "Kob" "Kr'llyggon" "Yuggosh" "Kytha'hx" "Z'ykhu" "Mthu'hx" "K'yinak" "Thyrth" "Alga" "Kythath" "Yorth" "Vhokub" "Konak" "Ylidib" "Y'qath" "Thyga" "Thuth" "Ylidirth" "Ylidikhu" "Koggon" "Mthukhu" "Xinon" "Vhoggon" "K'yiggon" "Thyth" "Kythath" "Kynaggai" "Cykraga" "Xekhu" "Yoggon" "Y'qa'kai" "Cykranon" "Xekhu" "Yuggob" "Yuggoth" "Xethar" "Y'qanosh" "Yoth" "Yarth" "Kr'llyth" "Yarsh" "Thyoggon" "Vhokub" "Mthua" "Z'yggai" "Yarb" "Xi'kai" "L'gythar" 
+	}
+	monitor = {
+		"Yar'kai" "K'gish" "Mthuggon" "Vhorth" "Ktyth" "Kythash" "Shath" "Shath" "Xe'hx" "Xenosh" "Cykranosh" "Yarth" "Thu'kai" "Thuth" "Kr'llysh" "Shath" "Kr'llyth" "Glyua" "Yoth" "Mthuthar" "Yuggo'hx" "Shath" "Urarth" "Dylaggon" "K'yish" "Dylab" "Xithar" "Thush" "Y'qaggon" "Kr'llykhu" "Kynanosh" "Xeb" "Y'qash" "Ktyth" "Yonon" "K'gish" "Xeggon" "Vhonak" "Shab" "Dylakub" "Thyonak" "Yaddish" "Alnak" "Haddath" "Mthuth" "Glyuga" "Z'yth" "Kythathar" "Ulnon" "Yaddib" 
+	}
+}

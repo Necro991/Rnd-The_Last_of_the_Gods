@@ -1,0 +1,112 @@
+color = { 0 157 170 }
+graphical_culture = Europe1GC
+
+party = {
+	name = KAP_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = KAP_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = KAP_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = KAP_liberal
+	start_date = 1890.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = KAP_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = KAP_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = KAP_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = KAP_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Radjurberg" "Rottskog" "Trevligtfaste" "Mildskog" "Vattenomrade" "Ostmark" "Jungfrubabord" "Prinsnaste" "Hjartahamn" "Mildamne" "Stenpalats" "Varboet" "Gronfontan" "Berommelsefontan" "Solvarld" "Rhenpalats" "Omfaste" "Narliggandeamne" "Vitamne" "Storaregion" "Prinsamne" "Jagarefontan" "Arbetarehamnstad" "Drakefort" "Ovregrevskap" "Salta" "Manenborg" "Stenberg" "Kraftfullbabord" "Prinsslott" "Vattenaker" "Vargfalt" "Narliggandefort" "Jungfrupalats" "Tungastad" "Hjartapalats" "Hertigaker" "Ostamne" "Sorgboet" "Vargbabord" "Kungfaste" "Varprovins" "Hetkyrka" "Hostenhamnstad" "Ovrehamnstad" "Prinsstrom" "Ornstrom" "Tungakyrka" "Kraftfullboet" "Brahamn" 
+	}
+	ironclad = {
+		"Underbartberg" "Ornskog" "Ornborg" "Beevarld" "Hjartaportvin" "Befriatportvin" "Smartarike" "Rosprovins" "Narliggandehamn" "Allaboet" "Manenamne" "Smartaslott" "Kunggrevskap" "Allaaker" "Brunberg" "Ostportvin" "Bjornaker" "Kunga" "Ornarfaste" "Prinsstrom" "Hertigstad" "Hertigpalats" "Litenborg" "Solnaste" "Silverfalt" "Ornmark" "Bjornomrade" "Sorgstad" "Gropfontan" "Smartakyrka" "Morkrike" "Rhenskog" "Vildsvina" "Ovrepalats" "Litennaste" "Solbabord" "Nedankyrka" "Vattenfaste" "Saltstad" "Kolbabord" "Allapalats" "Hostena" "Blommornaste" "Pigamark" "Berommelseboet" "Blommora" "Arbetarerike" "Rikaflod" "Narliggandeberg" "Krakanaste" 
+	}
+	manowar = {
+		"Sillberg" "Kraftfullportvin" "Olbabord" "Prinsberg" "Smartapalats" "Sillborg" "Morkrike" "Olfalt" "Gropflod" "Kungstrom" "Gamskog" "Berommelsefort" "Gropportvin" "Vitvarld" "Litenslott" "Roslandskap" "Smartaberg" "Rhenboet" "Blommormark" "Trevligtbabord" "Gronlandskap" "Ljushamn" "Braborg" "Gulamne" "Stenvarld" "Prinsfort" "Forkylninglandskap" "Underbartgrevskap" "Sillskog" "Gudborg" "Varportvin" "Ovrehamnstad" "Drakeboet" "Varamne" "Gamlahamn" "Bruna" "Lejonhamn" "Gamlaregion" "Hjartaslott" "Solstrom" "Hetgrevskap" "Hostenboet" "Allaboet" "Berommelsehamn" "Litenprovins" "Ornarfort" "Pigafort" "Radjurboet" "Omlandskap" "Berommelsenaste" 
+	}
+	cruiser = {
+		"Blamark" "Ornarhamnstad" "Rottpalats" "Hjartaa" "Laghamn" "Lagrike" "Olbabord" "Saltslott" "Mildskog" "Kolhamnstad" "Rosfalt" "Rhenprovins" "Jagarefort" "Brungrevskap" "Himmelamne" "Trevligtang" "Gudborg" "Prinsrike" "Ovreslott" "Forkylningkyrka" "Sillberg" "Gylleneprovins" "Vastrike" "Prinshamnstad" "Lejonboet" "Ovreaker" "Blommora" "Manenstad" "Narliggandeomrade" "Rikaamne" "Kolfort" "Forkylningskog" "Vildsvinpalats" "Varamne" "Kolmark" "Rosfaste" "Underbartflod" "Rottkyrka" "Prinsfaste" "Jagarerike" "Braprovins" "Pigaportvin" "Olfort" "Hetfontan" "Jungfruregion" "Varrike" "Kolhamnstad" "Ovrefontan" "Kolstad" "Underbartang" 
+	}
+	frigate = {
+		"Hastfaste" "Rotta" "Ljusprovins" "Sillprovins" "Braberg" "Braamne" "Frankmark" "Rosfalt" "Kolrike" "Norrprovins" "Vastskog" "Norrpalats" "Lejonhamnstad" "Rottskog" "Jarnstrom" "Kraftfullborg" "Litenflod" "Hjartastrom" "Befriathamn" "Gamlakyrka" "Saltregion" "Beekyrka" "Olomrade" "Berommelseborg" "Gamstrom" "Nedanamne" "Hetnaste" "Smartaboet" "Jungfrufalt" "Rikaamne" "Morklandskap" "Varfaste" "Berommelsefort" "Hostenslott" "Oststad" "Ljusberg" "Vattenhamn" "Mynthamnstad" "Morkportvin" "Sorgboet" "Tungakyrka" "Vargvarld" "Rosflod" "Silveromrade" "Himmelboet" "Ornhamn" "Storang" "Morkfort" "Litenrike" "Litenamne" 
+	}
+	monitor = {
+		"Brunomrade" "Vildsvinang" "Ornaramne" "Rottang" "Gamlaang" "Underbartstrom" "Omamne" "Sorgpalats" "Morkslott" "Gudang" "Underbartboet" "Gyllenepalats" "Blaang" "Brunberg" "Risprovins" "Braborg" "Vildsvinomrade" "Tungapalats" "Drakeang" "Gulberg" "Ornvarld" "Rottfalt" "Gropregion" "Risomrade" "Saltflod" "Rhenstad" "Underbarthamnstad" "Olaker" "Groplandskap" "Vitstrom" "Kraftfullhamn" "Hetkyrka" "Norrslott" "Gulboet" "Norrvarld" "Frankflod" "Gudang" "Allaprovins" "Kraftfullstrom" "Hertignaste" "Tunganaste" "Trevligtfaste" "Lagfontan" "Blagrevskap" "Rottfort" "Sillkyrka" "Nedanhamnstad" "Rosgrevskap" "Myntvarld" "Kungfort" 
+	}
+}

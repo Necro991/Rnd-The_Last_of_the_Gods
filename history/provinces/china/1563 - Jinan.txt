@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 30
+owner = PIR
+controller = PIR
+add_core = ROZ
+add_core = PIR

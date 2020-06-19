@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 34
+owner = TAR
+controller = TAR
+add_core = KAJ
+add_core = TAR

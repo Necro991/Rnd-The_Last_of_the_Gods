@@ -1,0 +1,9 @@
+trade_goods = fruit
+life_rating = 33
+owner = BIN
+controller = BIN
+add_core = XUA
+add_core = UEA
+add_core = BIN
+add_core = LAO
+add_core = DON

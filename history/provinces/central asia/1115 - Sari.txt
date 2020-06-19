@@ -1,0 +1,7 @@
+trade_goods = sulphur
+life_rating = 31
+owner = GLY
+controller = GLY
+add_core = GLY
+add_core = YLI
+add_core = YAR

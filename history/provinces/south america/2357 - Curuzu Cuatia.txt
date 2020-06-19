@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 35
+owner = PAK
+controller = PAK
+add_core = YTA
+add_core = UBA
+add_core = PAK

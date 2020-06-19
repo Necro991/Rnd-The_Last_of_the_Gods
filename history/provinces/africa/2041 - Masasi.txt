@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 35
+owner = TUY
+controller = TUY
+add_core = TUY
+add_core = DON

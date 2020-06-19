@@ -1,0 +1,5 @@
+trade_goods = precious_metal
+life_rating = 32
+owner = EMI
+controller = EMI
+add_core = EMI

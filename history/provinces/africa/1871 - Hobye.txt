@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 32
+owner = YKR
+controller = YKR
+add_core = DON
+add_core = LYT
+add_core = YKR

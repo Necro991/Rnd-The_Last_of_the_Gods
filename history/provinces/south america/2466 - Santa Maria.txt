@@ -1,0 +1,7 @@
+trade_goods = sulphur
+life_rating = 35
+owner = KUR
+controller = KUR
+add_core = IAK
+add_core = YTA
+add_core = KUR

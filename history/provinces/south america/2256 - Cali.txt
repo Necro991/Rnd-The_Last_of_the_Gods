@@ -1,0 +1,6 @@
+trade_goods = cattle
+life_rating = 30
+owner = AAK
+controller = AAK
+add_core = LEE
+add_core = AAK

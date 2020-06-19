@@ -1,0 +1,8 @@
+trade_goods = cattle
+life_rating = 31
+owner = LAM
+controller = LAM
+add_core = DON
+add_core = LAM
+add_core = OOL
+fort = 1

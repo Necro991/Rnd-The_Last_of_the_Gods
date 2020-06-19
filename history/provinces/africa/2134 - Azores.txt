@@ -1,0 +1,5 @@
+trade_goods = fruit
+life_rating = 33
+owner = PEB
+controller = PEB
+add_core = PEB

@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 34
+owner = SAL
+controller = SAL
+add_core = SAL
+add_core = SAN
+add_core = TXS

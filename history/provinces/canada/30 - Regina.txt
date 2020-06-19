@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 30
+owner = EIA
+controller = EIA
+add_core = EIA
+add_core = NYL

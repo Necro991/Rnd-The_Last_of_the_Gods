@@ -1,0 +1,6 @@
+trade_goods = cotton
+life_rating = 35
+owner = EMT
+controller = EMT
+add_core = LEE
+add_core = EMT

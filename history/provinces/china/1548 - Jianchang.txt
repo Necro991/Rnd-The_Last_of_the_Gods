@@ -1,0 +1,8 @@
+trade_goods = grain
+life_rating = 30
+owner = GED
+controller = GED
+add_core = OSZ
+add_core = ROZ
+add_core = GED
+railroad = 1

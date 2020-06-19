@@ -1,0 +1,11 @@
+trade_goods = grain
+life_rating = 35
+owner = PHU
+controller = PHU
+add_core = PHU
+add_core = DON
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

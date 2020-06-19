@@ -1,0 +1,6 @@
+trade_goods = fruit
+life_rating = 33
+owner = DRA
+controller = DRA
+add_core = KER
+add_core = DRA

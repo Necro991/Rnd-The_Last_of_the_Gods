@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 33
+owner = KRL
+controller = KRL
+add_core = YLI
+add_core = KRL

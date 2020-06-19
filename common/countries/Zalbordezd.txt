@@ -1,0 +1,112 @@
+color = { 80 154 90 }
+graphical_culture = Arab1GC
+
+party = {
+	name = ZAL_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ZAL_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+party = {
+	name = ZAL_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = ZAL_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ZAL_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = ZAL_socialist_3
+	start_date = 1875.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ZAL_communist
+	start_date = 1881.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ZAL_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Kazahad" "Irmanhan" "Ardasan" "Najerz" "Sirmanjand" "Fardetan" "Kaletan" "Gimnashah" "Sibabad" "Karmansan" "Guzasar" "Gushtedan" "Kalbohr" "Kalborz" "Yagehan" "Zarahr" "Simaman" "Taruhr" "Nalehad" "Banahan" "Burmanhr" "Nanatan" "Pargazd" "Kezasht" "Busatan" "Parmansan" "Tamasar" "Zumnatan" "Mardakuh" "Gurdahad" "Gisangan" "Tebajan" "Pabasan" "Sirdehad" "Simnasht" "Keshtesar" "Karmansht" "Kedajand" "Dazabad" "Kagejan" "Zurdejan" "Shargahad" "Teruzd" "Nargajan" "Terdedan" "Sibiz" "Abijan" "Gurgashah" "Zazedan" "Narasan" 
+	}
+	ironclad = {
+		"Khozadan" "Shamahr" "Shibisan" "Sirazd" "Mamnasan" "Gurdabad" "Kerdebad" "Temnasar" "Fashtejand" "Khordehan" "Nahjan" "Gugeman" "Zurahad" "Bargajan" "Esanjan" "Zavehan" "Zuhhan" "Shargakuh" "Bumnasan" "Yamaran" "Gurderan" "Azebad" "Tamaz" "Farderz" "Gisanshah" "Farmanz" "Ishtehad" "Yasahr" "Sijehr" "Tazadan" "Zusanran" "Sirmandan" "Ergashah" "Fararz" "Kegehad" "Armandan" "Gusansar" "Bushasan" "Zulbohan" "Nagehan" "Karmanrz" "Termanrz" "Mabihan" "Fardashah" "Sivezd" "Razahr" "Tamaman" "Bajezd" "Gozatan" "Gogejan" 
+	}
+	manowar = {
+		"Irmanshah" "Narmanman" "Dardajand" "Balboran" "Yazesar" "Pabijan" "Khohbad" "Zurmanhan" "Zazejan" "Kezahr" "Pashtehad" "Gudahad" "Tesansan" "Kezadan" "Goratan" "Dajetan" "Sishatan" "Gibahad" "Shahbad" "Ardeshah" "Terdezd" "Kajedan" "Ashatan" "Gurdasht" "Taruz" "Inarz" "Shasanshah" "Khonasar" "Erutan" "Sinazd" "Tegejan" "Irudan" "Zabihan" "Tergabad" "Ardazd" "Zurdehan" "Radahad" "Fashteshah" "Kevegan" "Taraman" "Sizadan" "Kerdeman" "Gonabad" "Tebiz" "Burdegan" "Bulbosar" "Shinashah" "Rarajan" "Goveshah" "Pabatan" 
+	}
+	cruiser = {
+		"Tarazd" "Khogogan" "Tesharan" "Marajan" "Zamazd" "Khogehad" "Shizehan" "Kenahan" "Zalbohan" "Ranajand" "Burazd" "Shilerz" "Tabaz" "Shagojand" "Ezezd" "Shalbosan" "Zurgabad" "Yarderan" "Naledan" "Kesahan" "Zushteshah" "Nardez" "Zusfashah" "Pamnahan" "Khordeshah" "Fadaveh" "Kasfasan" "Yalekuh" "Khobishah" "Pavesan" "Gisfahad" "Margashah" "Arushah" "Albohad" "Kararan" "Shanahan" "Mabitan" "Burderz" "Razezd" "Karasan" "Fabisan" "Ardehad" "Nasharan" "Kahdan" "Zarujand" "Zurdesan" "Kasfahad" "Adazd" "Fazekuh" "Sisharz" 
+	}
+	frigate = {
+		"Bushagan" "Nashadan" "Pabisht" "Kerdeman" "Khomahad" "Marugan" "Mavezd" "Shirdetan" "Ergahad" "Ezaz" "Silbodan" "Karusht" "Kholesht" "Karmansan" "Abazd" "Zasfarz" "Shigotan" "Marmanman" "Yagoran" "Tesanbad" "Fasfahad" "Teraman" "Gordedan" "Izerz" "Erdasan" "Kebaman" "Yarderan" "Ravehad" "Temahan" "Balbohan" "Yasantan" "Agojan" "Kahhr" "Kemaman" "Teshajan" "Shajehad" "Gisahr" "Sirdagan" "Fazashah" "Gushterz" "Nazabad" "Erujan" "Yajeman" "Shalbotan" "Dadaran" "Yahbad" "Kardeshah" "Maradan" "Kamasan" "Yabakuh" 
+	}
+	monitor = {
+		"Gogoshah" "Dardadan" "Rabagan" "Tagesan" "Pasatan" "Kadahr" "Bubibad" "Pabiveh" "Rabijand" "Kadabad" "Irgaran" "Ivebad" "Yasabad" "Kargashah" "Fazajan" "Khormanhr" "Kevejan" "Raragan" "Gurdazd" "Kegoz" "Terabad" "Zulesar" "Khohbad" "Barmangan" "Zardedan" "Asazd" "Rasfajand" "Shilebad" "Tasanbad" "Budadan" "Tarabad" "Shinajan" "Gurashah" "Ermanran" "Kajedan" "Tagegan" "Yabaran" "Zusanran" "Fabiran" "Sisfahan" "Kelegan" "Rajez" "Gurmanran" "Kazezd" "Zamahad" "Simahan" "Fajezd" "Ergahan" "Ralboshah" "Yasfasan" 
+	}
+}

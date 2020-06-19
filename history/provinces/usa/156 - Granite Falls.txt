@@ -1,0 +1,5 @@
+trade_goods = coal
+life_rating = 30
+owner = LOG
+controller = LOG
+add_core = LOG

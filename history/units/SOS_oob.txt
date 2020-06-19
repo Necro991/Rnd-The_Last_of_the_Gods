@@ -1,0 +1,58 @@
+
+army = {
+	name = "1. Army"
+
+	location = 47
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 47
+	}
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 47
+	}
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 47
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 47
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 47
+	regiment = {
+		name = "3. Infantry"
+
+		type = infantry
+		home = 47
+	}
+	regiment = {
+		name = "4. Infantry"
+
+		type = infantry
+		home = 47
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 47
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+}

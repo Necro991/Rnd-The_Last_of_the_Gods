@@ -1,0 +1,7 @@
+trade_goods = fruit
+life_rating = 35
+owner = NYZ
+controller = NYZ
+add_core = NYL
+add_core = NYZ
+add_core = NYT

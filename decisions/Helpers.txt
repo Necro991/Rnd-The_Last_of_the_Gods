@@ -1,0 +1,62 @@
+political_decisions = {
+    cut_the_window_to_the_world = {
+        potential = {
+            civilized = yes
+            NOT = { has_country_flag = window_to_the_world }
+            any_owned_province = {
+                port = yes
+            }
+            NOT = {
+                any_owned_province = {
+                    port = yes
+                    OR = {
+                        is_core = THIS
+                        has_building = naval_base
+                    }
+                }
+            }
+        }
+        allow = {
+            NOT = { badboy = 0.8 }
+            money = 10000
+            any_owned_province = {  
+                port = yes
+                is_colonial = no
+                NOT = { is_core = THIS }
+            } 
+        }
+        effect = {
+            prestige = 5
+            badboy = 5
+            treasury = -10000
+            set_country_flag = window_to_the_world
+            
+            random_owned = {
+                limit = {
+                    is_coastal = yes
+                    NOT = { is_core = THIS }
+                    is_colonial = no
+                }
+                naval_base = 1
+                add_core = THIS
+            }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	
+	remove_infamy = {
+		potential = {
+			ai = no
+		}
+		
+		allow = {
+			ai = no
+		}
+		
+		effect = {
+			badboy = -100
+		}
+	}
+}

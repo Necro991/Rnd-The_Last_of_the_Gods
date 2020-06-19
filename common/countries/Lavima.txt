@@ -1,0 +1,123 @@
+color = { 67 255 240 }
+graphical_culture = Generic
+
+party = {
+	name = LAV_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = LAV_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = LAV_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = LAV_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = LAV_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = LAV_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = LAV_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = LAV_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = LAV_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Aencinia" "Macunium" "Essenia" "Septintiae" "Penosta" "Caelasta" "Oeni" "Caevema" "Letus" "Aletus" "Autina" "Caerenia" "Gelunia" "Aleptum" "Oeriae" "Essegium" "Tematae" "Agrigiogium" "Sempetina" "Esseptum" "Octariae" "Geni" "Tiptum" "Lonoptum" "Caemuriae" "Seriae" "Penium" "Pecotae" "Septini" "Oendima" "Logium" "Sebela" "Octaletina" "Aletii" "Esselariae" "Macontiae" "Lamatus" "Caenium" "Lalipeii" "Flatiptum" "Securiae" "Aletanium" "Esselula" "Pebetium" "Ganium" "Tela" "Aunogium" "Tempenia" "Icotium" "Caendigium" 
+	}
+	ironclad = {
+		"Essenciriae" "Agrinia" "Septipeii" "Octacugium" "Getii" "Gacuptum" "Sermala" "Tiriae" "Flapeii" "Tinia" "Galintiae" "Herma" "Lentiae" "Autii" "Icogiotus" "Herriae" "Pompeni" "Logium" "Icodotae" "Lagium" "Aleritus" "Gesatus" "Losta" "Loma" "Oemuni" "Sencima" "Lolula" "Ganium" "Brimatium" "Essetiptum" "Galatus" "Icola" "Geviriae" "Oepeii" "Lanium" "Loptum" "Pomula" "Agrigium" "Oepeii" "Robegium" "Aepeii" "Aunia" "Tranitae" "Ponium" "Aletium" "Locogium" "Essevila" "Bririae" "Tramantiae" "Caeni" 
+	}
+	manowar = {
+		"Malutina" "Alempesta" "Trarmama" "Aleriae" "Augini" "Bripeii" "Octanciriae" "Letae" "Getina" "Alegium" "Periae" "Hersta" "Lamutus" "Gaginia" "Garitii" "Caetina" "Herpeii" "Aurtania" "Caeni" "Matinium" "Caemariae" "Icogiotus" "Semula" "Aetium" "Aulanium" "Pepeii" "Lenontiae" "Alesta" "Caermanium" "Geni" "Aermatina" "Ronola" "Traditii" "Ausatus" "Gaptum" "Potus" "Agripeii" "Larcula" "Oegionium" "Agrimupeii" "Brinium" "Loma" "Roma" "Povitina" "Lantiae" "Icotium" "Flagium" "Tedoptum" "Septum" "Herconia" 
+	}
+	cruiser = {
+		"Pecula" "Aumaptum" "Lepeii" "Flamuptum" "Aleginium" "Hermula" "Brirmantiae" "Gala" "Aleconia" "Caereni" "Tiptum" "Roretii" "Alelepeii" "Brigiotae" "Icotii" "Bridigium" "Flala" "Brigium" "Tigium" "Titatium" "Setium" "Oetium" "Oermatii" "Tetus" "Caencila" "Essetariae" "Aeptum" "Tesaptum" "Leriae" "Gatium" "Icolunia" "Brisatii" "Pevela" "Macunium" "Herntiae" "Oetium" "Lanitii" "Septincitii" "Lolatina" "Essenium" "Maptum" "Aletina" "Tima" "Mala" "Mavitii" "Trartania" "Aletae" "Oetala" "Agriveptum" "Flacatina" 
+	}
+	frigate = {
+		"Hersala" "Brirtatina" "Octaritus" "Tedoriae" "Tindinium" "Setina" "Caentiae" "Loptum" "Caedipeii" "Alecutina" "Gania" "Sesta" "Oela" "Potanium" "Agrigium" "Lacuntiae" "Oecania" "Aula" "Mala" "Mavetus" "Lotatus" "Oeleriae" "Agrista" "Ladintiae" "Laptum" "Sedopeii" "Flabesta" "Seriae" "Poncini" "Essenitina" "Maretus" "Lema" "Gegium" "Loma" "Flani" "Caemani" "Lasatium" "Tradoriae" "Herma" "Iconia" "Pedola" "Aempesta" "Caeconium" "Trani" "Potae" "Tecutium" "Flatium" "Mapeii" "Tramutii" "Rolipeii" 
+	}
+	monitor = {
+		"Auma" "Caegioptum" "Aula" "Aegiola" "Getus" "Briritii" "Pecuni" "Octama" "Gamupeii" "Icotatus" "Mani" "Hertae" "Segionia" "Matae" "Mani" "Octanium" "Alegitii" "Hernia" "Gecatii" "Caertariae" "Sema" "Octani" "Caeni" "Lentiae" "Tegium" "Lapeii" "Roleni" "Setania" "Brila" "Pecama" "Tegima" "Rogiola" "Titii" "Caegitium" "Septileptum" "Caempeptum" "Aesta" "Aepeii" "Aeluni" "Herditii" "Seluma" "Aevetus" "Gantiae" "Brititii" "Flasta" "Oetiriae" "Caeriae" "Septini" "Penia" "Lomutus" 
+	}
+}

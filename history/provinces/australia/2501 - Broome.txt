@@ -1,0 +1,5 @@
+trade_goods = cattle
+life_rating = 30
+owner = VAL
+controller = VAL
+add_core = EVA

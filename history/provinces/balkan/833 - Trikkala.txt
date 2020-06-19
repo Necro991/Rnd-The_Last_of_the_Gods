@@ -1,0 +1,8 @@
+trade_goods = cattle
+life_rating = 34
+owner = BEF
+controller = BEF
+add_core = BEF
+add_core = VIN
+add_core = RGN
+add_core = KER

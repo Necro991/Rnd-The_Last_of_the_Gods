@@ -1,0 +1,7 @@
+trade_goods = timber
+life_rating = 34
+owner = ULC
+controller = ULC
+add_core = JAR
+add_core = KER
+add_core = ULC

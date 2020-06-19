@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 32
+owner = YUJ
+controller = YUJ
+add_core = YUJ
+add_core = LAN

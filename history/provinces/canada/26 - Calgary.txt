@@ -1,0 +1,6 @@
+trade_goods = fruit
+life_rating = 31
+owner = EIA
+controller = EIA
+add_core = EIA
+add_core = NYL

@@ -1,0 +1,6 @@
+trade_goods = cattle
+life_rating = 35
+owner = EMI
+controller = EMI
+add_core = EBL
+add_core = EMI

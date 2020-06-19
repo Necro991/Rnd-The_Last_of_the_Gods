@@ -1,0 +1,6 @@
+trade_goods = tea
+life_rating = 30
+owner = FOR
+controller = FOR
+add_core = FOR
+add_core = KER

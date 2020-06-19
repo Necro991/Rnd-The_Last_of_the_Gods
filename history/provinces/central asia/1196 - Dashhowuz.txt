@@ -1,0 +1,7 @@
+trade_goods = silk
+life_rating = 30
+owner = URA
+controller = URA
+add_core = GLY
+add_core = YLI
+add_core = URA

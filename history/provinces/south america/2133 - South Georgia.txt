@@ -1,0 +1,10 @@
+trade_goods = fish
+life_rating = 35
+owner = EMA
+controller = EMA
+add_core = UAR
+add_core = EMA
+add_core = YTA
+add_core = VWB
+naval_base = 1
+naval_base = 1

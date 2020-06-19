@@ -1,0 +1,7 @@
+trade_goods = coal
+life_rating = 35
+owner = ENY
+controller = ENY
+add_core = ROZ
+add_core = VAR
+add_core = ENY

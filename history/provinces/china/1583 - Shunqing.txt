@@ -1,0 +1,7 @@
+trade_goods = opium
+life_rating = 33
+owner = QFJ
+controller = QFJ
+add_core = QFJ
+add_core = ROZ
+add_core = KIR

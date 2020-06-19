@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 33
+owner = MXP
+controller = MXP
+add_core = MXP
+add_core = ROZ
+add_core = PIR

@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 34
+owner = CYK
+controller = CYK
+add_core = YLI
+add_core = YAR
+add_core = CYK

@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 35
+owner = DAL
+controller = DAL
+add_core = LEE
+add_core = DAL
+naval_base = 1

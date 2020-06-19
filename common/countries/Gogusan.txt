@@ -1,0 +1,112 @@
+color = { 192 51 157 }
+graphical_culture = Generic
+
+party = {
+	name = GOG_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = GOG_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = GOG_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+party = {
+	name = GOG_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = GOG_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = GOG_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = GOG_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = GOG_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Ogor" "Tubarum" "Gorum" "Bayanraga" "Bayankhkhan" "Qarkhogor" "Qagor" "Tubatai" "Tugukhan" "Doqonet" "Ulankhonsan" "Okhrum" "Dobaatar" "Akhnet" "Tubaatar" "Gosan" "Surnosan" "Sunet" "Bayanurt" "Abaatar" "Erdeurt" "Dobaatar" "Avartai" "Qabaatar" "Subagad" "Surum" "Bayanrarum" "Tugor" "Gobalsan" "Oraga" "Ulanbagad" "Ogukhan" "Ababaatar" "Turaga" "Orum" "Arum" "Dourt" "Erdekhga" "Obalsan" "Tukhrum" "Dorum" "Susan" "Qatai" "Dorasan" "Erdernourt" "Anet" "Ulanraurt" "Ornobaatar" "Bayanurt" "Qakhongor" 
+	}
+	ironclad = {
+		"Erdega" "Ulanvarrum" "Subagad" "Sutai" "Susan" "Choirum" "Gonet" "Erderanet" "Ulanga" "Gokhonkhan" "Qaga" "Ogor" "Ulanvargad" "Erdebaatar" "Bayangad" "Bayangugad" "Bayankhurt" "Bayankhrum" "Choilgor" "Erdekhan" "Tuurt" "Agor" "Asan" "Tuqorum" "Obalnet" "Doqogor" "Tugunet" "Olgor" "Surkhobaatar" "Olgor" "Dobagad" "Surum" "Bayanragad" "Susan" "Okhonsan" "Dolga" "Erdernobaatar" "Bayanbaatar" "Choibagad" "Akhan" "Ulanrkhogor" "Ulangor" "Ulanurt" "Surum" "Sutai" "Golurt" "Bayanrum" "Dogor" "Choitai" "Subaatar" 
+	}
+	manowar = {
+		"Qavargad" "Qabaatar" "Obaatar" "Bayanbaatar" "Turarum" "Gokhan" "Bayanbarum" "Bayanrnourt" "Sugugor" "Erdelgad" "Abaatar" "Qabalgad" "Qalgor" "Qaurt" "Bayantai" "Dotai" "Dobabaatar" "Obaatar" "Bayanrnogor" "Ulanranet" "Sunet" "Ulanrkhokhan" "Obaatar" "Choigor" "Bayanqotai" "Dokhan" "Ulangor" "Ulanrum" "Bayanbalkhan" "Gorkhoga" "Choiurt" "Gonet" "Tubaatar" "Bayangad" "Gonet" "Bayanqogad" "Bayanurt" "Suvarnet" "Ulanvarrum" "Qagor" "Choiqogor" "Choivarga" "Ulansan" "Okhrum" "Subabaatar" "Bayanbaga" "Okhsan" "Erdenet" "Ogusan" "Qaragor" 
+	}
+	cruiser = {
+		"Erdekhan" "Suguga" "Gobagor" "Doguga" "Ulankhan" "Avarrum" "Ulanbaatar" "Ulanlurt" "Gokhongor" "Ornorum" "Bayangor" "Surum" "Choibaatar" "Erdebagor" "Ulanvarurt" "Gogor" "Qarnobaatar" "Suga" "Doqoga" "Aqobaatar" "Dorasan" "Govarbaatar" "Erdegor" "Bayanrum" "Sugor" "Qabasan" "Okhbaatar" "Erdegurum" "Choiurt" "Ulanga" "Abaatar" "Ogad" "Alnet" "Qagad" "Qarum" "Qagugad" "Dobaatar" "Aurt" "Doga" "Bayanlurt" "Govargor" "Dornogad" "Erdernosan" "Erdegukhan" "Gosan" "Okhurt" "Qarabaatar" "Turnobaatar" "Orum" "Gonet" 
+	}
+	frigate = {
+		"Gobaatar" "Erdegurum" "Ulanbaatar" "Bayangor" "Tulbaatar" "Erdega" "Choikhbaatar" "Gobaatar" "Arnobaatar" "Dotai" "Choigad" "Avarsan" "Ulangor" "Abaatar" "Ulanrum" "Arum" "Ulantai" "Gokhan" "Otai" "Bayannet" "Asan" "Bayanurt" "Goqoga" "Bayangor" "Dobalbaatar" "Dolrum" "Tuurt" "Choiqourt" "Qakhrum" "Choivarkhan" "Choirum" "Gokhga" "Ourt" "Turum" "Ulankhan" "Oga" "Turagor" "Choibalbaatar" "Dobaatar" "Agor" "Erderabaatar" "Bayanbalrum" "Doguga" "Choirum" "Tubalgor" "Qaqogor" "Ogukhan" "Suqoga" "Ulanbaatar" "Bayanrkhokhan" 
+	}
+	monitor = {
+		"Surkhogad" "Doqoga" "Gourt" "Qabaatar" "Agusan" "Ulanurt" "Ulanbagad" "Bayangad" "Tugor" "Surum" "Dolrum" "Orkhobaatar" "Doqogad" "Akhan" "Tukhtai" "Obaltai" "Sugor" "Gobasan" "Akhontai" "Choirkhobaatar" "Bayankhsan" "Golbaatar" "Sugor" "Doranet" "Gorum" "Erdega" "Ulanbaltai" "Bayanurt" "Erdegor" "Ulansan" "Ogor" "Arkhokhan" "Abaatar" "Ulanrkhotai" "Tuvarrum" "Bayanrum" "Ulanqosan" "Erdegor" "Qakhongor" "Golrum" "Tubalbaatar" "Bayanbalgor" "Choirnosan" "Dokhongor" "Bayanrkhogad" "Obasan" "Orkhokhan" "Bayannet" "Abaatar" "Ulanbaatar" 
+	}
+}

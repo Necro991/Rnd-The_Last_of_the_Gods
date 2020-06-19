@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 31
+owner = RAD
+controller = RAD
+add_core = RAD
+add_core = BIP

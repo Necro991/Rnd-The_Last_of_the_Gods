@@ -1,0 +1,123 @@
+color = { 192 101 145 }
+graphical_culture = JapaneseGC
+
+party = {
+	name = ATA_conservative
+	start_date = 1880.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+party = {
+	name = ATA_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = ATA_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = ATA_liberal
+	start_date = 1890.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ATA_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ATA_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ATA_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = ATA_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ATA_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Sedarai" "Yarai" "Tawa" "Uramaru" "Hipon" "Susui" "Zoji" "Agana" "Tagaku" "Urarozai" "Mayato" "Tsushi" "Kanadai" "Desui" "Tonaji" "Nidai" "Deyu" "Hokaga" "Godakyo" "Tawa" "Manayu" "Hire" "Tayu" "Jimushi" "Jimire" "Horai" "Uronaji" "Deka" "Wamido" "Goyazai" "Mapon" "Dedo" "Goraru" "Aji" "Horoto" "Hize" "Orimapon" "Jitato" "Zomi" "Bankore" "Urakaze" "Shotakyo" "Wayu" "Jinayu" "Urawa" "Hinado" "Orimirai" "Bushi" "Nidai" "Nipon" 
+	}
+	ironclad = {
+		"Toto" "Marozai" "Banshi" "Tsuyasei" "Tsutare" "Hodo" "Washi" "Homi" "Tamuga" "Tsurama" "Zoda" "Kaga" "Derato" "Orisei" "Bure" "Urodo" "Dekyo" "Uramaga" "Toma" "Shosui" "Seto" "Urana" "Homuga" "Wadada" "Horakyo" "Jire" "Shomi" "Niroku" "Yanawa" "Sesei" "Susei" "Suji" "Zoga" "Nirata" "Bansui" "Wagadai" "Bannasei" "Shokokyo" "Burodo" "Yata" "Hidai" "Tanapon" "Urapon" "Aze" "Shoga" "Nina" "Tado" "Suda" "Urasui" "Sado" 
+	}
+	manowar = {
+		"Hima" "Sumi" "Mato" "Dema" "Bankoto" "Hinama" "Kawa" "Tagami" "Urorashi" "Hiru" "Yasei" "Taga" "Sakyo" "Asei" "Hore" "Taji" "Banto" "Nikyo" "Honare" "Orina" "Urakana" "Toyaka" "Urasui" "Sawa" "Bugaku" "Yakada" "Banzai" "Shogaze" "Yata" "Orida" "Madaka" "Tayaji" "Urayu" "Orirota" "Tsukarai" "Hoda" "Kakomi" "Kadai" "Urakaze" "Jimi" "Gorama" "Yare" "Hosui" "Masui" "Burona" "Waze" "Niru" "Asei" "Tomi" "Sashi" 
+	}
+	cruiser = {
+		"Zomakyo" "Jiwa" "Suma" "Toku" "Hokapon" "Gokoto" "Urarai" "Marado" "Kamashi" "Hiwa" "Deroka" "Hito" "Shona" "Sekopon" "Yayaga" "Sada" "Zoze" "Yagaru" "Seyaga" "Tsugasui" "Derodai" "Gona" "Mama" "Tsuda" "Kamata" "Uraku" "Orinakyo" "Aji" "Nisei" "Shopon" "Bugasei" "Zokyo" "Kasui" "Saroga" "Zokyo" "Godawa" "Goda" "Tayadai" "Tarami" "Karu" "Hore" "Deto" "Uronaze" "Tonasui" "Budama" "Urarai" "Honaji" "Nidai" "Sudo" "Tsuga" 
+	}
+	frigate = {
+		"Hidakyo" "Tarata" "Shoto" "Tokoshi" "Uranana" "Hirayu" "Horare" "Orimushi" "Taraze" "Torai" "Uroku" "Sema" "Sayata" "Oritaze" "Buma" "Urowa" "Taru" "Jika" "Maku" "Buku" "Bure" "Deyaji" "Orirona" "Mapon" "Nido" "Sewa" "Sarai" "Uradadai" "Wami" "Jinaru" "Deku" "Urana" "Urogasei" "Buma" "Karami" "Zokasei" "Towa" "Wakama" "Tokaga" "Jimito" "Zota" "Gokyo" "Hire" "Hokyo" "Banraze" "Tsugana" "Tarama" "Sekore" "Hidasei" "Kakyo" 
+	}
+	monitor = {
+		"Honado" "Urogami" "Taji" "Saku" "Sanasei" "Burasui" "Niyami" "Sawa" "Uroyu" "Towa" "Hodadai" "Uroka" "Sama" "Adaru" "Hona" "Wapon" "Zonada" "Agaru" "Depon" "Yagama" "Hotarai" "Suka" "Shokoku" "Orirazai" "Deropon" "Orika" "Dedapon" "Tadama" "Banzai" "Hogayu" "Shoshi" "Anato" "Sada" "Toda" "Dena" "Jido" "Bumuto" "Niwa" "Origa" "Urarato" "Urayaka" "Uromiji" "Hosui" "Zoku" "Orida" "Burai" "Zomada" "Semiku" "Kamuku" "Nika" 
+	}
+}

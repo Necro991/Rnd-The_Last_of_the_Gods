@@ -1,0 +1,10 @@
+trade_goods = fruit
+life_rating = 34
+owner = RAD
+controller = RAD
+add_core = RAD
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}

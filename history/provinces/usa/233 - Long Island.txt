@@ -1,0 +1,11 @@
+trade_goods = fish
+life_rating = 31
+owner = ATA
+controller = ATA
+add_core = KAJ
+add_core = ATA
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

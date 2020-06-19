@@ -1,0 +1,5 @@
+trade_goods = cattle
+life_rating = 33
+owner = DOK
+controller = DOK
+add_core = DOK

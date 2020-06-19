@@ -1,0 +1,7 @@
+trade_goods = fruit
+life_rating = 32
+owner = THU
+controller = THU
+add_core = DON
+add_core = GIA
+add_core = THU

@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 30
+owner = FOV
+controller = FOV
+add_core = LEE
+add_core = ZAA
+add_core = FOV

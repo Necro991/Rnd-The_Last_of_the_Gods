@@ -1,0 +1,123 @@
+color = { 122 255 63 }
+graphical_culture = SouthAmericanGC
+
+party = {
+	name = YDQ_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+party = {
+	name = YDQ_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = YDQ_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = YDQ_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = YDQ_liberal_3
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = YDQ_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = YDQ_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = YDQ_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = YDQ_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Thesphetion" "Kozasos" "Kyripolis" "Sylekou" "Sparnasnion" "Neretion" "Arepolis" "Nykastrias" "Arakis" "Elikis" "Emekis" "Makarsos" "Nyrisos" "Nesabos" "Thessakis" "Sydopolis" "Rhothemon" "Myledos" "Rhorapolis" "Neamenia" "Hakaslia" "Sparridos" "Artabos" "Kothemeia" "Haralene" "Therranion" "Nenasnia" "Olylicarnassos" "Arsapolis" "Nytameia" "Rholakou" "Sykarmon" "Kolicarnossos" "Netheros" "Spardokia" "Kyrasos" "Bykasmon" "Perzanion" "Syrisos" "Tarsakis" "Neakrotion" "Hararos" "Haretrias" "Mytasos" "Olylicarpolis" "Therdopolis" "Neakrotion" "Therkation" "Sykasmon" "Olytisos" 
+	}
+	ironclad = {
+		"Rhomedos" "Syriros" "Kosation" "Permelia" "Byrethos" "Nekarsos" "Neredos" "Akaros" "Emetion" "Thernaskou" "Mybrasos" "Mythepolis" "Halanossos" "Spardoros" "Nephelene" "Arbraros" "Koledos" "Akaspolis" "Tarkarkis" "Tarsasos" "Mymenossos" "Hamenia" "Marekou" "Sysatrias" "Sparkarkou" "Ekarkia" "Sykarsos" "Nearasos" "Makronassos" "Neamekia" "Ephekis" "Sykasnion" "Therkassos" "Nesameia" "Tarlelene" "Makassos" "Maration" "Nelanai" "Rholition" "Nebrakos" "Therlemon" "Arrepolis" "Therkroros" "Nelakos" "Olyphekia" "Theszanai" "Nybrakis" "Hatakia" "Atipolis" "Arekia" 
+	}
+	manowar = {
+		"Marelia" "Etaros" "Amepolis" "Nykarkia" "Hakarkis" "Bykrolia" "Arphepolis" "Nyzakou" "Halition" "Thesrathos" "Mylabos" "Elipolis" "Pertapolis" "Ardopolis" "Olylitrias" "Makardos" "Sylepolis" "Aranai" "Kotikis" "Perlicarbos" "Rhobrapolis" "Kobrasos" "Theslicarnai" "Aphemon" "Rhobraros" "Mysapolis" "Nealicarkis" "Perkaslene" "Kotimon" "Mykrothos" "Nezaros" "Nytakou" "Rhomenassos" "Erepolis" "Mytilia" "Olysation" "Ekanai" "Bykaspolis" "Olyramon" "Nydokos" "Kokanassos" "Thestanossos" "Thesphethos" "Aphepolis" "Perlicarkia" "Kylipolis" "Olybralene" "Perkathos" "Sparkrokia" "Nealekia" 
+	}
+	cruiser = {
+		"Rhodokis" "Arkapolis" "Sykapolis" "Mynasnassos" "Komekou" "Theskarsos" "Akropolis" "Neatilene" "Sparthekou" "Kythelene" "Therkanossos" "Etiros" "Harapolis" "Olytania" "Perralia" "Neretrias" "Rholicarkis" "Kokapolis" "Perbrapolis" "Perthesos" "Nykarpolis" "Ekrothos" "Kykasnai" "Bykrotion" "Nykakou" "Sparkapolis" "Nytinossos" "Myrikis" "Elaros" "Sykamon" "Nedobos" "Nyletion" "Myrakos" "Tarlicarkia" "Nemenion" "Neanasmeia" "Aphethos" "Ezapolis" "Hanasnion" "Kyrapolis" "Nearikia" "Sparzatrias" "Rhokrotion" "Theskalia" "Nysabos" "Artakia" "Syphenossos" "Tarrapolis" "Kybraros" "Neriros" 
+	}
+	frigate = {
+		"Olymekou" "Tarlibos" "Olykarros" "Rhophedos" "Akasnia" "Thesthethos" "Kokamon" "Etilia" "Bylemeia" "Tardonai" "Perlesos" "Kykasos" "Nylicardos" "Madonai" "Mylenion" "Perkakis" "Arlation" "Kymetion" "Neatisos" "Mylation" "Mylapolis" "Nealicarmon" "Kothekia" "Koleros" "Arkasnai" "Syphemeia" "Adonion" "Mamekou" "Komenossos" "Aribos" "Therrenai" "Kobramon" "Neakronossos" "Elania" "Byphesos" "Olyrakia" "Hakakos" "Nykation" "Spartidos" "Tarkasnai" "Perlicarmeia" "Byriros" "Nybralene" "Kolicartrias" "Tarlabos" "Nyrinia" "Thersapolis" "Thertisos" "Sykaskos" "Konasmeia" 
+	}
+	monitor = {
+		"Therdopolis" "Nelapolis" "Nearetion" "Nythelia" "Olykanossos" "Marinia" "Habration" "Hamekou" "Olyrekia" "Rhobrasos" "Elicarkou" "Olylepolis" "Nearedos" "Arlicartrias" "Syrakis" "Sparthekia" "Rholasos" "Sparkapolis" "Theszanossos" "Mybrabos" "Arekou" "Atabos" "Rhotanossos" "Perphenossos" "Nearanion" "Theslikis" "Tarrakis" "Kylakos" "Sparsania" "Mykassos" "Nelicartrias" "Kokaspolis" "Rhothesos" "Azasos" "Ekaspolis" "Olybrakou" "Thersania" "Tarlelene" "Sparlepolis" "Byranion" "Nekarthos" "Kykronion" "Myrabos" "Rhosanai" "Bydosos" "Nelathos" "Amenion" "Sparnaslene" "Sparkrotion" "Aletrias" 
+	}
+}

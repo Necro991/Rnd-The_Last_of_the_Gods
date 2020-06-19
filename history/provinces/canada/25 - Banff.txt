@@ -1,0 +1,6 @@
+trade_goods = tea
+life_rating = 31
+owner = SYR
+controller = SYR
+add_core = NYL
+add_core = SYR

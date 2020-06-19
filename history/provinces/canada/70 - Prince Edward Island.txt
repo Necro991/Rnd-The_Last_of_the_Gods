@@ -1,0 +1,8 @@
+trade_goods = cattle
+life_rating = 31
+owner = IMA
+controller = IMA
+add_core = KAJ
+add_core = KYO
+add_core = IMA
+fort = 1

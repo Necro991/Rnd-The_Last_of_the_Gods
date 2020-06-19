@@ -1,0 +1,7 @@
+trade_goods = fruit
+life_rating = 31
+owner = ENY
+controller = ENY
+add_core = ROZ
+add_core = VAR
+add_core = ENY

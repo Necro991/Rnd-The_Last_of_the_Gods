@@ -1,0 +1,9 @@
+trade_goods = fruit
+life_rating = 35
+owner = GRO
+controller = GRO
+add_core = VAD
+add_core = ROZ
+add_core = VAR
+add_core = GRO
+railroad = 1

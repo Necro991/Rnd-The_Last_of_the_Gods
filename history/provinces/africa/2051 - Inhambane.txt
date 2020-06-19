@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 33
+owner = GIA
+controller = GIA
+add_core = KHA
+add_core = DON
+add_core = GIA

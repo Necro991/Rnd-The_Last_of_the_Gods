@@ -1,0 +1,123 @@
+color = { 87 255 90 }
+graphical_culture = Europe1GC
+
+party = {
+	name = ULC_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = ULC_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = ULC_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = ULC_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = ULC_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ULC_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = ULC_socialist_2
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = ULC_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = ULC_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Storportvin" "Prinsstrom" "Drakeregion" "Tungaflod" "Arbetarekyrka" "Rosflod" "Gamstad" "Norrhamnstad" "Gamberg" "Gyllenekyrka" "Lejonmark" "Hertigpalats" "Jarnfaste" "Ljuskyrka" "Morkgrevskap" "Soderhamnstad" "Prinspalats" "Vattenvarld" "Ovrehamnstad" "Kungbabord" "Manenberg" "Storafalt" "Drakeamne" "Gamborg" "Jarnbabord" "Gulrike" "Drakeportvin" "Arbetareborg" "Allafort" "Radjurslott" "Mildstad" "Varprovins" "Vitslott" "Brahamnstad" "Frankamne" "Brapalats" "Vargstad" "Risgrevskap" "Gronportvin" "Rosmark" "Bjornfaste" "Braslott" "Beekyrka" "Radjurhamnstad" "Gamlalandskap" "Berommelsehamn" "Prinsfontan" "Rottfalt" "Drakevarld" "Varnaste" 
+	}
+	ironclad = {
+		"Morkmark" "Pigaprovins" "Berommelsenaste" "Rosslott" "Varomrade" "Jagareomrade" "Pigaregion" "Nedanamne" "Hostenpalats" "Starkafontan" "Ljusfaste" "Jagareslott" "Allarike" "Krakavarld" "Ljusflod" "Litenrike" "Manenslott" "Gamlaaker" "Rottfaste" "Hetfontan" "Vitnaste" "Morkomrade" "Manennaste" "Vastaker" "Radjurlandskap" "Gyllenemark" "Narliggandehamnstad" "Tungaamne" "Prinshamnstad" "Starkaslott" "Lagprovins" "Nedanborg" "Norrhamn" "Litenstrom" "Rhenlandskap" "Allapalats" "Kraftfullberg" "Mildbabord" "Ljusfalt" "Hostenlandskap" "Manenfort" "Mildprovins" "Vattenboet" "Silverhamn" "Stenportvin" "Jagarefontan" "Sillberg" "Ornamne" "Nedanportvin" "Kolhamnstad" 
+	}
+	manowar = {
+		"Gropmark" "Prinshamnstad" "Hostenomrade" "Litenfort" "Sorgborg" "Smartaberg" "Norrhamnstad" "Hogfaste" "Brunportvin" "Gamlaskog" "Forkylningkyrka" "Underbartstad" "Blastad" "Brunmark" "Radjurportvin" "Smartaprovins" "Braflod" "Befriatnaste" "Manenhamnstad" "Ornarfaste" "Gropnaste" "Himmelang" "Omstrom" "Hastgrevskap" "Hetang" "Storafaste" "Ostrike" "Kungmark" "Narliggandeborg" "Bjorna" "Ovreborg" "Gudnaste" "Kolvarld" "Vitfaste" "Vattenflod" "Prinsamne" "Pigaregion" "Kraftfullvarld" "Arbetareregion" "Beeregion" "Vargbabord" "Lagberg" "Saltstad" "Sorgaker" "Frankborg" "Kolvarld" "Vitstad" "Ljusflod" "Hostenborg" "Varrike" 
+	}
+	cruiser = {
+		"Brastad" "Solskog" "Bjornskog" "Gamlafaste" "Himmelmark" "Silverhamnstad" "Gudhamn" "Arbetarea" "Gamfalt" "Prinsboet" "Tungastad" "Smartaboet" "Ovreskog" "Kraftfullamne" "Mildstad" "Blahamn" "Drakeregion" "Himmelfort" "Varpalats" "Drakefalt" "Vargkyrka" "Blommorrike" "Ostkyrka" "Allakyrka" "Storbabord" "Rottamne" "Soderang" "Ljusstad" "Jungfrustrom" "Allafalt" "Vargfontan" "Silveramne" "Jagarefalt" "Hjartalandskap" "Braslott" "Beefort" "Norrkyrka" "Ornkyrka" "Silverfalt" "Kungfontan" "Beea" "Blommorang" "Lagslott" "Gropflod" "Norramne" "Berommelseregion" "Ljusslott" "Himmelomrade" "Blastad" "Vattenmark" 
+	}
+	frigate = {
+		"Himmelang" "Hjartagrevskap" "Silverstrom" "Prinsbabord" "Sorgportvin" "Morkboet" "Hostenhamn" "Hjartafalt" "Hostenvarld" "Gulamne" "Solstad" "Vildsvinvarld" "Sola" "Underbartbabord" "Hjartafaste" "Narliggandebabord" "Manenfort" "Hertigkyrka" "Bramark" "Risportvin" "Himmelkyrka" "Prinsfort" "Hostengrevskap" "Bjornfaste" "Smartaprovins" "Mildhamn" "Beea" "Mildmark" "Vargomrade" "Smartaomrade" "Trevligtfort" "Soderskog" "Lejonberg" "Trevligtvarld" "Allaportvin" "Ornarflod" "Rottvarld" "Gudhamnstad" "Soderang" "Rhenfontan" "Frankhamn" "Hogportvin" "Rosslott" "Gronfalt" "Kungomrade" "Ornarberg" "Pigagrevskap" "Drakeaker" "Drakeslott" "Stenstrom" 
+	}
+	monitor = {
+		"Gamlafaste" "Smartafontan" "Orna" "Hjartamark" "Varamne" "Soderhamnstad" "Ornarfort" "Ornamne" "Ljusnaste" "Solang" "Blommorflod" "Ornarkyrka" "Ostaker" "Vasta" "Brababord" "Morkvarld" "Stenhamnstad" "Blommorpalats" "Ovreportvin" "Radjurang" "Berommelserike" "Jagarelandskap" "Jagareportvin" "Tungakyrka" "Mildfaste" "Mildpalats" "Blommorregion" "Mildberg" "Pigaberg" "Forkylningstad" "Rottslott" "Forkylningstrom" "Myntregion" "Blommorpalats" "Jagarehamn" "Forkylningang" "Grona" "Rishamn" "Ljusfontan" "Norrregion" "Vargslott" "Jarnfontan" "Befriatskog" "Vastslott" "Mildboet" "Himmelhamn" "Storvarld" "Gampalats" "Myntfort" "Frankamne" 
+	}
+}

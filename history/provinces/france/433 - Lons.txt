@@ -1,0 +1,5 @@
+trade_goods = grain
+life_rating = 34
+owner = ALT
+controller = ALT
+add_core = ALT

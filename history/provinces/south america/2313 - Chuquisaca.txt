@@ -1,0 +1,6 @@
+trade_goods = fruit
+life_rating = 30
+owner = OUD
+controller = OUD
+add_core = LEE
+add_core = OUD

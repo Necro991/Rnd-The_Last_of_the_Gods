@@ -1,0 +1,8 @@
+trade_goods = fruit
+life_rating = 32
+owner = ALG
+controller = ALG
+add_core = RAA
+add_core = YLI
+add_core = ZSV
+add_core = ALG

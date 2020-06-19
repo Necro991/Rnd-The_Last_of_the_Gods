@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 31
+owner = FEI
+controller = FEI
+add_core = HLA
+add_core = FEI

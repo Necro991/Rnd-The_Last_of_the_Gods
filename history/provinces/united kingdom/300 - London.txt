@@ -1,0 +1,6 @@
+trade_goods = coffee
+life_rating = 32
+owner = GUL
+controller = GUL
+add_core = GUL
+add_core = ZAL

@@ -1,0 +1,7 @@
+trade_goods = wool
+life_rating = 33
+owner = KHA
+controller = KHA
+add_core = KHA
+add_core = JVP
+add_core = DON

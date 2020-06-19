@@ -1,0 +1,6 @@
+trade_goods = cattle
+life_rating = 31
+owner = ATN
+controller = ATN
+add_core = ATN
+add_core = HLA

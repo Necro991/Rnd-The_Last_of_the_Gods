@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 32
+owner = EIA
+controller = EIA
+add_core = EIA
+add_core = NYL

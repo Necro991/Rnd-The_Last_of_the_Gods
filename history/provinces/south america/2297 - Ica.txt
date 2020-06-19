@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 35
+owner = IJS
+controller = IJS
+add_core = LEE
+add_core = IJS
+naval_base = 1

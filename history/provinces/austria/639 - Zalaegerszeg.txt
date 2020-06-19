@@ -1,0 +1,10 @@
+trade_goods = cattle
+life_rating = 30
+owner = BEN
+controller = BEN
+add_core = BEN
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}

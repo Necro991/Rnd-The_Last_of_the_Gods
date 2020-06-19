@@ -1,0 +1,6 @@
+trade_goods = fish
+life_rating = 30
+owner = WEG
+controller = WEG
+add_core = WEG
+add_core = LEE

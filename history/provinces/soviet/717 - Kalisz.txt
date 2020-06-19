@@ -1,0 +1,5 @@
+trade_goods = wool
+life_rating = 31
+owner = NEC
+controller = NEC
+add_core = NEC

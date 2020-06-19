@@ -1,0 +1,7 @@
+trade_goods = tea
+life_rating = 34
+owner = RKI
+controller = RKI
+add_core = RKI
+add_core = HLA
+add_core = LIF

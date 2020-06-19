@@ -1,0 +1,13 @@
+trade_goods = wool
+life_rating = 31
+owner = HXL
+controller = HXL
+add_core = LUO
+add_core = HXL
+add_core = DON
+add_core = YLJ
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

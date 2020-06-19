@@ -1,0 +1,12 @@
+trade_goods = tobacco
+life_rating = 31
+owner = NOK
+controller = NOK
+add_core = NOK
+add_core = ROZ
+add_core = SAS
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

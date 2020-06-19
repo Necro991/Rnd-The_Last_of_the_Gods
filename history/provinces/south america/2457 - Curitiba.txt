@@ -1,0 +1,6 @@
+trade_goods = wool
+life_rating = 32
+owner = KUR
+controller = KUR
+add_core = YTA
+add_core = KUR

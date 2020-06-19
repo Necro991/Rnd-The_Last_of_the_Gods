@@ -1,0 +1,7 @@
+trade_goods = tea
+life_rating = 32
+owner = ZEE
+controller = ZEE
+add_core = LEE
+add_core = FOV
+add_core = ZEE

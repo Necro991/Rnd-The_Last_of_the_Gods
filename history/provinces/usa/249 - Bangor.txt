@@ -1,0 +1,6 @@
+trade_goods = fish
+life_rating = 31
+owner = ZOK
+controller = ZOK
+add_core = ZOK
+add_core = KAJ

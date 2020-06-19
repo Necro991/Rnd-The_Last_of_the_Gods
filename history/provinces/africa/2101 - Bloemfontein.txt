@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 35
+owner = XUA
+controller = XUA
+add_core = DON
+add_core = XUA
+add_core = RDE

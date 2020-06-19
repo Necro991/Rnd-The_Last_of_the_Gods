@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 35
+owner = BNA
+controller = BNA
+add_core = BNA
+add_core = YLI

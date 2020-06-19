@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 31
+owner = GUL
+controller = GUL
+add_core = GUL
+add_core = ZAL

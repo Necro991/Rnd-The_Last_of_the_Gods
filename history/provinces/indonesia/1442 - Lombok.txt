@@ -1,0 +1,5 @@
+trade_goods = tobacco
+life_rating = 32
+owner = SUU
+controller = SUU
+add_core = SUU

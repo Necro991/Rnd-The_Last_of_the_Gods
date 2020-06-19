@@ -1,0 +1,6 @@
+trade_goods = cattle
+life_rating = 33
+owner = BYR
+controller = BYR
+add_core = NYL
+add_core = BYR

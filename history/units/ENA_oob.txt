@@ -1,0 +1,42 @@
+
+army = {
+	name = "1. Army"
+
+	location = 989
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 989
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 989
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 989
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 989
+	}
+}
+
+army = {
+	name = "3. Army"
+
+	location = 989
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 989
+	}
+}

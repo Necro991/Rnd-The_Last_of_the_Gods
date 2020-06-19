@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 30
+owner = RED
+controller = RED
+add_core = LEE
+add_core = RED
+add_core = HAA

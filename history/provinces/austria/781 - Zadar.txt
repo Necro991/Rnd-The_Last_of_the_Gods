@@ -1,0 +1,6 @@
+trade_goods = cattle
+life_rating = 30
+owner = DRA
+controller = DRA
+add_core = KER
+add_core = DRA

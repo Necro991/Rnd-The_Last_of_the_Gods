@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 33
+owner = OLY
+controller = OLY
+add_core = NYL
+add_core = KYS
+add_core = OLY

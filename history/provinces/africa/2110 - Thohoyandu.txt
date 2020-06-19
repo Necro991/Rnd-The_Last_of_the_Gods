@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 32
+owner = GIA
+controller = GIA
+add_core = DON
+add_core = GIA

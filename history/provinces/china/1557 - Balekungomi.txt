@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 35
+owner = KIK
+controller = KIK
+add_core = SUL
+add_core = KIK
+add_core = ROZ

@@ -1,0 +1,6 @@
+trade_goods = fish
+life_rating = 32
+owner = BEN
+controller = BEN
+add_core = BEN
+naval_base = 1

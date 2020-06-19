@@ -1,0 +1,10 @@
+trade_goods = fish
+life_rating = 32
+owner = KYS
+controller = KYS
+add_core = NYL
+add_core = OLY
+add_core = KYS
+add_core = ARL
+naval_base = 1
+naval_base = 1

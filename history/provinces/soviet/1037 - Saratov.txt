@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 30
+owner = ZYN
+controller = ZYN
+add_core = ZYN
+add_core = YLI
+railroad = 1

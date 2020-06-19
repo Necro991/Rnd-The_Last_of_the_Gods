@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 32
+owner = IAY
+controller = IAY
+add_core = IAY
+add_core = ROZ

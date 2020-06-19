@@ -1,0 +1,6 @@
+trade_goods = wool
+life_rating = 31
+owner = EMI
+controller = EMI
+add_core = EMI
+naval_base = 1

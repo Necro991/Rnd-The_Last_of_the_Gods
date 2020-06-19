@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 35
+owner = VAS
+controller = VAS
+add_core = VAS
+add_core = ROZ

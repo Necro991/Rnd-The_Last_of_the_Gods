@@ -1,0 +1,7 @@
+trade_goods = timber
+life_rating = 31
+owner = DAL
+controller = DAL
+add_core = LEE
+add_core = ROO
+add_core = DAL

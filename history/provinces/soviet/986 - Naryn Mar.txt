@@ -1,0 +1,8 @@
+trade_goods = grain
+life_rating = 32
+owner = AKD
+controller = AKD
+add_core = AKD
+add_core = SAN
+naval_base = 1
+naval_base = 1

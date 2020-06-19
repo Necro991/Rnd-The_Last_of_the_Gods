@@ -1,0 +1,65 @@
+capital = 839
+primary_culture = Risfontan_tag
+culture = Sillomrade_tag
+culture = Bravarld_tag
+religion = dtvqbtvgwiislypj
+government = democracy
+plurality = 3
+nationalvalue = nv_equality
+literacy = 0.39
+civilized = yes
+prestige = 5
+
+# Political Reforms
+slavery = no_slavery
+vote_franschise = wealth_voting
+upper_house_composition = appointed
+political_parties = non_secret_ballots
+voting_system = jefferson_method
+public_meetings = no_meeting
+press_rights = free_press
+trade_unions = no_trade_unions
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = trinket_pensions
+school_reforms = no_schools
+
+# Voting:
+ruling_party = KER_liberal_2
+last_election = 1833.6.10
+upper_house = {
+	fascist = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+	liberal = 0
+	reactionary = 1
+	conservative = 99
+}
+
+# Techs:
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+military_staff_system = 1
+post_nelsonian_thought = 1
+clipper_design = 1
+private_banks = 1
+no_standard = 1
+early_classical_theory_and_critique = 1
+freedom_of_trade = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+enlightenment_thought = 1
+water_wheel_power = 1
+publishing_industry = 1
+basic_chemistry = 1
+consciousness = 0
+nonstate_consciousness = 1
+oob = "KER_oob.txt"
+

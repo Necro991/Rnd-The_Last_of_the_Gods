@@ -1,0 +1,8 @@
+trade_goods = timber
+life_rating = 33
+owner = YMQ
+controller = YMQ
+add_core = ZOK
+add_core = YMQ
+add_core = KAJ
+railroad = 1

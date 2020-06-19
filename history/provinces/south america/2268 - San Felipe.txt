@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 34
+owner = GOG
+controller = GOG
+add_core = RWX
+add_core = LEE

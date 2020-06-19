@@ -1,0 +1,7 @@
+trade_goods = fruit
+life_rating = 35
+owner = BLO
+controller = BLO
+add_core = BLO
+add_core = HER
+add_core = KER

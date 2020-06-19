@@ -1,0 +1,6 @@
+trade_goods = sulphur
+life_rating = 31
+owner = LEJ
+controller = LEJ
+add_core = LEJ
+add_core = SAN

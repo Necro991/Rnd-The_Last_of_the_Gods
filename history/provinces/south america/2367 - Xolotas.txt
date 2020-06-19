@@ -1,0 +1,7 @@
+trade_goods = sulphur
+life_rating = 32
+owner = YPE
+controller = YPE
+add_core = YPE
+add_core = YTA
+add_core = KUR

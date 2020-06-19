@@ -1,0 +1,7 @@
+trade_goods = coal
+life_rating = 32
+owner = OVI
+controller = OVI
+add_core = OVI
+add_core = HLA
+naval_base = 1

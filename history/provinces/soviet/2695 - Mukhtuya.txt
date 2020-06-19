@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 34
+owner = LYX
+controller = LYX
+add_core = HLA
+add_core = LYX
+add_core = LIF

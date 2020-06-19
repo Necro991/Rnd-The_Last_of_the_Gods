@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 35
+owner = ENA
+controller = ENA
+add_core = ENA
+add_core = OZA
+add_core = SAN

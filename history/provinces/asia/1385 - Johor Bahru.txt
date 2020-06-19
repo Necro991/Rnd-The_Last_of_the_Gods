@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 35
+owner = SUU
+controller = SUU
+add_core = SUU
+add_core = PAI
+naval_base = 1

@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 31
+owner = GOG
+controller = GOG
+add_core = RWX
+add_core = LEE

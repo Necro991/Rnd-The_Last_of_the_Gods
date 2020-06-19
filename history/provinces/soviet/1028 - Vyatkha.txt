@@ -1,0 +1,8 @@
+trade_goods = cotton
+life_rating = 31
+owner = MAL
+controller = MAL
+add_core = HAT
+add_core = ANA
+add_core = SAN
+add_core = MAL

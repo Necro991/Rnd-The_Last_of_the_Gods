@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 30
+owner = RAD
+controller = RAD
+add_core = KAI
+add_core = YLI

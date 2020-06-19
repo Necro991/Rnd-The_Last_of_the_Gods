@@ -1,0 +1,8 @@
+trade_goods = grain
+life_rating = 31
+owner = YEN
+controller = YEN
+add_core = YEN
+add_core = DON
+railroad = 1
+fort = 1

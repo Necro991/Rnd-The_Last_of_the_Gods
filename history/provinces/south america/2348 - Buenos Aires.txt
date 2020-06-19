@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 30
+owner = TAN
+controller = TAN
+add_core = MAG
+add_core = TAN
+add_core = YTA

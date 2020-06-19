@@ -1,0 +1,6 @@
+trade_goods = wool
+life_rating = 33
+owner = DVD
+controller = DVD
+add_core = DVD
+add_core = NYL

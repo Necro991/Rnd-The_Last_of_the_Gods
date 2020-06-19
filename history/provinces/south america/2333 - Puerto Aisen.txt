@@ -1,0 +1,6 @@
+trade_goods = silk
+life_rating = 35
+owner = PAD
+controller = PAD
+add_core = LEE
+add_core = EIN

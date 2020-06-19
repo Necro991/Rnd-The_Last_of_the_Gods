@@ -1,0 +1,8 @@
+trade_goods = iron
+life_rating = 30
+owner = OSZ
+controller = OSZ
+add_core = KES
+add_core = OSZ
+add_core = MED
+add_core = ROZ

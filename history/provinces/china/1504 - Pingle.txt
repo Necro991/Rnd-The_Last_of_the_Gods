@@ -1,0 +1,7 @@
+trade_goods = coal
+life_rating = 31
+owner = ANJ
+controller = ANJ
+add_core = NOK
+add_core = KES
+add_core = ROZ

@@ -1,0 +1,6 @@
+trade_goods = coal
+life_rating = 32
+owner = PEB
+controller = PEB
+add_core = PEB
+add_core = TOI

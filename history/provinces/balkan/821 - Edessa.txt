@@ -1,0 +1,8 @@
+trade_goods = wool
+life_rating = 34
+owner = JAR
+controller = JAR
+add_core = JAR
+add_core = VIN
+add_core = RGN
+add_core = KER

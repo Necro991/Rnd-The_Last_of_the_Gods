@@ -1,0 +1,5 @@
+trade_goods = cotton
+life_rating = 35
+owner = DUK
+controller = DUK
+add_core = DUK

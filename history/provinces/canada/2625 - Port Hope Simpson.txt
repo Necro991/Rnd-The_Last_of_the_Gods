@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 31
+owner = AZE
+controller = AZE
+add_core = JIR
+add_core = KAJ
+add_core = AZE

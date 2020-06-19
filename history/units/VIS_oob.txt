@@ -1,0 +1,32 @@
+
+army = {
+	name = "2. Army"
+
+	location = 2614
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 2614
+	}
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 2614
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 2614
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+}

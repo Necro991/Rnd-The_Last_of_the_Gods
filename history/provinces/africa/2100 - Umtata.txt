@@ -1,0 +1,8 @@
+trade_goods = fish
+life_rating = 32
+owner = BIN
+controller = BIN
+add_core = BIN
+add_core = XUA
+add_core = DON
+add_core = LAO

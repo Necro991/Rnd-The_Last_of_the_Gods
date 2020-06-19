@@ -1,0 +1,123 @@
+color = { 255 81 82 }
+graphical_culture = Generic
+
+party = {
+	name = NIZ_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = NIZ_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = NIZ_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = NIZ_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = NIZ_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = NIZ_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = NIZ_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = NIZ_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = NIZ_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Ebunyok" "Felsorborgom" "Emegrad" "Medvekszard" "Lomas" "Hercepest" "Arabukokut" "Ekegyskolk" "Banaszehaza" "Vasfeszek" "Nagyged" "Kizonok" "Bamaz" "Kirajonok" "Alalatonyok" "Gronok" "Pirokes" "Hercekes" "Zokszard" "Ezuzsa" "Budakegyhervar" "Nizzavar" "Hercevar" "Loklos" "Piropest" "Bareny" "Virazallas" "Nagymas" "Kogykszard" "Enyrkehervar" "Sarkakegypest" "Zomas" "Sasbatlargom" "Korboged" "Grokemet" "Kebumas" "Soszetomany" "Sabuvaros" "Kokegyreny" "Rozsabumas" "Farkanyok" "Budamas" "Sulyrbonyok" "Rozsameny" "Oszizofeszek" "Alagrad" "Sarkaszeklos" "Sasboskolk" "Arakszard" "Banakastely" 
+	}
+	ironclad = {
+		"Hercerbofeszek" "Nagyrlunyok" "Budazallas" "Ekokut" "Bakokut" "Vaddizsa" "Vizavaros" "Zomas" "Pirogyergom" "Sarkagyklos" "Sulyvaros" "Edozsa" "Edohervar" "Kevaros" "Sobatlahaza" "Loszemas" "Vasanyok" "Rozsalatomeny" "Arakokut" "Vaddigyezsa" "Sasszezallas" "Oszikemet" "Medvehervar" "Vizavaros" "Vasgyegrad" "Rozsamaz" "Barbovaros" "Vasaged" "Kevaros" "Sulyzomas" "Sarkakokut" "Lozallas" "Zorluskolk" "Vaszallas" "Arareny" "Nagygyeskolk" "Vizabatlakokut" "Sagyezallas" "Ezuklos" "Vasazsa" "Rozsameny" "Vasatelakokut" "Mehvar" "Sulygykastely" "Enykes" "Oszikastely" "Budajonok" "Vizamas" "Enytelaged" "Vizanok" 
+	}
+	manowar = {
+		"Zogyemeny" "Kiszemas" "Mehrluzsa" "Medvefeszek" "Grograd" "Sarkagrad" "Vasamemaz" "Lonyok" "Viragyevaros" "Koged" "Rozsatomany" "Vasajohervar" "Rozsabatlapest" "Sasklos" "Sasrlukes" "Hercetomany" "Kiraskolk" "Vasged" "Medvenok" "Enyrkekemet" "Oszimemaz" "Alagyfeszek" "Ezukegyvar" "Vadditelareny" "Kereny" "Nizzargom" "Vasahaza" "Pirobomas" "Vaddibureny" "Kograd" "Zokegynyok" "Feherkegrad" "Kozokokut" "Hercelatoged" "Farkakokut" "Sarkekokut" "Saged" "Lohervar" "Sarkaskolk" "Pirolatonyok" "Batelakszard" "Kenok" "Felsotelareny" "Sargom" "Budaged" "Vasajozsa" "Arakes" "Medvedohervar" "Felsogyeklos" "Grobofeszek" 
+	}
+	cruiser = {
+		"Felsomeny" "Fehekokut" "Sasdozallas" "Araged" "Banamergom" "Bafeszek" "Bananok" "Mehklos" "Mehzallas" "Kodozsa" "Kozsa" "Saspest" "Grorgom" "Ketelafeszek" "Arazallas" "Baged" "Sasfeszek" "Rozsavar" "Hercerlugrad" "Vasmekemet" "Vaskastely" "Vaddiged" "Mehzoklos" "Nizzakszard" "Felsokemet" "Rozsaszevaros" "Sarkalatonok" "Zofeszek" "Alargom" "Vaslatograd" "Viravar" "Sarkagyvar" "Koklos" "Felsokokut" "Budargom" "Enykes" "Nagynok" "Hercezoged" "Kogyevaros" "Banaskolk" "Kekemet" "Felsoged" "Hercegyklos" "Sarkabukszard" "Kijozsa" "Enykszard" "Sulybograd" "Rozsabomaz" "Sasrlupest" "Sasrbokokut" 
+	}
+	frigate = {
+		"Hercelatokemet" "Budaskolk" "Bazallas" "Kokes" "Feherlumaz" "Mehrluzsa" "Oszibuhaza" "Hercelatorgom" "Eged" "Bahaza" "Zodoreny" "Mehszezsa" "Rozsarkemeny" "Nagygrad" "Somaz" "Vizavar" "Kiraskolk" "Gropest" "Rozsafeszek" "Sulyrgom" "Korluzsa" "Kijohaza" "Kobomaz" "Vizagyemas" "Fehegyetomany" "Alarlumaz" "Egyhervar" "Alagyezallas" "Fehemas" "Komeny" "Lorkekemet" "Nizzahaza" "Sarkatelavaros" "Banyok" "Kigyvaros" "Sabatlazsa" "Grozorgom" "Aragyhaza" "Sobatlavaros" "Vasarlukes" "Feheskolk" "Saskokut" "Alarbomaz" "Rozsamaz" "Lovar" "Fehezallas" "Hercenyok" "Kozallas" "Fehebupest" "Rozsavar" 
+	}
+	monitor = {
+		"Vasargom" "Virakes" "Vaddibatlakszard" "Sarkagymaz" "Loged" "Saskes" "Nizzatelamas" "Rozsatelahaza" "Zozoskolk" "Bamegrad" "Nizzavaros" "Kifeszek" "Fehekegyzallas" "Vasabumeny" "Hercemaz" "Ezsa" "Vasreny" "Komeged" "Pirobatlamas" "Rozsabatlakes" "Lobunok" "Viranok" "Grozallas" "Hercebukes" "Nizzarlureny" "Sarkagrad" "Piroklos" "Oszibatlanok" "Ezuzograd" "Alamehervar" "Fehegykes" "Kiraklos" "Viratelakokut" "Sasbatlaskolk" "Kigyreny" "Kikastely" "Kirbokszard" "Batelapest" "Pirorbopest" "Kerbomaz" "Hercezofeszek" "Sulybuhaza" "Vizanok" "Vaddikastely" "Ararbomaz" "Herceszenok" "Pirobuhervar" "Nizzagykszard" "Sohaza" "Gropest" 
+	}
+}

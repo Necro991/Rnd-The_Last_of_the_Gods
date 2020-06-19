@@ -1,0 +1,13 @@
+trade_goods = grain
+life_rating = 34
+owner = GON
+controller = GON
+add_core = ZAO
+add_core = GON
+add_core = AGA
+add_core = YLI
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

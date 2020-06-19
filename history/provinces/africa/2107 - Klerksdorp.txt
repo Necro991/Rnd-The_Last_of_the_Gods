@@ -1,0 +1,6 @@
+trade_goods = cattle
+life_rating = 35
+owner = PHU
+controller = PHU
+add_core = PHU
+add_core = DON

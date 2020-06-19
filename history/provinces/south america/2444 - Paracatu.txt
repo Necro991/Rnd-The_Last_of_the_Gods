@@ -1,0 +1,5 @@
+trade_goods = grain
+life_rating = 33
+owner = DOK
+controller = DOK
+add_core = DOK

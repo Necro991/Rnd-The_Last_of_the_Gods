@@ -1,0 +1,5 @@
+trade_goods = coffee
+life_rating = 32
+owner = RAD
+controller = RAD
+add_core = RAD

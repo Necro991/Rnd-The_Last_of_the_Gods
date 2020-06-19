@@ -1,0 +1,6 @@
+trade_goods = wool
+life_rating = 34
+owner = GOG
+controller = GOG
+add_core = GOG
+add_core = GOV

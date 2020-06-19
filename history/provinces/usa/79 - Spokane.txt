@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 34
+owner = SYR
+controller = SYR
+add_core = NYL
+add_core = SYR

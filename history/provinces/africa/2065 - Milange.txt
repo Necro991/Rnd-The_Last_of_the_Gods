@@ -1,0 +1,8 @@
+trade_goods = fruit
+life_rating = 35
+owner = HOA
+controller = HOA
+add_core = HOA
+add_core = DON
+add_core = HUC
+railroad = 1

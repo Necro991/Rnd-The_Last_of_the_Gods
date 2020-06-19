@@ -1,0 +1,12 @@
+trade_goods = coal
+life_rating = 32
+owner = BAN
+controller = BAN
+add_core = VIR
+add_core = BAN
+add_core = ROZ
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

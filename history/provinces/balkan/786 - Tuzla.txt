@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 32
+owner = DRA
+controller = DRA
+add_core = KER
+add_core = DRA

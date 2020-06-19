@@ -1,0 +1,9 @@
+trade_goods = fish
+life_rating = 31
+owner = SAS
+controller = SAS
+add_core = FEL
+add_core = ROZ
+add_core = SAS
+fort = 1
+railroad = 1

@@ -1,0 +1,123 @@
+color = { 94 255 216 }
+graphical_culture = UsGC
+
+party = {
+	name = EMT_conservative
+	start_date = 1878.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = EMT_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = EMT_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = EMT_liberal
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = EMT_liberal_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = EMT_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = EMT_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = EMT_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = EMT_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Korenland" "Roosshem" "Veendorp" "Roosdalen" "Emskamp" "Aardwoud" "Dokktdijk" "Friesburcht" "Oostwold" "Aakenbeken" "Oudeshaven" "Bolland" "Roostenburcht" "Zeeesoog" "Zaandbrug" "Buitensterwoud" "Dokkbrug" "Friesdammen" "Haarsstad" "Zuidsterwold" "Nijtendorp" "Bakdammen" "Maassteoog" "Willemsdalen" "Ijsszijl" "Dokkdalen" "Buitenesland" "Beverbeken" "Westrijk" "Roostschap" "Leerdstad" "Lagesveld" "Roossedal" "Leeuwenstein" "Hogwijken" "Roostzijl" "Zwarthouten" "Haarsterwoud" "Roosbroek" "Boltwolde" "Steensterhoek" "Wittmolen" "Beverswolde" "Zaandstad" "Rozsterdammen" "Oostlo" "Bolsterijk" "Westenhof" "Groenwijken" "Karelstkamp" 
+	}
+	ironclad = {
+		"Zeesdijk" "Ijsseswold" "Buitentbos" "Ooststehoorn" "Friespolder" "Beverstede" "Zuideshoek" "Ijsshoorn" "Halfsterstein" "Groenwoud" "Beverhouten" "Zaandsterschap" "Noordsekerken" "Steenoog" "Leerdesbrugge" "Oostsedammen" "Rozstewolde" "Willemswolde" "Noordburcht" "Kleigouw" "Wittteind" "Zwartshoven" "Roerbergen" "Rooshouten" "Zwartsterstein" "Lagsterhem" "Ouddalen" "Rooslo" "Oudpolder" "Zeesedorp" "Vaalsseveen" "Middeltden" "Nijenwouden" "Lagwijken" "Oudsehouten" "Maashouten" "Zeebrugge" "Zandtdalen" "Zandenhouten" "Vlaardtendammen" "Hogbergen" "Zeeenbroek" "Aardstehoek" "Middelszanden" "Oudseveen" "Friessemolen" "Aardenlo" "Maassehoorn" "Leeuwgouw" "Kleikamp" 
+	}
+	manowar = {
+		"Veenhoorn" "Vaalsenbrugge" "Amsterland" "Vaalsrijk" "Valkswold" "Oudtenstede" "Groensterzanden" "Oostwoud" "Wittenweg" "Maaseswoud" "Middelwijken" "Dokkdammen" "Korenswarden" "Veenweg" "Maasbrugge" "Emeshaven" "Ijsstenhaven" "Bredestedammen" "Halfdalen" "Friesenstein" "Valkrijk" "Emmolen" "Lagtveen" "Dokksestad" "Amsterdalen" "Roossrijk" "Steenland" "Oostsedalen" "Groenhof" "Hogsterdammen" "Oostzijl" "Bevereswarden" "Dokkhoven" "Veenrijk" "Noorddalen" "Vlaardsen" "Veensterstede" "Zwartsehof" "Buitenkerken" "Wittesland" "Friessen" "Bakdammen" "Lelystehoek" "Groenbergen" "Lagsdijk" "Halflo" "Zwartden" "Emlo" "Middelhof" "Valkbeken" 
+	}
+	cruiser = {
+		"Oostwouden" "Karelsthaven" "Bredehem" "Halfsterkamp" "Lelybrug" "Vlaardthoek" "Dokkenschap" "Zaandsedammen" "Buitenland" "Frieskamp" "Lelystad" "Korentenwoud" "Groensewolde" "Veenwold" "Maashouten" "Bollo" "Zwartkerken" "Leeuwoog" "Haartenhem" "Bevereind" "Hogland" "Wittwijken" "Roergouw" "Vlaardhem" "Lagstesen" "Karelswijken" "Dokksterstein" "Lelyenzanden" "Steenveen" "Noordwijken" "Boldijk" "Karelssestein" "Korenbrugge" "Lagsteoog" "Halflo" "Emthem" "Ijsssewoud" "Frieshoek" "Willemseswolde" "Groenveen" "Korenbrugge" "Zuidstad" "Noordseind" "Lelytmolen" "Roosbrugge" "Leeuwhem" "Leeuwstebroek" "Lagland" "Ijssenbrugge" "Buitenesburcht" 
+	}
+	frigate = {
+		"Dokktveld" "Rozsezijl" "Zandendalen" "Buitensterdal" "Korenveld" "Leeuwhoorn" "Zeeenzijl" "Emhem" "Frieshorst" "Aardbergen" "Beverhaven" "Aardkerken" "Oudbergen" "Ijssswijken" "Maassterlo" "Korenseland" "Maasbroek" "Zeelo" "Lelyenstede" "Zeeveen" "Hogwouden" "Ijssstad" "Zuidenbos" "Roerweg" "Bredeendalen" "Roosthouten" "Amsterbrug" "Beverrijk" "Karelseswarden" "Karelsbrug" "Valkstede" "Maassbroek" "Leerdhem" "Oudden" "Oosthoorn" "Maaseswold" "Karelsveen" "Middelesbroek" "Bredehem" "Dokkesstein" "Beverhouten" "Zaandbos" "Vaalsstehorst" "Veenenwijken" "Zuiddorp" "Roerrijk" "Kleisteveen" "Haargouw" "Bolweg" "Maaseswouden" 
+	}
+	monitor = {
+		"Wittsterstein" "Bolesdalen" "Steeneind" "Bredehaven" "Aakseland" "Rozbrugge" "Zeeeshof" "Groenveld" "Nijdalen" "Nijburcht" "Lelybeken" "Haareshorst" "Kleistein" "Zuidseoog" "Zwarthof" "Westthoek" "Bolmolen" "Nijbroek" "Oostsland" "Aakstad" "Kleistede" "Leerdbroek" "Hogveen" "Noordeshem" "Karelsenden" "Rooshof" "Bakesdijk" "Zeehoorn" "Roosstegouw" "Vaalsbeken" "Zaandtendijk" "Nijkamp" "Leerdwolde" "Emshaven" "Korenhoven" "Willemsshof" "Vlaardwoud" "Willemsbrug" "Zandtdorp" "Lelytbrugge" "Haardal" "Ijsswijken" "Dokkhaven" "Ijssburcht" "Dokkrijk" "Karelsstad" "Lagendal" "Weststedijk" "Haarteind" "Emhoven" 
+	}
+}

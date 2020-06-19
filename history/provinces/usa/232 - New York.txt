@@ -1,0 +1,7 @@
+trade_goods = silk
+life_rating = 31
+owner = WAM
+controller = WAM
+add_core = TOS
+add_core = KAJ
+add_core = WAM

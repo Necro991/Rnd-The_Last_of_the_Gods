@@ -1,0 +1,7 @@
+trade_goods = timber
+life_rating = 32
+owner = PAK
+controller = PAK
+add_core = TAN
+add_core = YTA
+add_core = PAK

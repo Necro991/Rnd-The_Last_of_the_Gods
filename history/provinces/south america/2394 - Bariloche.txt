@@ -1,0 +1,9 @@
+trade_goods = grain
+life_rating = 35
+owner = OSU
+controller = OSU
+add_core = YTA
+add_core = PIK
+add_core = PAD
+add_core = PIN
+add_core = OSU

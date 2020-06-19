@@ -1,0 +1,5 @@
+trade_goods = opium
+life_rating = 30
+owner = VAL
+controller = VAL
+add_core = VAL

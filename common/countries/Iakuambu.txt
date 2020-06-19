@@ -1,0 +1,112 @@
+color = { 92 199 95 }
+graphical_culture = American1GC
+
+party = {
+	name = IAK_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = IAK_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = IAK_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = IAK_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = IAK_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = IAK_socialist
+	start_date = 1860.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = IAK_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = IAK_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Taguaba" "Pibabarimbu" "Maguanainema" "Pamararara" "Ytanera" "Papetu" "Tamaguabanema" "Guamuanenema" "Ydopetyba" "Paperadotyba" "Mamuaguatu" "Iapenerara" "Yraraguara" "Uabana" "Iarumanema" "Iaguakembu" "Pinmama" "Pikaetyba" "Pimuatu" "Uaguakuarimbu" "Kuribabaguara" "Jakarinena" "Pakaebamuaguara" "Kuruba" "Uarikamasu" "Pidonema" "Pinmakeuna" "Ianebauna" "Pinnairadoma" "Ytabaguara" "Pamuarina" "Maguapena" "Kubanema" "Makuaratyba" "Uakembu" "Kurimana" "Guaguanema" "Yguaba" "Madorarama" "Pipeuna" "Jaseriba" "Papeuna" "Jasenekenema" "Pikaemanainema" "Guadokuara" "Paperudona" "Jaguatu" "Pamuapeguama" "Padona" "Parusu" 
+	}
+	ironclad = {
+		"Iakera" "Kukuasenema" "Makaekamatu" "Jamuana" "Guanaira" "Pakuakembu" "Ytakaneranema" "Uarityba" "Ytakuana" "Pinmarumambu" "Iamuasesetyba" "Pindonema" "Iarunaikana" "Jasepekaema" "Jakuapekaena" "Paguamuanema" "Guakemakeuna" "Uaguakaemana" "Pinbaguaseuna" "Pamuama" "Tapepemuana" "Parunaira" "Kuraguara" "Ytakaguara" "Pidombu" "Kumatu" "Jasekaneuna" "Guabaguara" "Pinrukaguaguara" "Guaripema" "Manaisena" "Ykama" "Guabama" "Ymasenaima" "Pikaemama" "Yguakasetu" "Ymuabapenema" "Uabadokuara" "Uanairukaera" "Guamuama" "Guadoguara" "Iadoma" "Ykaekaeuna" "Guanairuguara" "Panekanaiguara" "Guamabasu" "Guaradosu" "Pindonepembu" "Jaguambu" "Janemuaketyba" 
+	}
+	manowar = {
+		"Ytamabana" "Guakuatyba" "Tasesema" "Uadomadoma" "Ytakuatyba" "Ianesekaena" "Uanekembu" "Mapenaiuna" "Yguabakana" "Mamuara" "Paguakaema" "Paguama" "Pakuatu" "Tapeguaguara" "Panaikuaguara" "Pasesu" "Pamuakaeuna" "Jabaguara" "Jakana" "Guaneguatyba" "Uakakena" "Tamuambu" "Mabakuatu" "Guakuamuakana" "Taguaruba" "Pirikuambu" "Ytanekamuana" "Iadobaneba" "Uabakuaguauna" "Janaiba" "Pinmuapenema" "Ytarutu" "Ytamuaba" "Jakaeuna" "Guamuarakuanema" "Iabama" "Uamanesu" "Uanaisu" "Ynaina" "Kupesena" "Kukera" "Ybasu" "Guakuakuambu" "Iasebarityba" "Tararura" "Ytamuatyba" "Parama" "Iabadobatyba" "Ynepeguanema" "Kuguambu" 
+	}
+	cruiser = {
+		"Pindoguakambu" "Pinkakena" "Pimakaeba" "Jamuakeguara" "Pibauna" "Pinnaityba" "Guanaiguara" "Iakera" "Ytakaeguakaetu" "Iadorutyba" "Jaguakaetu" "Uaseguara" "Uakaseguara" "Kudopesu" "Takuakera" "Kubasenaina" "Guasenema" "Iakerakuauna" "Yruba" "Pikesesu" "Jadomana" "Pikaseba" "Tarusu" "Uakaekepenema" "Iapeguaseba" "Tarauna" "Paguatu" "Jasemambu" "Yrurukuaguara" "Ypepesu" "Ytabapeba" "Ykerabauna" "Uamakaguara" "Manaima" "Iakaerudoba" "Uakaemaguara" "Pirityba" "Papena" "Uamuaramanema" "Ytamuamaba" "Maguama" "Pinnena" "Uakaekuamara" "Mariseketyba" "Kukaeritu" "Padonaityba" "Piramaritu" "Mamuadotu" "Takaeguana" "Yperibara" 
+	}
+	frigate = {
+		"Kukana" "Paguakuakuaba" "Jarikuamara" "Pinmamakaguara" "Pariraratu" "Pipemuamana" "Uararadona" "Guakuadorisu" "Guanaidoriba" "Ytakaperina" "Ysekeraba" "Ytaguama" "Ytarudokaeuna" "Uaguarira" "Jabakaerutu" "Kumuanema" "Ybana" "Ytarumakera" "Guanemuatu" "Paguaba" "Panaisu" "Ytapedonaina" "Marunetyba" "Pikamuasu" "Jararurira" "Pikapera" "Pakeripeguara" "Ytamama" "Mapena" "Guaranetu" "Ykena" "Pinmana" "Tasenairaguara" "Pikambu" "Pibasu" "Guarakeguana" "Marityba" "Tanepepema" "Jakuapeuna" "Jaseguara" "Masekaeriuna" "Uararuna" "Iabasu" "Makakuarauna" "Ynaikanetyba" "Pinmatyba" "Takamuamaguara" "Uaratu" "Ytapemuakuara" "Kubarutyba" 
+	}
+	monitor = {
+		"Ytadokuakena" "Manaisetu" "Pakuana" "Kuranena" "Takaetu" "Iarukuanetyba" "Parumuasu" "Guarira" "Uarukatu" "Ypeguakuana" "Pinkaerira" "Manekasu" "Kumuamuana" "Takakeguara" "Taguakemama" "Kupeguapeba" "Uariba" "Ytaranaisembu" "Pinsemuakaema" "Uamapetyba" "Guaguariguama" "Pakambu" "Paraba" "Uanaimbu" "Kukemaba" "Ytararuba" "Iaguamuambu" "Janaimana" "Yranemuauna" "Pamara" "Piratu" "Ytadorukeuna" "Ytarumapembu" "Kupekasu" "Tabaraneguara" "Pinmuamasena" "Paruguara" "Janembu" "Papemarambu" "Ykamasembu" "Pimuaramuaba" "Makembu" "Mamanaina" "Tarupera" "Paseuna" "Uamuaseguara" "Pinbanesu" "Paguadokambu" "Jakaririba" "Pipekambu" 
+	}
+}

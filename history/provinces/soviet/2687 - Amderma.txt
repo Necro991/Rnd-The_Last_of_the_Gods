@@ -1,0 +1,6 @@
+trade_goods = fish
+life_rating = 32
+owner = LEC
+controller = LEC
+add_core = SAN
+add_core = LEC

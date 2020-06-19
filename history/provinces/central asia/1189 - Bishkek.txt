@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 34
+owner = NAK
+controller = NAK
+add_core = AGA
+add_core = YLI
+add_core = NAK

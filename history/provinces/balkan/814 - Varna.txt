@@ -1,0 +1,10 @@
+trade_goods = wool
+life_rating = 34
+owner = RAD
+controller = RAD
+add_core = MOM
+state_building = {
+	level = 1
+	building = luxury_clothes_factory
+	upgrade = yes
+}

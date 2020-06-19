@@ -1,0 +1,9 @@
+trade_goods = fish
+life_rating = 32
+owner = ANA
+controller = ANA
+add_core = HAT
+add_core = SAN
+add_core = ANA
+naval_base = 1
+naval_base = 1

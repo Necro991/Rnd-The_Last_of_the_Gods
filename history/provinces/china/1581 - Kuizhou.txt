@@ -1,0 +1,12 @@
+trade_goods = coal
+life_rating = 33
+owner = MEH
+controller = MEH
+add_core = MEH
+add_core = ROZ
+add_core = KIR
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

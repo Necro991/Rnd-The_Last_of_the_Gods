@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 33
+owner = PON
+controller = PON
+add_core = KAJ
+add_core = PON

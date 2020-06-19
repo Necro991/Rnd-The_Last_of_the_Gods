@@ -1,0 +1,6 @@
+trade_goods = timber
+life_rating = 30
+owner = PEB
+controller = PEB
+add_core = PEB
+add_core = PUB

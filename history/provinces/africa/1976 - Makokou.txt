@@ -1,0 +1,5 @@
+trade_goods = timber
+life_rating = 35
+owner = EMI
+controller = EMI
+add_core = EMI

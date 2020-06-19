@@ -1,0 +1,7 @@
+trade_goods = timber
+life_rating = 31
+owner = NGH
+controller = NGH
+add_core = DON
+add_core = INH
+add_core = NGH

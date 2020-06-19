@@ -1,0 +1,5 @@
+trade_goods = fruit
+life_rating = 32
+owner = ANJ
+controller = ANJ
+add_core = ANJ

@@ -1,0 +1,8 @@
+trade_goods = coffee
+life_rating = 33
+owner = BEN
+controller = BEN
+add_core = GIO
+add_core = BEN
+add_core = ALT
+naval_base = 1

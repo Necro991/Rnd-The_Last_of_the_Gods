@@ -1,0 +1,7 @@
+trade_goods = grain
+life_rating = 31
+owner = FEL
+controller = FEL
+add_core = ROZ
+add_core = FEL
+add_core = SAS

@@ -1,0 +1,5 @@
+trade_goods = cotton
+life_rating = 34
+owner = OMU
+controller = OMU
+add_core = OMU

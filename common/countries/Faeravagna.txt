@@ -1,0 +1,123 @@
+color = { 99 38 43 }
+graphical_culture = Europe1GC
+
+party = {
+	name = FAE_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = FAE_conservative_2
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = FAE_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = FAE_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+party = {
+	name = FAE_liberal_2
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = FAE_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = FAE_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = FAE_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = FAE_fascist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Altatinizza" "Pestrena" "Apriravoglia" "Pecadini" "Retinetta" "Spatinello" "Faevalloli" "Coneggenze" "Denfeto" "Bidaducca" "Coletta" "Chistrina" "Radadoglia" "Trirvallone" "Socadizza" "Beneneggimo" "Recena" "Pedaducca" "Patinoglia" "Bitosa" "Retone" "Telina" "Pacadosa" "Civitadadagna" "Beneravale" "Alina" "Redadugia" "Renfello" "Spescoglia" "Delosa" "Spetina" "Teravagna" "Rescagna" "Pavezzo" "Speloglia" "Acistrini" "Devalloglia" "Faervalletta" "Trineggazzano" "Maravino" "Chirvallizza" "Poneggino" "Racello" "Depantezzo" "Nescosa" "Avenze" "Sorrissimo" "Revalloglia" "Cadaducca" "Pedadezzo" 
+	}
+	ironclad = {
+		"Recina" "Podina" "Sotinaglia" "Altatinimo" "Faetimo" "Trivallina" "Acistaglia" "Dedadena" "Peravezzo" "Civitaravosa" "Benerreggio" "Itinella" "Spevallena" "Escella" "Cavazzano" "Cascena" "Arevallale" "Tervallino" "Neravopoli" "Speceto" "Faedino" "Chistrizza" "Idale" "Escoli" "Nestoli" "Cedino" "Cocogna" "Cacadini" "Faescena" "Cadadeggio" "Pecaglia" "Acitenze" "Sadadeggio" "Paraveggio" "Potello" "Mastissimo" "Peravaio" "Sorrella" "Chiscetta" "Anfini" "Iscale" "Faeneggano" "Altadone" "Metagna" "Aprineggena" "Eveggio" "Confena" "Apritinucca" "Polone" "Civitarvallogna" 
+	}
+	manowar = {
+		"Spastosa" "Corvallimo" "Ceneggini" "Peneggizza" "Malale" "Binfaio" "Pepanteggio" "Civitavalletta" "Faetugia" "Pecenze" "Destrosa" "Benerretta" "Relimo" "Ratoli" "Birvallimo" "Benestrogna" "Apriravale" "Altavallosa" "Porrina" "Cadadopoli" "Sorrissimo" "Etinugia" "Civitavaio" "Benetini" "Ratinetta" "Neneggello" "Nenfimo" "Arrale" "Trirvallaio" "Apritineggio" "Chetina" "Pocadoli" "Soravosa" "Calini" "Spacopoli" "Pocaducca" "Mestazzano" "Neravugia" "Speneggello" "Chitinizza" "Coravucca" "Pelena" "Bilenze" "Pastena" "Recadoglia" "Acipantale" "Arelaio" "Bineggino" "Petaio" "Apritone" 
+	}
+	cruiser = {
+		"Aprinfazzano" "Mascissimo" "Altatagna" "Spacadini" "Catinizza" "Altarvallano" "Aretinione" "Astrosa" "Sostello" "Sodadosa" "Mavalletta" "Panfone" "Faedaducca" "Tricano" "Spastopoli" "Descaglia" "Satosa" "Delone" "Arvallosa" "Nelello" "Apricimo" "Pastrello" "Netineto" "Altarvalletta" "Ranfagna" "Porropoli" "Macano" "Ceravano" "Sascano" "Melimo" "Postrini" "Itimo" "Astugia" "Acineggopoli" "Redeto" "Mecadella" "Sotinagna" "Chivoglia" "Idadello" "Areraveggio" "Benecugia" "Ipantina" "Aciceto" "Eneggogna" "Poveto" "Nedoli" "Chistano" "Faenfini" "Faecaio" "Detinucca" 
+	}
+	frigate = {
+		"Beneravosa" "Pacadina" "Bipantione" "Porvallello" "Arecadoglia" "Arecagna" "Reravimo" "Civitarrazzano" "Birrazzano" "Nelino" "Potinena" "Netella" "Apritopoli" "Copantissimo" "Civitastione" "Melino" "Iravello" "Chitoli" "Povosa" "Benestimo" "Areravello" "Altadano" "Sopantone" "Cedadano" "Chevallaglia" "Astetta" "Ivone" "Altatinetta" "Rastina" "Civitascena" "Benescizza" "Birvallaio" "Ponfina" "Pelina" "Edadino" "Sarvallini" "Aprirrella" "Rarrosa" "Binfetta" "Cervallizza" "Porvallosa" "Chedadoglia" "Faetone" "Apripantetta" "Arecosa" "Faestrina" "Derrella" "Raravoli" "Acilizza" "Penfetta" 
+	}
+	monitor = {
+		"Rastropoli" "Cetezzo" "Ceravucca" "Apriravugia" "Chelano" "Bineggini" "Spatetta" "Derropoli" "Derraglia" "Ratissimo" "Faecadena" "Spevalloli" "Arervallone" "Sotinano" "Renfini" "Pestetta" "Ceneggucca" "Nedadugia" "Menfazzano" "Pestrano" "Areneggino" "Podadoli" "Aredione" "Altascimo" "Aprirvallazzano" "Apristizza" "Mepantone" "Rarraglia" "Dedadina" "Popantoli" "Cervallaio" "Raravella" "Civitasceggio" "Spetinino" "Sonfezzo" "Arvallaio" "Civitacello" "Pocadina" "Codano" "Terreggio" "Bicadaglia" "Trirrissimo" "Faestroglia" "Detena" "Speravone" "Cervalletta" "Devallucca" "Dedadano" "Aprirrella" "Chenfugia" 
+	}
+}

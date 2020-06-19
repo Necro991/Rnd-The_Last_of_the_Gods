@@ -1,0 +1,47 @@
+capital = 233
+primary_culture = Semiga_tag
+religion = xfyeaghykkspouas
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_liberty
+literacy = 0.11
+civilized = no
+prestige = 0
+
+# Political Reforms
+slavery = no_slavery
+vote_franschise = none_voting
+upper_house_composition = appointed
+political_parties = gerrymandering
+voting_system = first_past_the_post
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# Voting:
+ruling_party = ATA_conservative_2
+last_election = 1834.7.10
+upper_house = {
+	fascist = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+	liberal = 1
+	reactionary = 5
+	conservative = 94
+}
+industrial_construction = yes_industrial_construction
+finance_reform = yes_finance_reform
+consciousness = 1
+nonstate_consciousness = 0
+oob = "ATA_oob.txt"
+

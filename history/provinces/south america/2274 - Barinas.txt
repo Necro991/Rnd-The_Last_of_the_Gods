@@ -1,0 +1,7 @@
+trade_goods = wool
+life_rating = 34
+owner = GOG
+controller = GOG
+add_core = ELD
+add_core = LEE
+add_core = RWX

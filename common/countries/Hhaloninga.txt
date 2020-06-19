@@ -1,0 +1,112 @@
+color = { 184 0 123 }
+graphical_culture = African1GC
+
+party = {
+	name = HHA_conservative
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = HHA_reactionary
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = reactionary
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = HHA_liberal
+	start_date = 1911.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = HHA_liberal_2
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = HHA_anarcho_liberal
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = HHA_socialist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = HHA_communist
+	start_date = 1848.1.1
+	end_date = 1936.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = HHA_fascist
+	start_date = 1905.1.1
+	end_date = 1936.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Ngilulemayine" "Chakuthuni" "Uphuwuwakhane" "Ngilungelulelune" "Sithulo" "Chagantu" "Uphuthufunnga" "Uphunisingane" "Kubulungewunga" "Ngingandu" "Kubugagalu" "Ukululefawakhawa" "Akhluluhamu" "Uphulunalulentu" "Ngikhuwakhawe" "Isiboke" "Hambawubenzela" "Eikhabontu" "Igahakuyiwe" "Akhluhawuwakhathu" "Eiyilunga" "Ukulungegamu" "Simala" "Laganantu" "Safakhuwakhana" "Unjahagaganga" "Sibulungeboka" "Igakhalu" "Chaningani" "Ukubungandu" "Sathuthu" "Igathuni" "Emisalawe" "Lalungena" "Isiboluntu" "Hhagakhundu" "Igalangabenzendu" "Igalulelonihalu" "Igagaloniwe" "Hambabumbendu" "Kubufakhantu" "Ubuthuthusilo" "Hambagalonilungela" "Igalonimaka" "Hhafunfunndu" "Hhangathungala" "Akhlungayinana" "Zululelalu" "Laloninalulentu" "Angangakhathu" 
+	}
+	ironclad = {
+		"Kubufunthuke" "Ngibungakuka" "Unjamahana" "Yengabo" "Sigangahala" "Laluleluleni" "Igafantu" "Ngibumbefunka" "Sibufawa" "Ukungakhawa" "Uphukhake" "Angamangangani" "Igasabenzentu" "Chakhala" "Kubufahasawa" "Sangabohanga" "Sibulanga" "Yehawakhaganga" "Ubuloniwuwunga" "Igathusakula" "Kubululesilo" "Chakhakhutu" "Hhalangagane" "Ubuloningake" "Unjalonilandu" "Hambakukuga" "Uphulungenagane" "Unjathuntu" "Hhaluleka" "Unjasikhalulenga" "Igaganilungewe" "Isiyimu" "Ukunafunla" "Igafunnika" "Hhanafalo" "Angathukhunga" "Akhlunatu" "Hhakhawula" "Sibulungesantu" "Igafunlandu" "Igafunhafunlu" "Igathuthukhantu" "Unjanisamanga" "Isisamandu" "Sangayibo" "Uphumalulu" "Hambamalangantu" "Hambayintu" "Ngibungakhubumbewe" "Ubuyilawunga" 
+	}
+	manowar = {
+		"Akhlubogantu" "Laloniyintu" "Isibenzene" "Chasinatu" "Zukhulonika" "Uphubungabungamu" "Emikhasintu" "Sisithuni" "Emithuthukhani" "Igangane" "Chalungenagamu" "Ukusala" "Akhlubumbeyikhuwa" "Angasiga" "Igasana" "Sithuntu" "Silonibo" "Eilangani" "Igayiyihantu" "Zubungangathuni" "Nginagafunmu" "Chawugala" "Hhayibenzelu" "Hambabokhuntu" "Hhanana" "Kubunilu" "Emifane" "Emiyindu" "Ubululethuthundu" "Sibuboluluke" "Zunangabunganga" "Sibululekhalulene" "Ukuwuwakhafantu" "Yefunga" "Sibukulungalo" "Isingandu" "Zuthuntu" "Igawuntu" "Uphukhalufaga" "Isinafunnintu" "Angafuntu" "Chasifunni" "Sabosikhantu" "Ngisinalungentu" "Igaganabo" "Unjakhasangake" "Angayibumbegani" "Eiwubenzebenzentu" "Unjathuna" "Ubuthuka" 
+	}
+	cruiser = {
+		"Ukubumbehane" "Uphufunndu" "Ubuthusaga" "Ngingalungesintu" "Ubukhukhala" "Sangayisani" "Chawulungethumu" "Kubusangamatu" "Uphunganika" "Ukungane" "Akhluwakhantu" "Yehamalo" "Chafunthuni" "Hhathulangandu" "Ubugakhufane" "Igabumbeni" "Ukubenzengake" "Igayilo" "Sibugananga" "Angathuwakhala" "Angaluwakhabunganga" "Kubukhala" "Zusangaga" "Eilafunmani" "Emingangani" "Ukubumbenga" "Ukululekuntu" "Nginiga" "Isibumbekhayinga" "Unjangalonintu" "Hambawakhakhuhawa" "Igangalu" "Layithuwe" "Ukubowakhakhuna" "Singahawe" "Unjagawakhawulo" "Kubulalulefani" "Ukusayiluwa" "Emibenzegake" "Hambahayithunga" "Igabumbengakhathu" "Singakhana" "Kubusisani" "Siluleyibumbethu" "Ngingalonisiwa" "Igangangagalo" "Sathumanintu" "Emifunlungentu" "Sibusina" "Isiwakhasintu" 
+	}
+	frigate = {
+		"Chalungebunganga" "Hambalungelangala" "Simangathuwa" "Kubuthukhuwa" "Yehana" "Chahasilo" "Angawakhamu" "Kubuwubungathuke" "Akhlungabumbendu" "Eigabungabungala" "Chakhasine" "Ukunikulantu" "Ngigahathu" "Salangala" "Hambagake" "Uphukhabo" "Silalo" "Chawugalulu" "Akhlugawakhaluntu" "Salusakuke" "Salungebungathu" "Isiyilonilungelo" "Iganilungebola" "Emithunganga" "Ngibogantu" "Sibubobungabumbena" "Lasikhamu" "Isikundu" "Uphuwubumbemu" "Akhlulungelu" "Yewuntu" "Ngibolo" "Uphukhakunga" "Zulonilungewuna" "Akhluthuwakhawe" "Isiloninga" "Isingabungakhalo" "Einatu" "Igathuni" "Silonika" "Isibungasaka" "Sibenzengawuntu" "Uphungalubenzega" "Igawakhafawakhani" "Ubukhabungawakhake" "Angalonifunbungandu" "Sigabo" "Zugabenzelungetu" "Sibukhathusiwe" "Ngiluni" 
+	}
+	monitor = {
+		"Einabumbebumbeni" "Hhakhangantu" "Unjathumawe" "Eiloniyithunga" "Eibumbewulo" "Layibenzenika" "Eithunala" "Eisingantu" "Lakhalulehake" "Emimalanala" "Isingafunwa" "Yengani" "Angabumbentu" "Lakhungakhumu" "Uphugafalu" "Igangangabumbethu" "Kubuyimalo" "Ubufunhangandu" "Angangabumbefandu" "Ubulungendu" "Emilungelufunwa" "Singani" "Silaluyini" "Hhathufaga" "Igalonikukhamu" "Zufunwa" "Ngikhungantu" "Sabenzebungabo" "Emilonilo" "Uphululebungake" "Igawungatu" "Hhalungegakhala" "Ngithuthuka" "Igakhunalo" "Kubukhaka" "Lalonini" "Sithulukubo" "Ukukhuwe" "Isilungebungawa" "Ngibumbeke" "Zuthuka" "Ngihabo" "Zunawakhawulu" "Yebowakhagala" "Zufakhahalo" "Hambagawa" "Igakunana" "Chaluwakhanga" "Hhafantu" "Emifunla" 
+	}
+}

@@ -1,0 +1,7 @@
+trade_goods = cotton
+life_rating = 30
+owner = LGY
+controller = LGY
+add_core = BNA
+add_core = YLI
+add_core = LGY

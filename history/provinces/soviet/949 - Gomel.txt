@@ -1,0 +1,11 @@
+trade_goods = timber
+life_rating = 35
+owner = RAD
+controller = RAD
+add_core = LEJ
+add_core = SAN
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}

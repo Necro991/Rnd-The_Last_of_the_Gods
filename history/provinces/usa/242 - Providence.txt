@@ -1,0 +1,7 @@
+trade_goods = wool
+life_rating = 31
+owner = SHO
+controller = SHO
+add_core = YAM
+add_core = KAJ
+add_core = SHO

@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 33
+owner = NYP
+controller = NYP
+add_core = NYL
+add_core = NYP
+naval_base = 1

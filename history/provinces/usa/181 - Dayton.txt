@@ -1,0 +1,11 @@
+trade_goods = grain
+life_rating = 34
+owner = TED
+controller = TED
+add_core = TED
+add_core = ALE
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

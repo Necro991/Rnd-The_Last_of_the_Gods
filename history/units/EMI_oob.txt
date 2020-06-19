@@ -1,0 +1,848 @@
+
+army = {
+	name = "1. Army"
+
+	location = 1835
+	regiment = {
+		name = "1. Infantry"
+
+		type = infantry
+		home = 1818
+	}
+	regiment = {
+		name = "2. Infantry"
+
+		type = infantry
+		home = 1831
+	}
+	regiment = {
+		name = "3. Infantry"
+
+		type = infantry
+		home = 1822
+	}
+	regiment = {
+		name = "1. Cavalry"
+
+		type = cavalry
+		home = 1977
+	}
+}
+
+army = {
+	name = "2. Army"
+
+	location = 2018
+	regiment = {
+		name = "4. Infantry"
+
+		type = infantry
+		home = 2564
+	}
+	regiment = {
+		name = "5. Infantry"
+
+		type = infantry
+		home = 1972
+	}
+	regiment = {
+		name = "6. Infantry"
+
+		type = infantry
+		home = 2005
+	}
+	regiment = {
+		name = "7. Infantry"
+
+		type = infantry
+		home = 1868
+	}
+	regiment = {
+		name = "8. Infantry"
+
+		type = infantry
+		home = 1855
+	}
+	regiment = {
+		name = "9. Infantry"
+
+		type = infantry
+		home = 1856
+	}
+	regiment = {
+		name = "2. Cavalry"
+
+		type = cavalry
+		home = 2021
+	}
+	regiment = {
+		name = "3. Cavalry"
+
+		type = cavalry
+		home = 2017
+	}
+}
+
+army = {
+	name = "3. Army"
+
+	location = 1867
+	regiment = {
+		name = "10. Infantry"
+
+		type = infantry
+		home = 1967
+	}
+	regiment = {
+		name = "11. Infantry"
+
+		type = infantry
+		home = 1827
+	}
+	regiment = {
+		name = "12. Infantry"
+
+		type = infantry
+		home = 1985
+	}
+	regiment = {
+		name = "13. Infantry"
+
+		type = infantry
+		home = 2043
+	}
+	regiment = {
+		name = "14. Infantry"
+
+		type = infantry
+		home = 1929
+	}
+	regiment = {
+		name = "15. Infantry"
+
+		type = infantry
+		home = 2564
+	}
+	regiment = {
+		name = "16. Infantry"
+
+		type = infantry
+		home = 2067
+	}
+	regiment = {
+		name = "17. Infantry"
+
+		type = infantry
+		home = 1861
+	}
+	regiment = {
+		name = "4. Cavalry"
+
+		type = cavalry
+		home = 1995
+	}
+}
+
+army = {
+	name = "4. Army"
+
+	location = 1940
+	regiment = {
+		name = "18. Infantry"
+
+		type = infantry
+		home = 2013
+	}
+	regiment = {
+		name = "19. Infantry"
+
+		type = infantry
+		home = 1850
+	}
+	regiment = {
+		name = "20. Infantry"
+
+		type = infantry
+		home = 2014
+	}
+	regiment = {
+		name = "21. Infantry"
+
+		type = infantry
+		home = 1932
+	}
+	regiment = {
+		name = "22. Infantry"
+
+		type = infantry
+		home = 1872
+	}
+	regiment = {
+		name = "23. Infantry"
+
+		type = infantry
+		home = 1869
+	}
+	regiment = {
+		name = "24. Infantry"
+
+		type = infantry
+		home = 1934
+	}
+	regiment = {
+		name = "25. Infantry"
+
+		type = infantry
+		home = 1935
+	}
+	regiment = {
+		name = "1. Artillery"
+
+		type = artillery
+		home = 1846
+	}
+}
+
+army = {
+	name = "5. Army"
+
+	location = 1843
+	regiment = {
+		name = "26. Infantry"
+
+		type = infantry
+		home = 1969
+	}
+	regiment = {
+		name = "5. Cavalry"
+
+		type = cavalry
+		home = 1993
+	}
+	regiment = {
+		name = "2. Artillery"
+
+		type = artillery
+		home = 2034
+	}
+}
+
+army = {
+	name = "6. Army"
+
+	location = 2001
+	regiment = {
+		name = "27. Infantry"
+
+		type = infantry
+		home = 1978
+	}
+	regiment = {
+		name = "28. Infantry"
+
+		type = infantry
+		home = 1964
+	}
+	regiment = {
+		name = "6. Cavalry"
+
+		type = cavalry
+		home = 1968
+	}
+	regiment = {
+		name = "3. Artillery"
+
+		type = artillery
+		home = 1970
+	}
+}
+
+army = {
+	name = "7. Army"
+
+	location = 1986
+	regiment = {
+		name = "29. Infantry"
+
+		type = infantry
+		home = 2019
+	}
+	regiment = {
+		name = "30. Infantry"
+
+		type = infantry
+		home = 1859
+	}
+	regiment = {
+		name = "31. Infantry"
+
+		type = infantry
+		home = 2002
+	}
+	regiment = {
+		name = "32. Infantry"
+
+		type = infantry
+		home = 1932
+	}
+	regiment = {
+		name = "7. Cavalry"
+
+		type = cavalry
+		home = 2001
+	}
+	regiment = {
+		name = "8. Cavalry"
+
+		type = cavalry
+		home = 1867
+	}
+}
+
+army = {
+	name = "8. Army"
+
+	location = 2006
+	regiment = {
+		name = "33. Infantry"
+
+		type = infantry
+		home = 2043
+	}
+	regiment = {
+		name = "34. Infantry"
+
+		type = infantry
+		home = 1840
+	}
+	regiment = {
+		name = "35. Infantry"
+
+		type = infantry
+		home = 1867
+	}
+	regiment = {
+		name = "36. Infantry"
+
+		type = infantry
+		home = 790
+	}
+	regiment = {
+		name = "9. Cavalry"
+
+		type = cavalry
+		home = 2564
+	}
+}
+
+army = {
+	name = "9. Army"
+
+	location = 1977
+	regiment = {
+		name = "37. Infantry"
+
+		type = infantry
+		home = 1975
+	}
+	regiment = {
+		name = "10. Cavalry"
+
+		type = cavalry
+		home = 1849
+	}
+	regiment = {
+		name = "11. Cavalry"
+
+		type = cavalry
+		home = 2033
+	}
+	regiment = {
+		name = "4. Artillery"
+
+		type = artillery
+		home = 1968
+	}
+}
+
+army = {
+	name = "10. Army"
+
+	location = 1989
+	regiment = {
+		name = "38. Infantry"
+
+		type = infantry
+		home = 1863
+	}
+	regiment = {
+		name = "39. Infantry"
+
+		type = infantry
+		home = 1868
+	}
+	regiment = {
+		name = "40. Infantry"
+
+		type = infantry
+		home = 2028
+	}
+	regiment = {
+		name = "12. Cavalry"
+
+		type = cavalry
+		home = 1982
+	}
+	regiment = {
+		name = "5. Artillery"
+
+		type = artillery
+		home = 1978
+	}
+}
+
+army = {
+	name = "11. Army"
+
+	location = 2011
+	regiment = {
+		name = "41. Infantry"
+
+		type = infantry
+		home = 1987
+	}
+	regiment = {
+		name = "42. Infantry"
+
+		type = infantry
+		home = 1841
+	}
+	regiment = {
+		name = "13. Cavalry"
+
+		type = cavalry
+		home = 1932
+	}
+}
+
+army = {
+	name = "12. Army"
+
+	location = 1838
+	regiment = {
+		name = "43. Infantry"
+
+		type = infantry
+		home = 1941
+	}
+	regiment = {
+		name = "44. Infantry"
+
+		type = infantry
+		home = 1874
+	}
+	regiment = {
+		name = "45. Infantry"
+
+		type = infantry
+		home = 790
+	}
+	regiment = {
+		name = "46. Infantry"
+
+		type = infantry
+		home = 2031
+	}
+	regiment = {
+		name = "47. Infantry"
+
+		type = infantry
+		home = 1866
+	}
+	regiment = {
+		name = "14. Cavalry"
+
+		type = cavalry
+		home = 1839
+	}
+	regiment = {
+		name = "15. Cavalry"
+
+		type = cavalry
+		home = 1928
+	}
+}
+
+navy = {
+	name = "1. Fleet"
+
+	location = 1954
+	ship = {
+		name = "HMS Isiwakhani"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Yebumbebontu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Lathumane"
+		type = manowar
+	}
+	ship = {
+		name = "HMS w^Igalonibo"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Hhangalabontu"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Uphubonilandu"
+		type = frigate
+	}
+	ship = {
+		name = "HMS phe^Chagakhubenzelo"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Hambaninini"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Siluwumaga"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Hhawakhalulengala"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "2. Fleet"
+
+	location = 1957
+	ship = {
+		name = "HMS Akhlusala"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Yewakhangala"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Igalungelu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS phe^Ukunantu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS um^Simafalonika"
+		type = manowar
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "3. Fleet"
+
+	location = 1870
+	ship = {
+		name = "HMS Yengangawakhani"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Eigabola"
+		type = manowar
+	}
+	ship = {
+		name = "HMS phe^Igasini"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Ukukhuntu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Akhluthuntu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Lamakululentu"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Eibumbentu"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Unjasifunsala"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Unjasingathu"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Chasafunthula"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "4. Fleet"
+
+	location = 1999
+	ship = {
+		name = "HMS Hambabungala"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Chamawubungani"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Kubusiyinga"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Ubugafunbungala"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Igasanaka"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Chakukhafantu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Hhamasisandu"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "5. Fleet"
+
+	location = 1932
+	ship = {
+		name = "HMS Eininganintu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Emilonilana"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Ukuyikunintu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Sisathukulu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Ubusabungamu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS i^Singagafaka"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Kubufakuthu"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Isiganibenzebo"
+		type = frigate
+	}
+	ship = {
+		name = "HMS i^Hambaluwe"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Ngikhungagani"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "6. Fleet"
+
+	location = 1954
+	ship = {
+		name = "HMS Hambayikungaga"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Igalungekhani"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Sibenzenga"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Sibukhunila"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Igalulebumbengawa"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Sibunikhakhubo"
+		type = frigate
+	}
+	ship = {
+		name = "HMS Unjabumbekulo"
+		type = frigate
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "7. Fleet"
+
+	location = 2030
+	ship = {
+		name = "HMS Eibumbengatu"
+		type = manowar
+	}
+	ship = {
+		name = "HMS ama^Ukuwufangala"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Ngingangala"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Uphumawakhangala"
+		type = manowar
+	}
+	ship = {
+		name = "HMS Ngibunganga"
+		type = manowar
+	}
+	ship = {
+		name = "1. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Transport Flotilla"
+		type = clipper_transport
+	}
+}

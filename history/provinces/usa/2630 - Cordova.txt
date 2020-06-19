@@ -1,0 +1,10 @@
+trade_goods = iron
+life_rating = 35
+owner = ROS
+controller = ROS
+add_core = NYL
+add_core = HAK
+add_core = ROS
+add_core = YDQ
+naval_base = 1
+naval_base = 1
