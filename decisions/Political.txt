@@ -884,18 +884,9 @@ political_decisions = {
         ai_will_do = {
             factor = 1
             modifier = { factor = 0 has_country_modifier = totalitarian_system }
-            modifier = { factor = 0 NOT = { year = 1850 } }
-            modifier = { factor = 0 NOT = { state_n_government = 1 } }
+            #modifier = { factor = 0 NOT = { year = 1850 } }
+            modifier = { factor = 0 NOT = { ideological_thought = 1 } }
             modifier = { factor = 0 has_country_flag = ghost_country }
-            modifier = {
-                factor = 0
-                OR = {
-                    tag = USA
-                    tag = AST
-                    tag = NZL
-                    tag = CAN
-                }
-            }
         }
     }
 

@@ -1,0 +1,243 @@
+political_decisions = {
+
+    organize_colonial_armies = {
+        picture = begin_line_of_advantage
+        potential = {
+            OR = {
+                has_country_flag = government_decisions_on
+                ai = yes
+            }
+            civilized = yes
+            colonial_nation = yes
+            any_owned_province = { is_colonial = yes is_overseas = yes }
+            NOT = { has_country_flag = colonial_armies }
+        }
+
+        allow = {
+            naval_logistics = 1
+            invention = bell_n_greys_telephones
+            money = 11000
+        }
+
+        effect = {
+            set_country_flag = colonial_armies
+            treasury = -10000
+        }
+        ai_will_do = {  factor = 1 }
+    }
+
+    commission_warship = {
+        picture = ironclad_commissions
+        potential = {
+            any_owned_province = { has_building = naval_base }
+            NOT = { iron_steamers = 1 }
+            OR = {
+                any_greater_power = { invention = ironclads raider_group_doctrine = 1 }
+                any_neighbor_country = { invention = ironclads raider_group_doctrine = 1 }
+                sphere_owner = { invention = ironclads raider_group_doctrine = 1 }
+                overlord = { invention = ironclads raider_group_doctrine = 1 }
+            }
+            NOT = { has_country_flag = lacking_writing_system }
+            NOT = { has_country_flag = warship_commissioned }
+        }
+
+        allow = {
+            money = 51000
+            NOT = { is_disarmed = yes }
+            NOT = { has_country_modifier = warship_commissioned }
+            any_owned_province = { has_building = naval_base is_core = THIS }
+            war = no
+            flintlock_rifles = 1
+            post_nelsonian_thought = 1
+            OR = {
+                ai = no
+                NOT = { total_amount_of_ships = 3 }
+                AND = {
+                    num_of_ports = 3
+                    NOT = { check_variable = { which = ironclad_commision value = 1 } }
+                }
+                AND = {
+                    num_of_ports = 6
+                    NOT = { check_variable = { which = ironclad_commision value = 3 } }
+                }
+                AND = {
+                    num_of_ports = 12
+                    NOT = { check_variable = { which = ironclad_commision value = 6 } }
+                }
+                AND = {
+                    num_of_ports = 18
+                    NOT = { check_variable = { which = ironclad_commision value = 9 } }
+                }
+                AND = {
+                    num_of_ports = 24
+                    NOT = { check_variable = { which = ironclad_commision value = 12 } }
+                }
+                AND = {
+                    num_of_ports = 30
+                    NOT = { check_variable = { which = ironclad_commision value = 15 } }
+                }
+            }
+        }
+
+        effect = {
+            random_owned = { limit = { owner = { NOT = { has_global_flag = warship_commissioned } } } set_global_flag = warship_commissioned }
+            set_country_flag = warship_commissioned
+            treasury = -50000
+            any_country = { limit = { exists = no has_country_flag = warship_commissioned } clr_country_flag = warship_commissioned }
+            random_owned = { limit = { owner = { NOT = { has_country_flag = warship_variable } } } owner = { set_country_flag = warship_variable } }
+            random_owned = {
+                limit = { owner = { NOT = { has_country_flag = warship_variable } } }
+                owner = { set_variable = { which = ironclad_commision value = 0 } }
+            }
+            random_owned = {
+                limit = { owner = { has_country_flag = warship_variable NOT = { total_amount_of_ships = 1 } } }
+                owner = { set_variable = { which = ironclad_commision value = 0 } }
+            }
+        }
+
+        ai_will_do = {
+            factor = 1
+
+            #modifier = { factor = 0 NOT = { number_of_states = 6 } colonial_nation = no }
+        }
+    }
+
+    take_on_warship_commission = {
+        picture = ironclad_commissions
+        potential = {
+            any_owned_province = { has_building = naval_base }
+            OR = {
+                has_global_flag = warship_commissioned
+                any_neighbor_country = { has_country_flag = warship_commissioned }
+            }
+            invention = ironclads
+            raider_group_doctrine = 1
+            NOT = { has_global_flag = warship_commission_being_fulfilled }
+        }
+
+        allow = {
+            war = no
+            is_vassal = no
+            OR = {
+                AND = {
+                    ai = no
+                    steamer_convoy = 45
+                    artillery = 10
+                    canned_food = 10
+                }
+                ai = yes
+            }
+            NOT = {
+                has_country_modifier = warship_commissioned
+                is_disarmed = yes
+                check_variable = { which = owed_steamers value = 1 }
+                check_variable = { which = owed_artillery value = 1 }
+                check_variable = { which = owed_canned_food value = 1 }
+            }
+        }
+
+        effect = {
+            clr_global_flag = warship_commissioned
+            set_global_flag = warship_commission_being_fulfilled
+            any_country = { limit = { exists = yes has_country_flag = warship_commissioned } set_global_flag = warship_commissioned }
+            add_country_modifier = { name = warship_commissioned duration = 1095 }
+            random_owned = {
+                limit = { owner = { ai = no } }
+                owner = {
+                    steamer_convoy = -45
+                    artillery = -10
+                    canned_food = -10
+                }
+            }
+            random_owned = {
+                limit = { owner = { ai = yes } }
+                owner = {
+                    set_variable = { which = owed_steamers value = 45 }
+                    set_variable = { which = owed_artillery value = 10 }
+                    set_variable = { which = owed_canned_food value = 10 }
+                }
+            }
+            treasury = 50000
+            random_country = {
+                limit = { has_country_flag = warship_commissioned exists = yes }
+                clr_country_flag = warship_commissioned
+                relation = { who = THIS value = 5 }
+                country_event = 6016812
+            }
+        }
+        ai_will_do = {
+            factor = 1
+
+            modifier = { factor = 0 NOT = { month = 6 } }
+        }
+    }
+
+    colonial_legacy = {
+        picture = begin_line_of_advantage
+        potential = {
+            civilized = no
+            tech_school = developing_tech_school
+        }
+
+        allow = {
+            war = no
+            NOT = { has_country_modifier = colony_to_be_annexed }
+            OR = {
+                AND = {
+                    literacy = 0.2
+                    civilization_progress = 0.5
+                }
+                literacy = 0.75
+            }
+        }
+
+        effect = {
+            civilized = yes
+            clr_country_flag = lacking_writing_system
+            remove_country_modifier = lacks_writing_system
+            random_owned = { limit = { owner = { ai = yes } } owner = { add_country_modifier = { name = law_changed_by_force duration = 3 } } }
+            random_owned = {
+                limit = { owner = { has_country_flag = activate_experimental_railroad } NOT = { experimental_railroad = 1 } }
+                owner = { activate_technology = experimental_railroad  clr_country_flag = activate_experimental_railroad }
+            }
+            random_list = {
+                34 = { add_country_modifier = { name = global_baby_boom duration = 3650 } }
+                33 = { add_country_modifier = { name = global_baby_boom duration = 3285 } }
+                33 = { add_country_modifier = { name = global_baby_boom duration = 4015 } }
+            }
+            remove_country_modifier = assegai
+            remove_country_modifier = educational_reform
+            remove_country_modifier = military_reform
+            remove_country_modifier = western_influences
+            remove_country_modifier = uncivilized_isolationism
+            remove_country_modifier = trade_restrictions
+            remove_country_modifier = sayings_of_the_dutch
+            remove_country_modifier = rangaku
+            random_owned = {
+                limit = { owner = { has_country_modifier = european_military_mission } }
+                owner = { remove_country_modifier = european_military_mission }
+            }
+            random_owned = {
+                limit = { owner = { has_country_modifier = western_presence_research } }
+                owner = { remove_country_modifier = western_presence_research }
+            }
+            random_owned = {
+                limit = { owner = { has_country_modifier = legation_quarter } }
+                owner = { remove_country_modifier = legation_quarter }
+            }
+            any_owned = {
+                remove_province_modifier = western_presence
+                remove_province_modifier = foreign_smugglers
+                remove_province_modifier = foreign_trading_post
+                remove_province_modifier = local_opium_habit
+                remove_province_modifier = kettler_denkmal
+                remove_province_modifier = extraterritoriality_granted
+                remove_province_modifier = boxer_presence
+                remove_province_modifier = boxer_agitation
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+}

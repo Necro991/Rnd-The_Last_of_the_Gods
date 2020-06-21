@@ -107,7 +107,7 @@ country_migration_target = {
     }
 
     modifier = {
-        factor = 4.0
+        factor = 3.0
         number_of_states = 2
         OR = {
             government = democracy
@@ -117,7 +117,7 @@ country_migration_target = {
     }
 
     modifier = {
-        factor = 3.7
+        factor = 2.7
         NOT = { total_pops = 500000 }
         NOT = { number_of_states = 2 }
         OR = {

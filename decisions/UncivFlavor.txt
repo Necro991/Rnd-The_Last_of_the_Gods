@@ -1,0 +1,164 @@
+political_decisions = {
+
+    establish_writing_system = {
+        picture = become_hausaland
+        potential = {
+            OR = {
+                has_country_modifier = lacks_writing_system
+                has_country_flag = lacking_writing_system
+            }
+        }
+
+        allow = {
+            war = no
+            OR = {
+                has_country_modifier = western_influences
+                has_country_modifier = western_presence
+                civilized = yes
+            }
+            NOT = { has_country_modifier = uncivilized_isolationism }
+            OR = {
+                literacy = 0.04
+                civilization_progress = 0.4
+                has_country_modifier = educational_reform
+                civilized = yes
+                AND = {
+                    literacy = 0.03
+                    has_country_modifier = military_reform
+                }
+            }
+        }
+
+        effect = {
+            research_points = -2000
+            random_owned = { limit = { owner = { ai = yes } } owner = { research_points = -6000 } }
+            clr_country_flag = lacking_writing_system
+            remove_country_modifier = lacks_writing_system
+        }
+        ai_will_do = { factor = 1 }
+    }
+
+    request_missionaries = {
+        picture = request_missionaries
+        potential = {
+            NOT = { has_country_flag = asked_for_protection }
+            NOT = { has_country_modifier = missionary_activity }
+            civilized = no
+            OR = {
+                any_owned_province = { has_building = naval_base }
+                any_owned_province = { any_neighbor_province = { owner = { civilized = yes } } }
+            }
+            NOT = { has_country_modifier = law_changed_by_force }
+        }
+
+        allow = {
+            war = no
+            prestige = 5
+            NOT = { has_country_modifier = uncivilized_isolationism }
+            any_greater_power = { invention = mission_to_civilize }
+            OR = {
+                ai = no
+                upper_house = { ideology = liberal value = 0.35 }
+                secularized = 20
+                AND = {
+                    religious_policy = pluralism
+                    pluralism = 30
+                }
+            }
+            #is_vassal = no
+        }
+
+        effect = {
+            add_country_modifier = { name = law_changed_by_force duration = 1825 }
+            prestige = -5
+            any_pop = {
+                limit = { is_state_religion = yes }
+                scaled_consciousness = { factor = 2 issue = moralism }
+                scaled_militancy = { factor = 1 issue = moralism }
+            }
+
+            random_owned = {
+                limit = {
+                    owner = {
+                        part_of_sphere = no
+                        OR = {
+                            NOT = { has_country_flag = lacking_writing_system }
+                            has_country_flag = changed_religion
+                        }
+                    }
+                }
+                owner = { add_country_modifier = { name = missionary_activity duration = 1825 } }
+            }
+
+            random_owned = {
+                limit = {
+                    owner = {
+                        part_of_sphere = no
+                        has_country_flag = animist_country
+                        NOT = { has_country_flag = changed_religion }
+                    }
+                }
+                owner = { country_event = 90960 }
+            }
+        }
+
+        ai_will_do = {
+            factor = 1
+            modifier = { factor = 0 average_militancy = 4 }
+        }
+    }
+
+    conscript_fishermen = {
+        picture = dreams_of_empire
+        potential = {
+            civilized = no
+            civilization_progress = 0.2
+            NOT = {
+                has_country_flag = lacking_writing_system
+                any_owned_province = { has_building = naval_base }
+            }
+            flintlock_rifles = 1
+            total_num_of_ports = 1
+        }
+
+        allow = {
+            war = yes
+            money = 10000
+            NOT = { has_country_modifier = law_changed_by_force }
+            NOT = { total_amount_of_ships  = 5 }
+        }
+
+        effect = {
+            add_country_modifier = { name = law_changed_by_force duration = 3650 }
+            prestige = -5
+            treasury = -10000
+            any_owned = {
+                limit = { port = yes }
+                random = {
+                    chance = 75
+                    sub_unit = {
+                        type = frigate
+                        value = current
+                    }
+                }
+                random = {
+                    chance = 5
+                    sub_unit = {
+                        type = manowar
+                        value = current
+                    }
+                }
+                any_pop = { militancy = 1 }
+            }
+            random_owned = {
+                limit = {
+                    owner = { flintlock_rifles = 1 }
+                }
+                owner = { activate_technology = flintlock_rifles }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+}
